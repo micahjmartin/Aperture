@@ -208,6 +208,8 @@ def getValues(fid, basepath):
 
     vals["id"] = fid
     vals["topics_string"] = " ".join(vals["topics"] + vals["tags"]).lower()
+    if not vals.get("url", ""):
+        vals["url"] = "https://github.com/"+vals["fullname"]
     return vals
 
 # I know this command calls a lot of the same functions many times over, but I dont care, it works, its a build script.

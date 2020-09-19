@@ -13,6 +13,11 @@ let helpMsg = `<div class="gh_name">Searching</div>
   Modifiers:
   <ul>
     <li>
+      <div class="gh_hearts">EVERY:</div>
+      <p>Show every repository.
+      </p>
+    </li>
+    <li>
       <div class="gh_hearts">ALL:</div>
       <p>By default a repository matches if ANY of the words in the search term match text.
          This modifer requires all search terms to match the repository text.
@@ -40,9 +45,12 @@ let helpMsg = `<div class="gh_name">Searching</div>
 <p>
 Find all the golang projects:
 <div class="gh_hearts">WORD: FIELDS language: go</div>
-<div></div>
+<br>
 Find python projects involving redteam:
 <div class="gh_hearts">ALL: python red team</div>
+<br>
+List every repository
+<div class="gh_hearts">EVERY: </div>
 </p>`
 
 const helpTemplate = `<div class="listItem">
@@ -83,10 +91,10 @@ function makeItemResult(item) {
     }
     return `<li><div class="listItem">
                 <div class="group header clickable">
-                <div><a class="gh_name" onclick="window.show("https://github.com/"${item.full_name})">${item.full_name}</a></div>
+                <div><a id="result_${item.id}" onclick="window.open('${item.url}')"  class="gh_name">${item.full_name} </a></div>
                 <div class="gh_hearts">${item.language}</div>
                 </div>
-                <div class="group body  clickable">
+                <div class="group body  clickable" onclick="window.open('${item.url}')">
                 <div class="gh_description">${text}</div>
                 </div>
                 <div class="group tags">${tags}</div>

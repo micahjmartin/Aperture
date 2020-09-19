@@ -1,5 +1,7 @@
 var helpMenuActive = true
 resultsUl = document.getElementById("results");
+resultsCounter = document.getElementById("resultCounter");
+resultsCounter.innerHTML = `0/${documents.length} shown`
 
 AddResult(helpTemplate)
 
@@ -7,11 +9,14 @@ function ClearResults() {
     while (resultsUl.firstChild) {
         resultsUl.removeChild(resultsUl.firstChild);
     }
+    resultsCounter.innerHTML = `0/${documents.length} shown`
+
 }
 
 function AddResult(result) {
     resultsUl.innerHTML += result
 }
+
 
 
 // Call back for searching. Gets called everytime the input bar changes
@@ -45,9 +50,9 @@ function OnSearch() {
 
     for (i = 0; i < results.length; i++) {
         item = documents[results[i].id];
-        console.log(item)
         AddResult(makeItemResult(item))
     }
+    resultsCounter.innerHTML = `${results.length}/${documents.length} shown`
 }
 
 // The fields that we are allowed to search in
@@ -67,6 +72,8 @@ function search(qry) {
     if (terms.length > 1) {
         for (i = 0; i < terms.length; i++) {
             switch (terms[i].split(" ")[0]) {
+                case "EVERY":
+                    return documents
                 case "ALL":
                     options.combineWith = "AND"
                     break
