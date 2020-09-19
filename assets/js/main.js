@@ -45,14 +45,14 @@ function OnSearch() {
 
     for (i = 0; i < results.length; i++) {
         item = documents[results[i].id];
+        console.log(item)
         AddResult(makeItemResult(item))
     }
 }
 
-
 // The fields that we are allowed to search in
-const searchFieldsDefault = ['description', 'name', "owner", 'topics_string', "language"]
-const searchFieldsAll = ['description', 'name', "owner", 'topics_string', "language", "readme"]
+const searchFieldsDefault = ['description', 'name', "owner", 'topics_string', "language", "writeup"]
+const searchFieldsAll = ['description', 'name', "owner", 'topics_string', "language", "writeup", "readme"]
 const searchFieldsAlias = {
     "topics": "topics_string",
 }
@@ -93,6 +93,9 @@ function search(qry) {
                     }
                     break
                 default:
+                    if (terms[i].split(" ")[0] == "" ) {
+                        break
+                    }
                     throw new SyntaxError(`Invlid modifier: ${terms[i].split(" ")[0]}:`)
             }
         }

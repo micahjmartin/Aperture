@@ -73,13 +73,21 @@ function makeItemResult(item) {
     for (i = 0; i < item.topics.length; i++) {
         tags += newTag(item.topics[i])
     }
+    for (i = 0; i < item.tags.length; i++) {
+      tags += newTag(item.tags[i])
+    }
+
+    text = item.description
+    if (text == "" || item.ignoredescription) {
+        text = item.writeup
+    }
     return `<li><div class="listItem">
                 <div class="group header clickable">
                 <div><a class="gh_name" onclick="window.show("https://github.com/"${item.full_name})">${item.full_name}</a></div>
                 <div class="gh_hearts">${item.language}</div>
                 </div>
                 <div class="group body  clickable">
-                <div class="gh_description">${item.description}</div>
+                <div class="gh_description">${text}</div>
                 </div>
                 <div class="group tags">${tags}</div>
             </div></li>`

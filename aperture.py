@@ -34,8 +34,7 @@ def GithubGet(url):
     
     return r.json()
 
-"""subs = data.split("\n```")
-        subs = " ".join([" ".join(s.strip().split()) for s in subs[::2]])
+"""
         return subs"""
 
 def GetReadme(url):
@@ -155,6 +154,83 @@ def SubCommandScrape():
     repo = sys.argv[2]
     ScrapeFile(os.path.join(BASEPATH, repo, "repo.yaml"))
 
+def getValues(fid, basepath):
+    vals = {
+        "tags": [],
+        "owner": "",
+        'description': "",
+        'name': "",
+        'topics_string': "",
+        "language": "",
+        "readme": "",
+        "topics": [],
+        "writeup": "",
+        "ignoredescription": False,
+        "id": 0,
+        "full_name": "",
+        "url": "",
+    }
+    try:
+        with open(os.path.join(basepath, "info.json")) as fil:
+            data = json.load(fil)
+        
+        for key in vals.keys():
+            v = data.get(key, None)
+            if v:
+                vals[key] = v
+        vals['owner'] = data.get("owner", {}).get("login")
+    except Exception as e:
+        print("Error processing info from", basepath, e)
+
+    try:
+        with open(os.path.join(basepath, "README.md")) as fil:
+            data = fil.read()
+            # Remove code blocks from the file
+            subs = data.split("\n```")
+            vals["readme"] = " ".join([" ".join(s.strip().split()) for s in subs[::2]])
+    except Exception as e:
+        print("Error processing readme from", basepath, e)
+        
+    try:
+        with open(os.path.join(basepath, "repo.yaml")) as fil:
+            data = yaml.safe_load(fil)
+            for key in vals.keys():
+                if key == "name":
+                    if vals["full_name"]:
+                        continue
+                    vals["full_name"] = data[key]
+                v = data.get(key, None)
+                if v:
+                    vals[key] = v
+    except Exception as E:
+        print(E)
+        pass
+
+    vals["id"] = fid
+    vals["topics_string"] = " ".join(vals["topics"] + vals["tags"]).lower()
+    return vals
+
+# I know this command calls a lot of the same functions many times over, but I dont care, it works, its a build script.
+def SubCommandBuild():
+    ofil = open(os.path.join(BASEPATH, "../assets/js/documents.js"), "w")
+    ofil.write("const documents = [")
+    
+    file_id = 0
+    for root, dirs, files in os.walk(BASEPATH, topdown=False):
+        for name in files:
+            if name == "repo.yaml":
+                try:
+                    ScrapeFile(os.path.join(root, name))
+                except ValueError:
+                    pass
+
+                data = getValues(file_id, root)
+                json.dump(data, ofil)
+                ofil.write(",\n")
+                file_id += 1
+    ofil.write("]\n")
+    print("[+] Wrote", file_id, "repos to documents.js")
+
 BASEPATH = ""
 def main():
     if len(sys.argv) < 2:
@@ -171,7 +247,8 @@ def main():
     
     commands = {
         "init": SubCommandInit,
-        "scrape": SubCommandScrape
+        "scrape": SubCommandScrape,
+        "build": SubCommandBuild
     }
 
     fn = commands.get(sys.argv[1])
