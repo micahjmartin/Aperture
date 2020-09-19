@@ -1,0 +1,6 @@
+ignoredescription: false
+name: moonD4rk/HackBrowserData
+scrape: true
+tags: []
+url: https://github.com/moonD4rk/HackBrowserData
+writeup: 'hack-browser-data is an open-source tool that could help you decrypt data[passwords|bookmarks|cookies|history] from the browser. It supports the most popular browsers on the market and runs on Windows, macOS and Linux.

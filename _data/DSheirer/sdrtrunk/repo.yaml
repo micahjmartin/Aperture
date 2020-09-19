@@ -1,0 +1,8 @@
+ignoredescription: false
+name: DSheirer/sdrtrunk
+scrape: true
+tags:
+ - sdr
+ - p25
+url: https://github.com/DSheirer/sdrtrunk
+writeup: ''

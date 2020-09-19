@@ -1,0 +1,6 @@
+ignoredescription: false
+name: bbc/wraith
+scrape: true
+tags: []
+url: https://github.com/bbc/wraith
+writeup: Wraith uses a headless browser to create screenshots of webpages on different environments (or at different moments in time) and then creates a diff of the two images; the affected areas are highlighted in blue.

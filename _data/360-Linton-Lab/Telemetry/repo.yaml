@@ -1,0 +1,10 @@
+ignoredescription: false
+name: 360-Linton-Lab/Telemetry
+scrape: true
+tags:
+ - windows
+ - redteam
+ - offensive
+ - Telemetry
+url: https://github.com/360-Linton-Lab/Telemetry
+writeup: ''

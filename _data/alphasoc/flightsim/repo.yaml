@@ -1,0 +1,9 @@
+ignoredescription: false
+name: alphasoc/flightsim
+scrape: true
+tags:
+ - traffic-generator
+ - generation
+ 
+url: https://github.com/alphasoc/flightsim
+writeup: flightsim is a lightweight utility used to generate malicious network traffic and help security teams to evaluate security controls and network visibility. The tool performs tests to simulate DNS tunneling, DGA traffic, requests to known active C2 destinations, and other suspicious traffic patterns.
