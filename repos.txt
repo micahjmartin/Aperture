@@ -1,9 +1,0 @@
-firstlookmedia/dangerzone
-micahjmartin/detcord tidwall/jj tidwall/tile38 ashemery/exploitation-course seanfisher/codenames
-moul/cryptoguess
-s0lst1c3/dropengine
-1d8/spybrowse
-moul/quicssh
-rek7/madlib
-datalogistics/wildfire-dln
-techiesms/Geolocation

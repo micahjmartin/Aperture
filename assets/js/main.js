@@ -1,117 +1,100 @@
+var helpMenuActive = true
+resultsUl = document.getElementById("results");
 
+AddResult(helpTemplate)
 
-var listDiv =`<div class="listItem">
-<div class="group header  clickable">
-  <div><a class="gh_name ">tidwall/json</a></div><div class="gh_hearts"><span class="glyphicon glyphicon-circle" aria-hidden="true"></span> </div>
-</div>
-<div class="group body  clickable">
-  <div class="gh_description">JSON Stream editor</div>
-</div>
-<div class="group tags"></div>
-</div>`
-
-
-const tag_colors_options = ["yellow", "red", "blue", "aqua", "green", "purple", "pink"]
-var tag_colors = {} // Keep track of tag colors so they dont change once assigned
-
-function makeClickable(item, href) {
-    item.addEventListener("click", function(){window.open(href)})
-}
-
-function newTag(tag) {
-    var color
-    color = tag_colors[tag]
-    if (color == null) {
-        color = tag_colors_options[Math.floor(tag_colors_options.length * Math.random())]
-        tag_colors[tag] = color
-    }
-    return `<div class="tag" style="border-color: ` +color+`">`+tag+`</div>`
-}
-
-function languageTag(language) {
-    var color = language_colors[language]
-    return `<div class="tag" style="color: white; border-color: ` +color+`">`+language+`</div>`
-}
-
-function makeResult(item) {
-    // <li><a href="#">Adele</a></li>
-    var item, a, li;
-    li = document.createElement("li");
-    li.innerHTML = listDiv
-    a = li.getElementsByClassName("gh_name")[0]
-    a.innerHTML = item.full_name
-    makeClickable(a, "https://github.com/" + item.full_name)
-
-    a = li.getElementsByClassName("gh_description")[0]
-    a.innerHTML = item.description
-    makeClickable(a, "https://github.com/" + item.full_name)
-
-    a = li.getElementsByClassName("gh_hearts")[0]
-    a.innerHTML = item.language
-    a = li.getElementsByClassName("group tags")[0]
-    for (i = 0; i < item.topics.length; i++) {
-        a.innerHTML += newTag(item.topics[i])
-    }
-    
-    return li;
-}
-
-function OnSearch() {
-    // Declare variables
-    var input, a, i, results, resultsUl;
-    input = document.getElementById('search').value;
-    results = search(input)
-    resultsUl = document.getElementById("results");
-
+function ClearResults() {
     while (resultsUl.firstChild) {
         resultsUl.removeChild(resultsUl.firstChild);
     }
+}
 
+function AddResult(result) {
+    resultsUl.innerHTML += result
+}
+
+
+// Call back for searching. Gets called everytime the input bar changes
+function OnSearch() {
+    // Declare variables
+    helpMenuActive = false
+    var input, i, results, resultsUl;
+    input = document.getElementById('search').value;
+    ClearResults()
+    if (input != "") {
+        try {
+            results = search(input)
+        } catch (e) {
+            console.error(e.name + ': ' + e.message)
+            AddResult(errorResult(e))
+            return
+        }
+    } else {
+        results = []
+    }
+    
     if (results.length == 0) {
-        resultsUl.innerHTML += noResultsTemplate
+        if (input == "") {
+            AddResult(helpTemplate)
+            helpMenuActive = true
+            return
+        }
+        AddResult(noResultsTemplate)
         return
     }
 
     for (i = 0; i < results.length; i++) {
         item = documents[results[i].id];
-        a = makeResult(item)
-        resultsUl.appendChild(a)
+        AddResult(makeItemResult(item))
     }
 }
 
-const searchFieldsAll = ['description', 'fullname', 'readme', 'topics_string', "language"]
-const searchFieldsDefault = ['description', 'fullname', 'topics_string', "language"]
+
+// The fields that we are allowed to search in
+const searchFieldsDefault = ['description', 'name', "owner", 'topics_string', "language"]
+const searchFieldsAll = ['description', 'name', "owner", 'topics_string', "language", "readme"]
+const searchFieldsAlias = {
+    "topics": "topics_string",
+}
+
+// Parse the flags and build an options file
 function search(qry) {
     var options, terms
     options = {
         fields: searchFieldsDefault
     }
     terms = qry.split(":")
-    for (i = 0; i < terms.length; i++) {
-        switch (terms[i].split(" ")[0]) {
-            case "ALL":
-                options.combineWith = "AND"
-                break
-            case "WORD":
-                options.prefix = false
-                break
-            case "README":
-                options.fields.push("readme")
-                break
-            case "HELP":
-                return []
-            case "FIELDS":
-                options.fields = terms[i].split(" ").slice(1)
-                for (j = 0; j < options.fields.length; j++) {
-                    if (searchFields.includes(options.fields[j])) {
-                        continue
-                    } else {
-                        console.log("Invalid search field", options.fields[i])
-                        return
+    if (terms.length > 1) {
+        for (i = 0; i < terms.length; i++) {
+            switch (terms[i].split(" ")[0]) {
+                case "ALL":
+                    options.combineWith = "AND"
+                    break
+                case "WORD":
+                    options.prefix = false
+                    break
+                case "README":
+                    options.fields.push("readme")
+                    break
+                case "FIELDS":
+                    var _fields = terms[i].split(" ").slice(1)
+                    options.fields = []
+                    for (j = 0; j < _fields.length; j++) {
+                        if (searchFieldsAll.includes(_fields[j])) {
+                            options.fields.push(_fields[i])
+                            continue
+                        } else {
+                            if (searchFieldsAlias[_fields[i]] != undefined) {
+                                options.fields.push(searchFieldsAlias[_fields[i]])
+                                continue
+                            }
+                            throw new SyntaxError("Invalid search field: " + options.fields[i])
+                        }
                     }
-                }
-            default:
-                break
+                    break
+                default:
+                    throw new SyntaxError(`Invlid modifier: ${terms[i].split(" ")[0]}:`)
+            }
         }
     }
     console.log("Search with:", terms[terms.length-1], options)
@@ -123,7 +106,7 @@ function search(qry) {
 
 let miniSearch = new MiniSearch({
     fields: searchFieldsAll, // fields to index for full-text search
-    storeFields: ['id', 'fullname'],
+    //storeFields: ['id', 'fullname'],
     searchOptions: {
         prefix: true,
         boost: {description: 10}

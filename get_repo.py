@@ -9,8 +9,8 @@ headers = {
     "Accept":"application/vnd.github.v3+json, application/vnd.github.mercy-preview+json"
 }
 
-outfile = "data/results.jsonl"
-outfile2 = "data/repos.txt"
+outfile = "_data/results.jsonl"
+outfile2 = "_data/repos.txt"
 
 exists = set()
 if os.path.exists(outfile2):

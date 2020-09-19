@@ -1,4 +1,4 @@
-let helpMsg = `<dev class="gh_name">Searching</dev>
+let helpMsg = `<div class="gh_name">Searching</div>
 <p>Github repository text is indexed on the following pieces of information:
   <ul>
     <li>The repository name</li>
@@ -29,8 +29,20 @@ let helpMsg = `<dev class="gh_name">Searching</dev>
       <p>Include the contents of the README in the search.
       </p>
     </li>
+    <li>
+      <div class="gh_hearts">FIELDS [field]...:</div>
+      <p>Only search within the given fields. The possible options for fields are 'description', 'name', 'owner', 'topics', 'language', 'readme'
+      </p>
+    </li>
   </ul>
-  
+</p>
+<div class="gh_hearts">Examples</div>
+<p>
+Find all the golang projects:
+<div class="gh_hearts">WORD: FIELDS language: go</div>
+<div></div>
+Find python projects involving redteam:
+<div class="gh_hearts">ALL: python red team</div>
 </p>`
 
 const helpTemplate = `<div class="listItem">
@@ -52,9 +64,46 @@ const noResultsTemplate = `<li>
 <div class="listItem">
   <div class="gh_hearts group body"><div class="gh_name">No results found.</div><div></div></div>
 </div>
-</li>
-<li>
-<div class="listItem">
-  <div class="gh_hearts group body">${helpMsg}</div>
-</div>
 </li>`
+
+
+// Render the result field for an item
+function makeItemResult(item) {
+    var tags = ""
+    for (i = 0; i < item.topics.length; i++) {
+        tags += newTag(item.topics[i])
+    }
+    return `<li><div class="listItem">
+                <div class="group header clickable">
+                <div><a class="gh_name" onclick="window.show("https://github.com/"${item.full_name})">${item.full_name}</a></div>
+                <div class="gh_hearts">${item.language}</div>
+                </div>
+                <div class="group body  clickable">
+                <div class="gh_description">${item.description}</div>
+                </div>
+                <div class="group tags">${tags}</div>
+            </div></li>`
+}
+
+
+const tag_colors_options = ["yellow", "red", "blue", "aqua", "green", "purple", "pink"]
+var tag_colors = {} // Keep track of tag colors so they dont change once assigned
+
+// Return a new tag structure
+function newTag(tag) {
+    var color
+    color = tag_colors[tag]
+    if (color == null) {
+        color = tag_colors_options[Math.floor(tag_colors_options.length * Math.random())]
+        tag_colors[tag] = color
+    }
+    return `<div class="tag" style="border-color: ${color}">${tag}</div>`
+}
+
+function errorResult(err) {
+    return `<li>
+    <div class="listItem">
+      <div class="gh_hearts group body"><div class="gh_name">${err.name}</div><div>${err.message}</div><div></div></div>
+    </div>
+    </li>`
+}
