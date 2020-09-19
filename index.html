@@ -2,12 +2,11 @@
 <html lang="en">
   <head>
     <meta charset="utf-8">
-    <title>title</title>
+    <title>Aperture</title>
     <link rel="stylesheet" href="assets/css/main.css">
-    <link href="https://fonts.googleapis.com/css?family=Poppins" rel="stylesheet" />
     <link href="https://fonts.googleapis.com/css2?family=Nixie+One&display=swap" rel="stylesheet">
     <link href="https://fonts.googleapis.com/css2?family=Work+Sans:ital,wght@0,200;0,300;1,100&display=swap" rel="stylesheet">
-    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.0.0/css/bootstrap-glyphicons.css">
+
   </head>
   <body>
     <div class="h_center">
@@ -16,21 +15,60 @@
         <label class="subtitle">a window to ingenuity</label>
       </div>
 
+
       <div class="v_item" style="margin-top: 10%;">
-        <input id="search" type="text" placeholder="Enter Keywords?" onchange="updateSuggestions()"/>
+        <input id="search" type="text" placeholder="Enter keywords to search" onchange="OnSearch()" onindput="OnSearch()"/>
       </div>        
       <div class="v_item">
         <ul id="results">
-          <li>
-            <div class="listItem">
-              <div class="group header">
-                <div><a class="gh_name">tidwall/json</a></div><div><span class="glyphicon glyphicon-heart" aria-hidden="true"></span> 5</div>
-              </div>
-              <div class="group body">
-                <div class="gh_description">JSON Stream editor</div><div class="tag">topics</div>
+          
+          <div class="listItem">
+            <div class="group header clickable">
+              <div onclick=window.open("https://github.com/micahjmartin/aperture")><a class="gh_name">micahjmartin/aperture</a></div><div class="gh_hearts"></div>
+            </div>
+            <div class="group body  clickable">
+              <div class="gh_description">
+                <p>Aperture provides a simple tool for managing and searching Github repositories. Instead of searching all of Github, however,
+                Aperture only looks at repositories that you load. A best case scenario for this tool is managing starred repositories.</p>
+
+                <dev class="gh_name">Searching</dev>
+                <p>Github repository text is indexed on the following pieces of information:
+                  <ul>
+                    <li>The repository name</li>
+                    <li>The repository description</li>
+                    <li>Topics assigned to the repository</li>
+                    <li>Any custom data added at load time</li>
+                    <li>The README file (optional)</li>
+                  </ul>
+                </p>
+                <p>A few search modifiers are provided. To use a search modifier, simply prepend the modifer to the query.
+
+                  Modifiers:
+                  <ul>
+                    <li>
+                      <div class="gh_hearts">ALL:</div>
+                      <p>By default a repository matches if ANY of the words in the search term match text.
+                         This modifer requires all search terms to match the repository text.
+                      </p>
+                    </li>
+                    <li>
+                      <div class="gh_hearts">WORD:</div>
+                      <p>By default words can partially match off the beginning.
+                         This modifer requires all search terms to exactly match a word.
+                      </p>
+                    </li>
+                    <li>
+                      <div class="gh_hearts">README:</div>
+                      <p>Include the contents of the README in the search.
+                      </p>
+                    </li>
+                  </ul>
+                  
+                </p>
               </div>
             </div>
-          </li>
+            <div class="group tags"></div>
+          </div>
         </ul>
       </div>
       </form>
@@ -38,5 +76,7 @@
   </body>
   <script src="https://cdn.jsdelivr.net/npm/minisearch@2.6.0/dist/umd/index.min.js"></script>
   <script src="assets/js/documents.js"></script>
+  <script src="assets/js/colors.js"></script>
+  <script src="assets/js/template.js"></script>
   <script src="assets/js/main.js"></script>
 </html>

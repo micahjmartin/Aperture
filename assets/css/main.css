@@ -7,7 +7,7 @@ body {
     color: white;
     font-family: 'Work Sans', sans-serif;
     font-weight: 200;
-    font-size: 2em;
+    font-size: 1em;
 }
 
 
@@ -46,6 +46,7 @@ body {
     color: white;
     font-weight: bold;
     text-decoration: none; /* Remove default text underline */
+    font-family: 'Nixie One', cursive;
 }
 
 .listItem {
@@ -67,6 +68,8 @@ body {
     width: 100%;
     font-family: 'Work Sans', sans-serif;
     text-align: left;
+    margin-top: 12px;
+    margin-bottom: 12px;
 }
 
 .group.header {
@@ -77,36 +80,60 @@ body {
     font-size: 1.5em;
 }
 
-.group div {
+.group.header div {
     float: left;
 }
 
-.group div:last-child {
+.group.header div:last-child {
     float: right;
 }
 
 .tag {
-    font-size: 0.6em;
-    border-color: yellow;
-    color: yellow;
+    font-size: 1em;
+    color: rgb(255, 255, 255);
     padding: 1px 6px;
     border-radius: 5px;
     border-width: 2px;
     border-style: solid;
     font-family: 'Work Sans', sans-serif;
+    float: right;
+    margin-left: 5px;
+    opacity: .8;
+
 }
 
 
 #search {
-    font-size: 16px; /* Increase font-size */
-    padding: 12px 20px 12px 12px; /* Add some padding */
-    border: 1px solid #ddd; /* Add a grey border */
-    margin-bottom: 12px; /* Add some space below the input */
+    font-size: 1em;
+    padding: 12px 20px 12px 12px;
+    border: 1px solid #ddd;
+    margin-bottom: 12px;
     background-color: #f6f6f618;
+    font-family: 'Work Sans', sans-serif;
+
     color: white;
-    /* Force width to 100% */
     width: 100%;
     -webkit-box-sizing: border-box;
     -moz-box-sizing: border-box;
     box-sizing: border-box;
 }
+
+.clickable:hover {
+    cursor: hand;
+    cursor: pointer;
+    opacity: .9;
+ }
+
+ .glyphicon-star {
+     margin-top: 3px;
+ }
+
+ .glyphicon-star:hover {
+     color: gold;
+    transition: color linear;
+ }
+
+
+ .gh_hearts {
+     font-style: italic;
+ }
