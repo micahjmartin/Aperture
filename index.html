@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <title>title</title>
+    <link rel="stylesheet" href="assets/css/main.css">
+    <link href="https://fonts.googleapis.com/css?family=Poppins" rel="stylesheet" />
+    <link href="https://fonts.googleapis.com/css2?family=Nixie+One&display=swap" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css2?family=Work+Sans:ital,wght@0,200;0,300;1,100&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.0.0/css/bootstrap-glyphicons.css">
+  </head>
+  <body>
+    <div class="h_center">
+      <div class="v_item">
+        <label class="title">Aperture</label>
+        <label class="subtitle">a window to ingenuity</label>
+      </div>
+
+      <div class="v_item" style="margin-top: 10%;">
+        <input id="search" type="text" placeholder="Enter Keywords?" onchange="updateSuggestions()"/>
+      </div>        
+      <div class="v_item">
+        <ul id="results">
+          <li>
+            <div class="listItem">
+              <div class="group header">
+                <div><a class="gh_name">tidwall/json</a></div><div><span class="glyphicon glyphicon-heart" aria-hidden="true"></span> 5</div>
+              </div>
+              <div class="group body">
+                <div class="gh_description">JSON Stream editor</div><div class="tag">topics</div>
+              </div>
+            </div>
+          </li>
+        </ul>
+      </div>
+      </form>
+    </div>
+  </body>
+  <script src="https://cdn.jsdelivr.net/npm/minisearch@2.6.0/dist/umd/index.min.js"></script>
+  <script src="assets/js/documents.js"></script>
+  <script src="assets/js/main.js"></script>
+</html>
