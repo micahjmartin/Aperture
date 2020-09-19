@@ -1,0 +1,13 @@
+ignoredescription: true
+name: datalogistics/wildfire-dln
+scrape: true
+tags:
+ - lora
+ - ATAK
+ - atak-civ
+ - image-classification
+url: https://github.com/datalogistics/wildfire-dln
+writeup: > 
+    Wildland Fire Data Logistics Network (WildfireDLN): An Implementation of Resilient Networking
+    WildfireDLN will deliver rich and informative data with a robust system that supports file transfer and access across disconnected, heterogeneous
+    networks to address the needs of wildland firefighting operations for increased network coverage and data portability.
