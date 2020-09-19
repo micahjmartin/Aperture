@@ -1,0 +1,9 @@
+ignoredescription: false
+name: tidwall/jj
+scrape: true
+tags:
+  - commandline
+url: https://github.com/tidwall/jj
+writeup: >
+    A nifty command line tool for querying JSON data. Written in Golang so super easy to set up and use. Runs on an underlying
+    library tidwall/gjson which is useful.

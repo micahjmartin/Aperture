@@ -1,4 +1,6 @@
+#!/usr/bin/env python3
 import requests
+import yaml
 import json
 import copy
 import os
@@ -32,16 +34,17 @@ def GithubGet(url):
     
     return r.json()
 
+"""subs = data.split("\n```")
+        subs = " ".join([" ".join(s.strip().split()) for s in subs[::2]])
+        return subs"""
+
 def GetReadme(url):
     data = GithubGet(url+"/readme")
     if data.get("download_url"):
         r = requests.get(data.get("download_url"))
         if r.status_code != 200:
             return ""
-        data = r.text
-        subs = data.split("\n```")
-        subs = " ".join([" ".join(s.strip().split()) for s in subs[::2]])
-        return subs
+        return r.text
     return ""
 
 
@@ -85,12 +88,99 @@ def save(repo, data):
         fil.write("{} {}\n".format(repo, datetime.datetime.now()))
     print("Saved", repo)
 
+def SubCommandInit():
+    if len(sys.argv) < 3:
+        print("USAGE:", sys.argv[0], "init <user/repository>")
+        quit(1)
+    repo = sys.argv[2]
+    # Make the directories
+    base_path = os.path.join(BASEPATH, repo)
+    os.makedirs(base_path)
+    data = {
+        "name": repo,
+        "url": os.path.join("https://github.com/", repo),
+        "scrape": True,
+        "ignoredescription": False,
+        "tags": [],
+        "writeup": "",
+    }
 
+    fname = os.path.join(base_path, "repo.yaml")
+    with open(fname, "w") as fil:
+        yaml.dump(data, fil)
+        print("Initialized Repository file at '{}'".format(fname))
+    
+    quit(0)
+
+# Scrape a repo configuration file
+def ScrapeFile(repoConfig):
+    if not os.path.exists(repoConfig):
+        raise ValueError("File does not exist: "+repoConfig)
+    with open(repoConfig) as fil:
+        data = yaml.safe_load(fil)
+    repo = data.get("name")
+    if not repo:
+        raise ValueError("Invalid repo file: "+repoConfig+", repository name not specified")
+    scrape = data.get("scrape", False)
+    if not scrape:
+        raise ValueError("Repo file not marked for scraping: "+repoConfig)
+    basepath, _ = os.path.split(repoConfig)    
+    needsReadme = False
+    if not os.path.exists(os.path.join(basepath, "README.md")):
+        needsReadme = True
+    needsRepoDetails = False
+    if not os.path.exists(os.path.join(basepath, "info.json")):
+        needsRepoDetails = True
+    if not needsReadme and not needsRepoDetails:
+        raise ValueError("Repo file does not need scraped: "+ repoConfig)
+    if needsRepoDetails:
+        data = GithubGet("repos/"+repo)
+        with open(os.path.join(basepath, "info.json"), "w") as ofil:
+            if data:
+                json.dump(data, ofil)
+        print("[+] Saved repository information for", repo)
+
+    if needsReadme:
+        data = GetReadme("repos/"+repo)
+        with open(os.path.join(basepath, "README.md"), "w") as ofil:
+            if data:
+                json.dump(data, ofil)
+                print("[+] Saved README for", repo)
+    return
+
+def SubCommandScrape():
+    if len(sys.argv) < 3:
+        print("USAGE:", sys.argv[0], "scrape <user/repository>")
+        quit(1)
+    repo = sys.argv[2]
+    ScrapeFile(os.path.join(BASEPATH, repo, "repo.yaml"))
+
+BASEPATH = ""
 def main():
     if len(sys.argv) < 2:
-        print("USAGE:", sys.argv[0], "[username/repository]....")
+        print("USAGE:", sys.argv[0], "init|scrape|build")
         quit()
+    global BASEPATH
+    if os.path.isdir("_data"):
+        BASEPATH = "_data"
+    if os.path.isdir("../_data"):
+        BASEPATH = "../_data"
+    if not BASEPATH:
+        print("[!] ERROR: aperture.py needs to be run from the aperture directory. Cannot find '_data/'")
+        quit(1)
+    
+    commands = {
+        "init": SubCommandInit,
+        "scrape": SubCommandScrape
+    }
 
+    fn = commands.get(sys.argv[1])
+    if fn:
+        fn()
+        quit(0)
+
+    print("USAGE:", sys.argv[0], "init|scrape|build")
+    quit(1)
     if sys.argv[1].startswith("-c"):
         with open(outfile) as fil:
             lines = fil.readlines()
