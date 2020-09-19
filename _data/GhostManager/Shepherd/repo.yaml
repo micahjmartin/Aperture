@@ -1,0 +1,9 @@
+ignoredescription: false
+name: GhostManager/Shepherd
+scrape: true
+tags:
+ - redteam
+ - dns
+ - infra
+url: https://github.com/GhostManager/Shepherd
+writeup: ''

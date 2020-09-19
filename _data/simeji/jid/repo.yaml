@@ -1,0 +1,14 @@
+ignoredescription: false
+name: simeji/jid
+scrape: true
+tags:
+ - json
+ - cmdline
+url: https://github.com/simeji/jid
+writeup: >
+    Json Incremental Digger
+
+    It's a very simple tool.
+    You can drill down JSON interactively by using filtering queries like jq.
+
+    Suggestion and Auto completion of this tool will provide you a very comfortable JSON drill down.

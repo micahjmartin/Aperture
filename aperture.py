@@ -94,6 +94,10 @@ def SubCommandInit():
     repo = sys.argv[2]
     # Make the directories
     base_path = os.path.join(BASEPATH, repo)
+    if os.path.exists(base_path):
+        print("Path already exists!")
+        return
+    
     os.makedirs(base_path)
     data = {
         "name": repo,
@@ -109,7 +113,7 @@ def SubCommandInit():
         yaml.dump(data, fil)
         print("Initialized Repository file at '{}'".format(fname))
     
-    quit(0)
+    #quit(0)
 
 # Scrape a repo configuration file
 def ScrapeFile(repoConfig):
@@ -151,6 +155,7 @@ def SubCommandScrape():
     if len(sys.argv) < 3:
         print("USAGE:", sys.argv[0], "scrape <user/repository>")
         quit(1)
+    SubCommandInit()
     repo = sys.argv[2]
     ScrapeFile(os.path.join(BASEPATH, repo, "repo.yaml"))
 

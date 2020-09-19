@@ -1,0 +1,10 @@
+ignoredescription: false
+name: martinmarinov/TempestSDR
+scrape: true
+tags:
+ - sdr
+ - tempest
+ - eavesdropping
+ 
+url: https://github.com/martinmarinov/TempestSDR
+writeup: ''
