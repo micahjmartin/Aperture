@@ -12,6 +12,8 @@ Github repository text is indexed on the following pieces of information:
 * The README file
 * Custom meta data that can be added at build time!
 
+![Apeture](https://raw.githubusercontent.com/micahjmartin/Aperture/master/aperture.png)
+
 ## Adding a repository
 
 Repositories to be scraped are configure by writing simple YAML files. You may init a new repository by running the folloying command:
