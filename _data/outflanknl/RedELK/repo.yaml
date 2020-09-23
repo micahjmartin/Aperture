@@ -1,0 +1,8 @@
+ignoredescription: false
+name: outflanknl/RedELK
+scrape: true
+tags:
+ - redteam
+ - infrastructure
+url: https://github.com/outflanknl/RedELK
+writeup: ''
