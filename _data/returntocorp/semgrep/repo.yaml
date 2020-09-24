@@ -1,0 +1,6 @@
+ignoredescription: false
+name: returntocorp/semgrep
+scrape: true
+tags: []
+url: https://github.com/returntocorp/semgrep
+writeup: ''
