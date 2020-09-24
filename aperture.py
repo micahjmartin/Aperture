@@ -31,7 +31,7 @@ def GithubGet(url):
         print("Error getting '{}', Response code: {}".format(url, r.status_code))
         print(r.text)
         raise ValueError("Error getting '{}', Response code: {}".format(url, r.status_code))
-    
+
     return r.json()
 
 """
@@ -92,12 +92,23 @@ def SubCommandInit():
         print("USAGE:", sys.argv[0], "init <user/repository>")
         quit(1)
     repo = sys.argv[2]
+
+    if repo.startswith("https://"):
+        try:
+            repo = "/".join(repo.split("/")[-2:])
+            if repo.count("/") != 1:
+                raise ValueError("")
+            if "github.com" in repo:
+                raise ValueError("")
+        except:
+            print("Invalid name given:", sys.argv[2])
+            return
     # Make the directories
     base_path = os.path.join(BASEPATH, repo)
     if os.path.exists(base_path):
-        print("Path already exists!")
+        print("Repo already exists!")
         return
-    
+
     os.makedirs(base_path)
     data = {
         "name": repo,
@@ -112,8 +123,8 @@ def SubCommandInit():
     with open(fname, "w") as fil:
         yaml.dump(data, fil)
         print("Initialized Repository file at '{}'".format(fname))
-    
-    #quit(0)
+
+    ScrapeFile(fname)
 
 # Scrape a repo configuration file
 def ScrapeFile(repoConfig):
@@ -127,7 +138,7 @@ def ScrapeFile(repoConfig):
     scrape = data.get("scrape", False)
     if not scrape:
         raise ValueError("Repo file not marked for scraping: "+repoConfig)
-    basepath, _ = os.path.split(repoConfig)    
+    basepath, _ = os.path.split(repoConfig)
     needsReadme = False
     if not os.path.exists(os.path.join(basepath, "README.md")):
         needsReadme = True
@@ -155,7 +166,6 @@ def SubCommandScrape():
     if len(sys.argv) < 3:
         print("USAGE:", sys.argv[0], "scrape <user/repository>")
         quit(1)
-    SubCommandInit()
     repo = sys.argv[2]
     ScrapeFile(os.path.join(BASEPATH, repo, "repo.yaml"))
 
@@ -178,7 +188,7 @@ def getValues(fid, basepath):
     try:
         with open(os.path.join(basepath, "info.json")) as fil:
             data = json.load(fil)
-        
+
         for key in vals.keys():
             v = data.get(key, None)
             if v:
@@ -195,7 +205,7 @@ def getValues(fid, basepath):
             vals["readme"] = " ".join([" ".join(s.strip().split()) for s in subs[::2]])
     except Exception as e:
         print("Error processing readme from", basepath, e)
-        
+
     try:
         with open(os.path.join(basepath, "repo.yaml")) as fil:
             data = yaml.safe_load(fil)
@@ -221,7 +231,7 @@ def getValues(fid, basepath):
 def SubCommandBuild():
     ofil = open(os.path.join(BASEPATH, "../assets/js/documents.js"), "w")
     ofil.write("const documents = [")
-    
+
     file_id = 0
     for root, dirs, files in os.walk(BASEPATH, topdown=False):
         for name in files:
@@ -251,7 +261,7 @@ def main():
     if not BASEPATH:
         print("[!] ERROR: aperture.py needs to be run from the aperture directory. Cannot find '_data/'")
         quit(1)
-    
+
     commands = {
         "init": SubCommandInit,
         "scrape": SubCommandScrape,
@@ -288,7 +298,7 @@ def main():
             save(repo, data)
         except Exception as E:
             print("Error Scraping", repo, "-", E)
-    
+
 
 if __name__ == "__main__":
     main()
