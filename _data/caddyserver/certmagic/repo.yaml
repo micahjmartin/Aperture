@@ -1,0 +1,6 @@
+ignoredescription: false
+name: caddyserver/certmagic
+scrape: true
+tags: []
+url: https://github.com/caddyserver/certmagic
+writeup: ''
