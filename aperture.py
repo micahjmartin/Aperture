@@ -20,8 +20,8 @@ headers = {
     "Accept":"application/vnd.github.v3+json, application/vnd.github.mercy-preview+json"
 }
 
-outfile = "_data/results.jsonl"
-outfile2 = "_data/repos.txt"
+outfile = "_repos/results.jsonl"
+outfile2 = "_repos/repos.txt"
 
 
 TOPIC_MATCHES = {
@@ -331,7 +331,7 @@ def getValues(fid, basepath):
         vals["url"] = "https://github.com/"+vals["fullname"]
     return vals
 
-def SaveValues(path, values):
+def SaveValues(values):
     #output = OrderedDict()
     output = {}
     output["name"] = values.get("full_name", "")
@@ -340,6 +340,7 @@ def SaveValues(path, values):
     output["topics"] = values.get("topics", [])
     output["description"] = values.get("description", "").strip()
     output["writeup"] = values.get("writeup", "").strip()
+    path = os.path.join("_configs/", "_".join(values.get("full_name", "unknown").split("/"))+".yaml")
     with open(path, "w") as fil:
         yaml.dump(output, fil, sort_keys=False)
 
@@ -360,7 +361,7 @@ def SubCommandBuild():
                     pass
 
                 data = getValues(file_id, root)
-                SaveValues(os.path.join(root, "Value.yaml"), data)
+                SaveValues(data)
                 json.dump(data, ofil)
                 ofil.write(",\n")
                 file_id += 1
@@ -373,12 +374,12 @@ def main():
         print("USAGE:", sys.argv[0], "init|scrape|build")
         quit()
     global BASEPATH
-    if os.path.isdir("_data"):
-        BASEPATH = "_data"
-    if os.path.isdir("../_data"):
-        BASEPATH = "../_data"
+    if os.path.isdir("_repos"):
+        BASEPATH = "_repos"
+    if os.path.isdir("../_repos"):
+        BASEPATH = "../_repos"
     if not BASEPATH:
-        print("[!] ERROR: aperture.py needs to be run from the aperture directory. Cannot find '_data/'")
+        print("[!] ERROR: aperture.py needs to be run from the aperture directory. Cannot find '_repos/'")
         quit(1)
 
     commands = {

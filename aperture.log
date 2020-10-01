@@ -1,0 +1,144 @@
+2020-10-01 17:30:21,032 WARNING 360-Linton-Lab/Telemetry Removed tag 'telemetry', Matches language or repo
+2020-10-01 17:30:21,074 WARNING algolia/places Removed tag 'algolia', Matches language or repo
+2020-10-01 17:30:21,075 WARNING algolia/places Removed tag 'places', Matches language or repo
+2020-10-01 17:30:21,183 WARNING ashemery/exploitation-course Removed tag 'exploitation-course', Matches language or repo
+2020-10-01 17:30:21,183 WARNING ashemery/exploitation-course Swapped tag 'exploitdev' with 'exploit'
+2020-10-01 17:30:21,248 WARNING atredispartners/flamingo No tags present
+2020-10-01 17:30:21,296 WARNING bats3c/shad0w Removed tag 'c', Matches language or repo
+2020-10-01 17:30:21,297 WARNING bats3c/shad0w Swapped tag 'red-team' with 'redteam'
+2020-10-01 17:30:21,297 WARNING bats3c/shad0w Removed tag 'shad0w', Matches language or repo
+2020-10-01 17:30:21,371 WARNING bbc/wraith No tags present
+2020-10-01 17:30:21,471 WARNING brannondorsey/whonow Removed tag 'dns-rebinding', Already matched under tag 'dns'
+2020-10-01 17:30:21,471 WARNING brannondorsey/whonow Removed tag 'dns-server', Already matched under tag 'dns'
+2020-10-01 17:30:21,472 WARNING brannondorsey/whonow Swapped tag 'hacking' with 'offensive'
+2020-10-01 17:30:21,472 WARNING brannondorsey/whonow Removed tag 'nodejs', Matches language or repo
+2020-10-01 17:30:21,472 WARNING brannondorsey/whonow Swapped tag 'penetration-testing' with 'offensive'
+2020-10-01 17:30:21,473 WARNING brannondorsey/whonow Swapped tag 'red-team' with 'redteam'
+2020-10-01 17:30:21,473 WARNING brannondorsey/whonow Swapped tag 'infra' with 'infrastructure'
+2020-10-01 17:30:21,528 WARNING burrowers/garble Removed tag 'golang', Matches language or repo
+2020-10-01 17:30:21,571 WARNING caddyserver/certmagic Removed tag 'go', Matches language or repo
+2020-10-01 17:30:21,571 WARNING caddyserver/certmagic Removed tag 'golang', Matches language or repo
+2020-10-01 17:30:21,571 WARNING caddyserver/certmagic Removed tag 'tls-certificate', Already matched under tag 'tls'
+2020-10-01 17:30:21,620 WARNING capnspacehook/pandorasbox Removed tag 'golang', Matches language or repo
+2020-10-01 17:30:21,620 WARNING capnspacehook/pandorasbox Swapped tag 'information-security' with 'security'
+2020-10-01 17:30:21,620 WARNING capnspacehook/pandorasbox Swapped tag 'infosec' with 'security'
+2020-10-01 17:30:21,720 WARNING clong/MakeWindows10GreatAgain No tags present
+2020-10-01 17:30:21,875 WARNING cytopia/pwncat Swapped tag 'penetration-testing' with 'offensive'
+2020-10-01 17:30:21,875 WARNING cytopia/pwncat Swapped tag 'pentest' with 'offensive'
+2020-10-01 17:30:21,876 WARNING cytopia/pwncat Removed tag 'pentest-tool', Already matched under tag 'pentest'
+2020-10-01 17:30:21,876 WARNING cytopia/pwncat Swapped tag 'pentesting' with 'offensive'
+2020-10-01 17:30:21,877 WARNING cytopia/pwncat Removed tag 'pentesting-python', Already matched under tag 'pentesting'
+2020-10-01 17:30:21,877 WARNING cytopia/pwncat Removed tag 'pentesting-tool', Already matched under tag 'pentesting'
+2020-10-01 17:30:21,877 WARNING cytopia/pwncat Removed tag 'pwncat', Matches language or repo
+2020-10-01 17:30:21,966 WARNING datalogistics/wildfire-dln Removed tag 'atak-civ', Already matched under tag 'atak'
+2020-10-01 17:30:22,017 WARNING deptofdefense/hack-a-sat-library Swapped tag 'hacking' with 'offensive'
+2020-10-01 17:30:22,147 WARNING dstotijn/hetty Swapped tag 'infosec' with 'security'
+2020-10-01 17:30:22,148 WARNING dstotijn/hetty Swapped tag 'pentesting' with 'offensive'
+2020-10-01 17:30:22,253 WARNING edubey/text-summarizer No tags present
+2020-10-01 17:30:22,296 WARNING f-secure-foundry/tamago No tags present
+2020-10-01 17:30:22,341 WARNING fireeye/flare-floss Swapped tag 're' with 'reverse-engineering'
+2020-10-01 17:30:22,452 WARNING GhostManager/Shepherd Swapped tag 'infra' with 'infrastructure'
+2020-10-01 17:30:22,507 WARNING glmcdona/strings2 Swapped tag 're' with 'reverse-engineering'
+2020-10-01 17:30:22,588 WARNING google/licenseclassifier Removed tag 'google', Matches language or repo
+2020-10-01 17:30:22,648 WARNING guyinatuxedo/nightmare Swapped tag 're' with 'reverse-engineering'
+2020-10-01 17:30:22,648 WARNING guyinatuxedo/nightmare Swapped tag 'exploit-dev' with 'exploit'
+2020-10-01 17:30:22,825 WARNING imthenachoman/How-To-Secure-A-Linux-Server Removed tag 'hardening-steps', Already matched under tag 'hardening'
+2020-10-01 17:30:22,825 WARNING imthenachoman/How-To-Secure-A-Linux-Server Removed tag 'linux-server', Already matched under tag 'linux'
+2020-10-01 17:30:22,826 WARNING imthenachoman/How-To-Secure-A-Linux-Server Removed tag 'security-hardening', Already matched under tag 'security'
+2020-10-01 17:30:22,826 WARNING imthenachoman/How-To-Secure-A-Linux-Server Swapped tag 'defense' with 'defensive'
+2020-10-01 17:30:22,886 WARNING iwpnd/flashgeotext Removed tag 'python', Matches language or repo
+2020-10-01 17:30:22,887 WARNING iwpnd/flashgeotext Removed tag 'search-in-text', Already matched under tag 'search'
+2020-10-01 17:30:23,118 WARNING jrieke/traintool Swapped tag 'ml' with 'machine-learning'
+2020-10-01 17:30:23,200 WARNING jroimartin/explib Removed tag 'python3', Matches language or repo
+2020-10-01 17:30:23,255 WARNING JustAnotherArchivist/snscrape Removed tag 'python', Matches language or repo
+2020-10-01 17:30:23,325 WARNING kennbroorg/iKy Swapped tag 'hacking' with 'offensive'
+2020-10-01 17:30:23,326 WARNING kennbroorg/iKy Removed tag 'iky', Matches language or repo
+2020-10-01 17:30:23,327 WARNING kennbroorg/iKy Swapped tag 'infosec' with 'security'
+2020-10-01 17:30:23,327 WARNING kennbroorg/iKy Swapped tag 'recon' with 'reconnaissance'
+2020-10-01 17:30:23,425 WARNING Kkevsterrr/geneva Removed tag 'geneva', Matches language or repo
+2020-10-01 17:30:23,472 WARNING kpcyrd/sniffglue Removed tag 'rust', Matches language or repo
+2020-10-01 17:30:23,687 WARNING Luzifer/nginx-sso Removed tag 'golang', Matches language or repo
+2020-10-01 17:30:23,748 WARNING maqp/tfc Removed tag 'python3', Matches language or repo
+2020-10-01 17:30:23,748 WARNING maqp/tfc Removed tag 'tor-onion-service', Already matched under tag 'tor'
+2020-10-01 17:30:23,844 WARNING microsoft/avml Removed tag 'linux-security', Already matched under tag 'linux'
+2020-10-01 17:30:23,844 WARNING microsoft/avml Removed tag 'rust', Matches language or repo
+2020-10-01 17:30:23,845 WARNING microsoft/avml Swapped tag 'defense' with 'defensive'
+2020-10-01 17:30:23,902 WARNING Mikaayenson/pymetasploit Swapped tag 'msf' with 'metasploit'
+2020-10-01 17:30:23,962 WARNING mikeryan/crackle Swapped tag 'ble' with 'bluetooth'
+2020-10-01 17:30:24,025 WARNING mildsunrise/protobuf-inspector Swapped tag 'protocol-buffers' with 'protobuf'
+2020-10-01 17:30:24,026 WARNING mildsunrise/protobuf-inspector Swapped tag 'commandline' with 'cli'
+2020-10-01 17:30:24,109 WARNING mne-tools/mne-python Removed tag 'python', Matches language or repo
+2020-10-01 17:30:24,168 WARNING MohamedHadjAmeur/ANETAC Removed tag 'anetac', Matches language or repo
+2020-10-01 17:30:24,169 WARNING MohamedHadjAmeur/ANETAC Removed tag 'arabic-language', Already matched under tag 'arabic'
+2020-10-01 17:30:24,169 WARNING MohamedHadjAmeur/ANETAC Removed tag 'arabic-named-entity', Already matched under tag 'arabic'
+2020-10-01 17:30:24,223 WARNING moonD4rk/HackBrowserData Removed tag 'browser-extension', Already matched under tag 'browser'
+2020-10-01 17:30:24,224 WARNING moonD4rk/HackBrowserData Removed tag 'golang', Matches language or repo
+2020-10-01 17:30:24,225 WARNING moonD4rk/HackBrowserData Swapped tag 'hacking' with 'offensive'
+2020-10-01 17:30:24,313 WARNING moul/quicssh Swapped tag 'hack' with 'offensive'
+2020-10-01 17:30:24,358 WARNING mvdan/xurls Removed tag 'go', Matches language or repo
+2020-10-01 17:30:24,405 WARNING nasa/nasa.github.io Removed tag 'nasa', Matches language or repo
+2020-10-01 17:30:24,452 WARNING nccgroup/Sniffle Swapped tag 'blutooth' with 'bluetooth'
+2020-10-01 17:30:24,452 WARNING nccgroup/Sniffle Swapped tag 'ble' with 'bluetooth'
+2020-10-01 17:30:24,498 WARNING nektos/act Removed tag 'golang', Matches language or repo
+2020-10-01 17:30:24,594 WARNING nothings/single_file_libs Removed tag 'c++', Matches language or repo
+2020-10-01 17:30:24,643 WARNING nougator/usrnamegen Removed tag 'javascript', Matches language or repo
+2020-10-01 17:30:24,644 WARNING nougator/usrnamegen Removed tag 'js', Matches language or repo
+2020-10-01 17:30:24,644 WARNING nougator/usrnamegen Removed tag 'username-generator', Already matched under tag 'username'
+2020-10-01 17:30:24,703 WARNING oschwald/geoip2-golang Removed tag 'go', Matches language or repo
+2020-10-01 17:30:24,704 WARNING oschwald/geoip2-golang Removed tag 'maxmind-db', Already matched under tag 'maxmind'
+2020-10-01 17:30:24,769 WARNING outflanknl/RedELK Swapped tag 'elasticsearch' with 'elastic'
+2020-10-01 17:30:24,770 WARNING outflanknl/RedELK Swapped tag 'red-teaming' with 'redteam'
+2020-10-01 17:30:24,834 WARNING paxtonhare/demo-magic Removed tag 'shell', Matches language or repo
+2020-10-01 17:30:24,895 WARNING peco/peco Swapped tag 'cmdline' with 'cli'
+2020-10-01 17:30:25,034 WARNING r00t-3xp10it/resource_files Removed tag 'metasploit-automation', Already matched under tag 'metasploit'
+2020-10-01 17:30:25,034 WARNING r00t-3xp10it/resource_files Swapped tag 'pentesting' with 'offensive'
+2020-10-01 17:30:25,097 WARNING radioactivetobi/geo-recon Swapped tag 'hacking' with 'offensive'
+2020-10-01 17:30:25,097 WARNING radioactivetobi/geo-recon Removed tag 'osint-python', Already matched under tag 'osint'
+2020-10-01 17:30:25,166 WARNING rek7/madlib No tags present
+2020-10-01 17:30:25,255 WARNING returntocorp/semgrep Removed tag 'javascript', Matches language or repo
+2020-10-01 17:30:25,299 WARNING s0lst1c3/dropengine No tags present
+2020-10-01 17:30:25,343 WARNING schollz/squirrel Swapped tag 'cmdline' with 'cli'
+2020-10-01 17:30:25,343 WARNING schollz/squirrel Removed tag 'go', Matches language or repo
+2020-10-01 17:30:25,393 WARNING scorestack/scorestack Removed tag 'scoring-engine', Already matched under tag 'scoring'
+2020-10-01 17:30:25,393 WARNING scorestack/scorestack Swapped tag 'elk' with 'elastic'
+2020-10-01 17:30:25,444 WARNING seanfisher/codenames Removed tag 'codenames', Matches language or repo
+2020-10-01 17:30:25,444 WARNING seanfisher/codenames Removed tag 'nodejs', Matches language or repo
+2020-10-01 17:30:25,444 WARNING seanfisher/codenames Removed tag 'typescript', Matches language or repo
+2020-10-01 17:30:25,501 WARNING sensepost/gowitness Removed tag 'headless-chrome', Already matched under tag 'headless'
+2020-10-01 17:30:25,546 WARNING sensepost/objection Swapped tag 'pentest' with 'offensive'
+2020-10-01 17:30:25,601 WARNING sensepost/routopsy Swapped tag 'pentest' with 'offensive'
+2020-10-01 17:30:25,646 WARNING sharkdp/fd Swapped tag 'command-line' with 'cli'
+2020-10-01 17:30:25,647 WARNING sharkdp/fd Removed tag 'rust', Matches language or repo
+2020-10-01 17:30:25,702 WARNING simeji/jid Removed tag 'go', Matches language or repo
+2020-10-01 17:30:25,702 WARNING simeji/jid Removed tag 'golang', Matches language or repo
+2020-10-01 17:30:25,703 WARNING simeji/jid Removed tag 'jid', Matches language or repo
+2020-10-01 17:30:25,703 WARNING simeji/jid Swapped tag 'cmdline' with 'cli'
+2020-10-01 17:30:25,808 WARNING SpacehuhnTech/esp8266_deauther Swapped tag 'hack' with 'offensive'
+2020-10-01 17:30:25,891 WARNING stamparm/maltrail Removed tag 'python', Matches language or repo
+2020-10-01 17:30:25,975 WARNING tacnetsol/ghidra_scripts Removed tag 'ghidra-plugin', Already matched under tag 'ghidra'
+2020-10-01 17:30:25,975 WARNING tacnetsol/ghidra_scripts Removed tag 'ghidra-plugins', Already matched under tag 'ghidra'
+2020-10-01 17:30:25,976 WARNING tacnetsol/ghidra_scripts Removed tag 'ghidra-scripts', Already matched under tag 'ghidra'
+2020-10-01 17:30:26,064 WARNING TheHive-Project/Cortex Removed tag 'cortex', Matches language or repo
+2020-10-01 17:30:26,064 WARNING TheHive-Project/Cortex Swapped tag 'dfir' with 'forensics'
+2020-10-01 17:30:26,065 WARNING TheHive-Project/Cortex Swapped tag 'digital-forensics' with 'forensics'
+2020-10-01 17:30:26,065 WARNING TheHive-Project/Cortex Removed tag 'free-software', Already matched under tag 'free'
+2020-10-01 17:30:26,066 WARNING TheHive-Project/Cortex Removed tag 'scala', Matches language or repo
+2020-10-01 17:30:26,113 WARNING TheHive-Project/TheHive Swapped tag 'dfir' with 'forensics'
+2020-10-01 17:30:26,113 WARNING TheHive-Project/TheHive Swapped tag 'digital-forensics' with 'forensics'
+2020-10-01 17:30:26,114 WARNING TheHive-Project/TheHive Removed tag 'thehive', Matches language or repo
+2020-10-01 17:30:26,161 WARNING ThoughtfulDev/EagleEye Removed tag 'python3', Matches language or repo
+2020-10-01 17:30:26,202 WARNING tidwall/jj Swapped tag 'commandline' with 'cli'
+2020-10-01 17:30:26,289 WARNING Viralmaniar/I-See-You Removed tag 'osint-reconnaissance', Already matched under tag 'osint'
+2020-10-01 17:30:26,289 WARNING Viralmaniar/I-See-You Swapped tag 'osinttool' with 'osint'
+2020-10-01 17:30:26,289 WARNING Viralmaniar/I-See-You Removed tag 'phishing-attacks', Already matched under tag 'phishing'
+2020-10-01 17:30:26,290 WARNING Viralmaniar/I-See-You Removed tag 'phishing-engagements', Already matched under tag 'phishing'
+2020-10-01 17:30:26,290 WARNING Viralmaniar/I-See-You Removed tag 'phishing-kit', Already matched under tag 'phishing'
+2020-10-01 17:30:26,291 WARNING Viralmaniar/I-See-You Swapped tag 'redteaming' with 'redteam'
+2020-10-01 17:30:26,404 WARNING x-motemen/ghq Swapped tag 'cmdline' with 'cli'
+2020-10-01 17:30:26,500 WARNING Zerx0r/Kage Removed tag 'kage', Matches language or repo
+2020-10-01 17:30:26,500 WARNING Zerx0r/Kage Removed tag 'kage-ui', Already matched under tag 'kage'
+2020-10-01 17:30:26,501 WARNING Zerx0r/Kage Removed tag 'metasploit-framework', Already matched under tag 'metasploit'
+2020-10-01 17:30:26,501 WARNING Zerx0r/Kage Swapped tag 'rat' with 'c2'
+2020-10-01 17:30:26,556 WARNING zserge/lorca Removed tag 'golang', Matches language or repo
+2020-10-01 17:30:26,557 WARNING zserge/lorca Swapped tag 'gui' with 'ui'
+2020-10-01 17:30:26,605 WARNING zweihander/tile38-client Removed tag 'golang-package', Matches language or repo
