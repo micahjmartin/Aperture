@@ -6,6 +6,15 @@ import copy
 import os
 import sys
 import datetime
+from collections import OrderedDict
+
+import logging
+logger = logging.getLogger()
+hdlr = logging.FileHandler('aperture.log')
+formatter = logging.Formatter('%(asctime)s %(levelname)s %(message)s')
+hdlr.setFormatter(formatter)
+logger.addHandler(hdlr) 
+logger.setLevel(logging.WARNING)
 
 headers = {
     "Accept":"application/vnd.github.v3+json, application/vnd.github.mercy-preview+json"
@@ -13,6 +22,101 @@ headers = {
 
 outfile = "_data/results.jsonl"
 outfile2 = "_data/repos.txt"
+
+
+TOPIC_MATCHES = {
+    "red-team": "redteam",
+    "red": "redteam",
+    "red-teaming": "redteam",
+    "redteaming": "redteam",
+    "recon": "reconnaissance",
+    "commandline": "cli",
+    "cmdline": "cli",
+    "command-line": "cli",
+    "protocol-buffers": "protobuf",
+    "hacking": "offensive",
+    "hack": "offensive",
+    "offense": "offensive",
+    "defense": "defensive",
+    "blue-team": "blueteam",
+    "infra": "infrastructure",
+    "redvsblue": "competition",
+    "competitive": "competition",
+    "penetration-testing": "offensive",
+    "pentest": "offensive",
+    "pentesting": "offensive",
+    "information-security": "security",
+    "infosec": "security",
+    "msf": "metasploit",
+    "tui": "ui",
+    "gui": "ui",
+    "blutooth": "bluetooth",
+    "ble": "bluetooth",
+    "exploit-dev": "exploit",
+    "exploitdev": "exploit",
+    "re": "reverse-engineering",
+    "ml": "machine-learning",
+    "wi-fi": "wifi",
+    "command-and-control": "c2",
+    "rat": "c2",
+    "virus": "malware",
+    "digital-forensics": "forensics",
+    "dfir": "forensics",
+    "elasticsearch": "elastic",
+    "elk": "elastic",
+    "osinttool": "osint",
+    "class": "course"
+}
+
+SEARCH_GROUPS = {
+    "redteam": ["redteam", "offensive", "competition", "metasploit", "c2"],
+    "blueteam": ["blueteam", "defensive", "security"],
+    "re": ["reverse-engineering", "exploit"],
+    "ham": ["radio", "sdr", "p25", "bluetooth", "wifi"],
+    "mobile": ["ios", "android"],
+    "tools": ["cli", "utility"],
+    "education": ["course", "education", "list", "demo", "training"]
+}
+
+language_tags = ["python3", "python27", "python2", "golang", "golang-package", "nodejs", "node", "js", "typescript", "javascript"]
+
+def normalizeTopics(data):
+    """Normalize all the topic names
+    
+    data (dict): a dictionary contain information about the repo"""
+    actual_tags = set()
+    tags = [t.lower() for t in data.get("topics", []) + data.get("tags", []) if t]
+    repo = data.get("full_name", "")
+    l_tags = language_tags.copy() + [data.get("language", "").lower()] + repo.lower().split("/")
+    if not tags:
+        logger.warning("%s No tags present", repo)
+    for tag in tags:
+        if not tag:
+            continue
+        if tag in l_tags:
+            logger.warning("%s Removed tag '%s', Matches language or repo", repo, tag)
+            continue
+        replacement = TOPIC_MATCHES.get(tag, None)
+        if replacement == "":
+            # Sinkhole tag: Skipping
+            continue
+        if replacement:
+            logger.warning("%s Swapped tag '%s' with '%s'", repo, tag, TOPIC_MATCHES[tag])
+            actual_tags.add(TOPIC_MATCHES[tag])
+            continue
+
+        if "-" in tag:
+            if tag.split("-")[0] in tags:
+                # Skip double tags if needed
+                logger.warning("%s Removed tag '%s', Already matched under tag '%s'", repo, tag, tag.split('-')[0])
+                continue
+            if len(tags) > 8:
+                # skip long winded tags like ["onion-service", "onion-services", "open-source", "hidden-services", "endpoint-security", "data-diode"]
+                continue
+        actual_tags.add(tag)
+    data["topics"] = list(actual_tags)
+    data["tags"] = []
+    data["topic_string"] = " ".join(actual_tags)
 
 exists = set()
 if os.path.exists(outfile2):
@@ -221,11 +325,25 @@ def getValues(fid, basepath):
         print(E)
         pass
 
+    normalizeTopics(vals)
     vals["id"] = fid
-    vals["topics_string"] = " ".join(vals["topics"] + vals["tags"]).lower()
     if not vals.get("url", ""):
         vals["url"] = "https://github.com/"+vals["fullname"]
     return vals
+
+def SaveValues(path, values):
+    #output = OrderedDict()
+    output = {}
+    output["name"] = values.get("full_name", "")
+    output["url"] = values.get("url", "")
+    output["language"] = values.get("language", "")
+    output["topics"] = values.get("topics", [])
+    output["description"] = values.get("description", "").strip()
+    output["writeup"] = values.get("writeup", "").strip()
+    with open(path, "w") as fil:
+        yaml.dump(output, fil, sort_keys=False)
+
+    
 
 # I know this command calls a lot of the same functions many times over, but I dont care, it works, its a build script.
 def SubCommandBuild():
@@ -242,6 +360,7 @@ def SubCommandBuild():
                     pass
 
                 data = getValues(file_id, root)
+                SaveValues(os.path.join(root, "Value.yaml"), data)
                 json.dump(data, ofil)
                 ofil.write(",\n")
                 file_id += 1

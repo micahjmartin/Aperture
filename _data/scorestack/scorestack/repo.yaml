@@ -3,7 +3,7 @@ name: scorestack/scorestack
 scrape: true
 tags:
  - scoring
- - scroing-engine
+ - scoring-engine
  - elk
  - elastic
  - competition

@@ -5,6 +5,7 @@ tags:
  - list
  - c
  - c++
+language: c++
 url: https://github.com/nothings/single_file_libs
 writeup: >
     A list containing small, easy-to-integrate, portable libraries which are usable from C and/or C++, These libraries should

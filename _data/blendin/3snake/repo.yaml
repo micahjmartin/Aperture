@@ -3,7 +3,7 @@ name: blendin/3snake
 scrape: true
 tags:
  - redteam
- - linx
+ - linux
  - credentials
  - sshd
 url: https://github.com/blendin/3snake
