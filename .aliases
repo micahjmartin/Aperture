@@ -1,0 +1,16 @@
+alias ap="./aperture.py init"
+
+function edit() {
+    lastcom=$(history 2 | head -n 1 | cut -d' ' -f5-)
+    path="_data/$(echo $lastcom | sed -Ee 's/https?:\/\/[[:alnum:]\-\.]+\///')/repo.yaml"
+    if [ "$path" = "" ]; then
+        echo "Empty path given? Cannot edit"
+        return
+    fi
+    if [ ! -f "$path" ]; then
+        echo "$path does not exist"
+        return
+    fi
+    echo "Editing $path"
+    code $path
+}

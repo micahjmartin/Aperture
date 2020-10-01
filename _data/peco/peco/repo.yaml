@@ -1,0 +1,10 @@
+ignoredescription: true
+name: peco/peco
+scrape: true
+tags:
+ - cli
+ - cmdline
+url: https://github.com/peco/peco
+writeup: >
+ Command line filtering tool. Pipe data into Peco and interactively filter the results.
+ 

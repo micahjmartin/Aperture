@@ -1,0 +1,9 @@
+ignoredescription: false
+name: conorpp/btproxy
+scrape: true
+tags:
+ - mitm
+ - bluetooth
+ 
+url: https://github.com/conorpp/btproxy
+writeup: ''

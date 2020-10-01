@@ -1,0 +1,11 @@
+ignoredescription: false
+name: scorestack/scorestack
+scrape: true
+tags:
+ - scoring
+ - scroing-engine
+ - elk
+ - elastic
+ - competition
+url: https://github.com/scorestack/scorestack
+writeup: ''

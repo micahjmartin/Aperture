@@ -1,0 +1,10 @@
+ignoredescription: false
+name: yrutschle/sslh
+scrape: true
+tags:
+ - redteam
+ - ssl
+ - server
+ - linux
+url: https://github.com/yrutschle/sslh
+writeup: ''

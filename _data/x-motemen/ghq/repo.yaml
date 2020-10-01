@@ -1,0 +1,9 @@
+ignoredescription: false
+name: x-motemen/ghq
+scrape: true
+tags:
+ - cli
+ - github
+ - cmdline
+url: https://github.com/x-motemen/ghq
+writeup: ''

@@ -1,0 +1,7 @@
+ignoredescription: true
+name: mvdan/xurls
+scrape: true
+tags: []
+url: https://github.com/mvdan/xurls
+writeup: >
+    Golang library for extracting URLs from text using Regex

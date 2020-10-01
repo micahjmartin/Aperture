@@ -1,0 +1,7 @@
+ignoredescription: false
+name: vvondra/tedis
+scrape: true
+tags:
+ - tile38
+url: https://github.com/vvondra/tedis
+writeup: ''
