@@ -1,0 +1,36 @@
+---
+name: gaffe23/linux-inject
+link: https://github.com/gaffe23/linux-inject
+language: C
+topics:
+  - inject
+  - process
+  - linux
+  - offensive
+description: Tool for injecting a shared object into a Linux process
+writeup: ''
+readme: pgrep about From 0x00007f37d5cc6670 works ca got architectures arm working
+  can by feature sharedlibrary PC 2 r DLL x86_64 ld sleeping On injecting libdl from
+  larger cat already until p is built versions 0x00007f37d628ded0 more than via sure
+  using at If of correct you sample tool this app further investigation be bit Check
+  echo tee 7f37d5ec6000 require reboot because LD_PRELOAD something load output Does
+  one Debian supports ubuntu This accordingly configured up looking build see outputs
+  Supports to object dlopen causes 7f37d5ec8000 fails In gdb 00001000 __libc_dlopen_mode
+  proc which 64 yama 0x00007f37d5ee74a0 maps rw TODOs a injection To was in not equivalent
+  linux attach support with tested mischief second Better another also running been
+  Sample crashes 6 calling Yes sys should See return kind for Shared libc Arch each
+  I distros 0x00007f37d602c583 matter they would Needs commands what Do Ubuntu many
+  library None Linux e other architecture home Possibly CreateRemoteThread Simply
+  terminal 01 successful it Syms 7f37d5cc7000 exactly work First applications prevent
+  security processes better kernel Caveat any has version certain command 7f37d5ec7000
+  into 0 name flag ptrace_scope successfully Object shared target checking following
+  multi do Second inject targeting Read s manner MIPS Windows armv6 fork Provides
+  start 267321 loaded verify so 14 manually does pid 0x00007f37d628e9ce actually your
+  You temporarily rather as specified make n above x86 since Issues ptrace lib64 only
+  and the injected process xp 02 Thumb Library but default create Tool 0x00007f37d6491ae0
+  same section if armv7 apps 31490 00000000 seem get loads disable allow 0x00007f37d64ac4e0
+  acting that Support sudo Known like have meant next 7f37d5cc6000 currently ARM automatically
+  trying Should thread machine Compiling info LSB just mode did lib The 0x00007f37d5cc67b9
+  gnu when run both 04 distributions Compatibility on Performs time Usage simply libraries
+  Currently ldl or look select g value
+---
