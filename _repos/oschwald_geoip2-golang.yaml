@@ -1,0 +1,28 @@
+---
+name: oschwald/geoip2-golang
+link: https://github.com/oschwald/geoip2-golang
+language: Go
+topics:
+- geoip
+- geolocation
+- geoip2
+- database
+- maxmind
+description: Unofficial MaxMind GeoIP2 Reader for Go
+writeup: ''
+readme: "databases request \u0412\u0435\u043B\u0438\u043A\u043E\u0431\u0440\u0438\u0442\
+  \u0430\u043D\u0438\u044F contains Latitude checked blob are London only ISC geoip2\
+  \ example status Contributing 0 defer repository golang https using All go a England\
+  \ free out licensed example_test net err performance oschwald Fatal Longitude name\
+  \ welcome city 142 package update Open If Reader your the documentation com s Make\
+  \ Example GoDoc Londres this init git See country svg Country struct reader geoip\
+  \ ip ru fork of License check Subdivisions 5142 reads software superior open Please\
+  \ Russian nil required and get sure org decoded master 69 IsoCode is TimeZone subdivision\
+  \ with http Contributions strings geolite2 Lookup if Location data submodule need\
+  \ Usage GeoLite2 Coordinates you GeoIP2 may database zone func Printf an record\
+  \ mmdb dev license in geolocation_landing BR ISO result built Europe for several\
+  \ Go fmt import fields invalid pull 0931 51 db len Names library log directly github\
+  \ City Portuguese 2 that www by under Installation 81 test be suite MaxMind n Testing\
+  \ Output main maxmind godoc not pt en maxminddb GB v Time Execute code examples\
+  \ changes This ParseIP Close English"
+---

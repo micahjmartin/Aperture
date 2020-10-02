@@ -1,0 +1,25 @@
+title: Aperture
+description: A window into the world of my favorite Github repositories 
+
+plugins:
+  - jemoji
+
+collections:
+  - repos
+
+sass:
+  style: compressed
+
+# Exclude from processing.
+# The following items will not be processed, by default. Create a custom list
+# to override the default setting.
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - node_modules
+  - vendor/bundle/
+  - vendor/cache/
+  - vendor/gems/
+  - vendor/ruby/
+  - aperature.py
+  - aperature.log

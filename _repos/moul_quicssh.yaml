@@ -1,0 +1,26 @@
+---
+name: moul/quicssh
+link: https://github.com/moul/quicssh
+language: Go
+topics:
+- quic
+- offensive
+- cli
+- daemon
+- ssh
+- proxy
+- server
+description: SSH over QUIC
+writeup: quicssh is a QUIC proxy that allows to use QUIC to connect to an SSH server
+  without needing to patch the client or the server.
+readme: smile blob needing addr GLOBAL Metrics allows badges badge status 4242 Server
+  0 4545 o or report manfred https bind 22 go a tcp releases 20by Touron ssh to Card
+  LICENSE images Standard default one Shows bob Architecture the shields com 2019
+  new global list GoDoc img svg Connection License of udp localhost user ProxyCommand
+  proxy release console get style org master client h is with process Usage VERSION
+  OPTIONS USAGE proxified help connect an version Client Manfred Report blue server
+  license value 20Touron application without arguments GitHub print SSH for Go image
+  COMMANDS patch commands sshd command microbadger CircleCI Made github Install use
+  QUIC goreportcard 2 that quic by Docker gh circleci NAME u shield A Apache show
+  cli false made godoc io v quicssh flat moul options connection wopr life
+---

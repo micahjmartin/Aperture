@@ -1,6 +1,0 @@
-ignoredescription: true
-name: sensepost/objection
-scrape: true
-tags: []
-url: https://github.com/sensepost/objection
-writeup: objection is a runtime mobile exploration toolkit, powered by Frida, built to help you assess the security posture of your mobile applications, without needing a jailbreak.

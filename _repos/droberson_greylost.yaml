@@ -1,0 +1,30 @@
+---
+name: droberson/greylost
+link: https://github.com/droberson/greylost
+language: Python
+topics: []
+description: DNS logging, detection, ...
+writeup: sniffs DNS traffic and logs queries. It implements a time-based filter to
+  narrow the scope of DNS logs for analysts to examine; if traffic to Google is typical
+  for your environment, you won't be innundated with these query logs, but WILL get
+  logs for malwaredomain123.xyz if that is an atypical query. This can be installed
+  locally, on a resolver/forwarder, or on a machine plugged into a switchport that
+  is mirroring ports.
+readme: ALLLOG filtertime sniff verbose indexed notdnslog GREYLISTMISSLOG apply usage
+  implements No are py txt xyz containing NOTDNSLOG index logging time Interface based
+  0 Filter o verbosity yet greylist or saddr here query before a com_ provided The
+  installed daemonize FILTERTIME dashboards non exit machine Assuming to t misses
+  these querying count atypical _malware configured w Hosts sending Precision malwaredomain123
+  alerting on Write splunk types host ignore resolutions the lots s com Example It
+  list install INTERFACE optional this Path useful chart I Search greylisting File
+  of add innundated PID d WILL Google greylistmisslog Splunk and get Size exists all
+  Toggle queries interface h traffic forwarder is found typical 001 ve path with eth0
+  FILTERSIZE Daemonize mirroring if IGNORE Usage have filter you examine help analysts
+  plugged sniffs malware filtersize dumpfile an dmfroberson protocol application arguments
+  TXT notdns DUMPFILE increase LEARNINGTIME into when Ex for precision BPF dns stdout
+  i bloom Forwarder records requirements qname Universal miss captured narrow DNS
+  won log indexes greylost baseline Greylost b pidfile monitor that domains logs by
+  PRECISION Installation but Add pip3 Searching resolver Counts learningtime be some
+  Quickstart show file can per message JSON p PIDFILE sniffer qtype environment not
+  v Time output r alllog switchport packets This questions scope ports bpf your locally
+---

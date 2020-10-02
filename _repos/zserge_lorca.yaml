@@ -1,0 +1,40 @@
+---
+name: zserge/lorca
+link: https://github.com/zserge/lorca
+language: Go
+topics: []
+description: Build cross-platform modern desktop apps in Go + HTML5
+writeup: Build cross-platform modern desktop apps in Go + HTML5  A very small library
+  to build modern HTML5 desktop apps in Go. It uses Chrome browser as a UI layer.
+  Unlike Electron it doesn't bundle Chrome into the app package, but rather reuses
+  the one that is already installed. Lorca establishes a connection to the browser
+  window and allows calling Go code from the UI and manipulating UI from Go in a seamless
+  manner.
+readme: random No are look instance JavaScript 128px single badge left binaries https
+  m go binary assets installed normally calling over 320 stderr sending zserge binding
+  values the seamless starts com Small UI It 5 GoDoc Eval actually three promises
+  New webview it represented Int ease was Requires build And runtime return protocol
+  still cgo into sent Here tries i endpoint Pure Println works 3 HTML 2 asynchronous
+  calls testing distributed ui devtools A 10MB API can simple instruments Node code
+  e details make said Close src design more flow J status 3rd consider defer goal
+  Under Bind free manipulating size machine remote good t Carlo WebSocket on async
+  HTML5 multiple worlds s new see branding well beginning Brodsky reads locate Chromium
+  org master them as web menu Chrome data MIT have may func kind call server embedding
+  browser closed arbitrary sunrise br fmt Asynchronous tray height steps Promise library
+  How use js lorca between feel menus icons Expose JSON p main so modern GOOS want
+  githubusercontent io soldiers position combined rises control connection gif bundle
+  First manner chromedevtools project possible hello Unlike yet using 70 Wait returned
+  alt performance Code to poem center Then no migration GOARCH shields establishes
+  world windows Build img svg whole of Supports seen actual _ Hello OS done workflow
+  get all custom CI client desktop is local transparent with 480 There you Float DevTools
+  reuses an Report JS about layer uses Probably anagram Best long Math carlo png rather
+  github Done b goreportcard What via URL but Call smooth raw limitations would variables
+  function CSS border heads GoogleChromeLabs examples messages debugging your Functions
+  await allows mode app execution example from report or before a power hood 20Pipeline
+  run Card name cd one proprietary Also package dialogs very If Status party native
+  remove Example Garcia apps Lorca sun License add already width legend blocking functions
+  and g loading evaluated Electron running libraries available methods Protocol opens
+  World window Features license counter headless in div application small languages
+  doesn for Go development projects align both Packaging port he that by similar under
+  be ephemeral instrument Goroutines n his godoc packaging while int
+---

@@ -1,0 +1,48 @@
+---
+name: microsoft/avml
+link: https://github.com/microsoft/avml
+language: Rust
+topics:
+- memory-forensics
+- linux-security
+description: AVML - Acquire Volatile Memory for Linux
+writeup: AVML is an X86_64 userland volatile memory acquisition tool written in Rust,
+  intended to be deployed as a static binary. AVML can be used to acquire memory without
+  knowing the target OS distribution or kernel a priori. No on-target compilation
+  or fingerprinting is needed.
+readme: LiME Uses No login contributions Azure FAQ json up https m fingerprinting
+  binary instructions Microsoft 16 comment Volatile docs over privately ensure additional
+  az intended values google set FULL the customScript com 5 should filename actually
+  MUSL reported script publisher subscription decompress groups us d aws Prints PGP
+  convert has visit userland unknown PR generated rust uploading Snappy Center help
+  number build rights GCP we dev comments adopted receive execute commandline FLAGS
+  Save network commands rs pull Extensions Ubuntu iterate kernel Conduct s3 reason
+  functionality 3 2 Add whether testing A can tool do bot once SAS static CLA not
+  en GENERATED_SAS_URL locations following e This details account upon target Store
+  On request external more tsv cla status find Upload virtual Contributing 0 recorded
+  specify crash proc amazon agree size appropriately sh S3 AWS definitionId You on
+  uncompressed Open at Cloud secure host acquisition signurl VM_NAME dn606155 s EXPIRY
+  install opencode see exponential key 18 For vm azure follow config 19 org master
+  upload distribution as issues memory rustup Automatic TO any sudo need have compressed
+  7 generate faq without features full including contact pages contribution MiB X86_64
+  settings case Getting use Tested token information Response repositories specified
+  PUT ARGS commandToExecute test provide file message reference label curl c io output
+  functional uri decorate Storage connection Centos level url When Memory require
+  CONTAINER page Linux AVML will blob x86_64 04 project only possible Contributor
+  codeofconduct successful using needed The compress ACCOUNT our Code to Blob 14 compilation
+  images right hours no welcomes Login 9 microsoft maximum write within compression
+  Rust pre Build Y security Create of priori OS Debian get knowing all extension delete
+  custom portable H h tools is put local cargo with Source linux cloud 157 create
+  Retry submit signed OPTIONS you MSRC overview an version Security extensions MZ
+  fileUris 12 determine github 504ensicsLabs via URL written sas_url 24 Capturing
+  Testing dT V automatically please machines Execute Oracle presign container ms day
+  your above Most bugs Reporting containing example RHEL email original volatile Building
+  or Simply Further branchName a kcore expiry provided sas Generate sas_block_size
+  y run input suggestions name _build default gsutil block format Issues permissions
+  If Status date apt html VM this License add 6 used TechCenter avml storage g common
+  8 and opensource To mem found Sources Usage acquire Acquire lime_compressed source
+  Features credentials Started in 10 deployed declaring Distributions when SAS_URL
+  HTTP for lang snappy sources 4 latest backoff received image RESOURCE_GROUP musl
+  Optional scripts Install Agreement that www across by response be _apis some cli
+  n technet sSf grant mailto 1 system Summary resource lime cleanup questions release
+---

@@ -1,8 +1,0 @@
-ignoredescription: true
-name: r00t-3xp10it/resource_files
-scrape: true
-tags:
- - metasploit
-url: https://github.com/r00t-3xp10it/resource_files
-writeup: >
-    This repository contains various resource files to assist in recon, exploitation, and metasploit database related issues.

@@ -1,8 +1,0 @@
-ignoredescription: false
-name: mildsunrise/protobuf-inspector
-scrape: true
-tags:
- - commandline
- - protobuf
-url: https://github.com/mildsunrise/protobuf-inspector
-writeup: ''

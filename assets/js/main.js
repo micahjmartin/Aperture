@@ -1,37 +1,39 @@
-var helpMenuActive = true
 resultsUl = document.getElementById("results");
 resultsCounter = document.getElementById("resultCounter");
 resultsCounter.innerHTML = `0/${documents.length} shown`
 
-AddResult(helpTemplate)
 
+// Hide everything in the results list
 function ClearResults() {
-    while (resultsUl.firstChild) {
-        resultsUl.removeChild(resultsUl.firstChild);
+    for (i = 0; i < resultsUl.children.length; i++) {
+        resultsUl.children[i].classList.add("disappear")
     }
-    resultsCounter.innerHTML = `0/${documents.length} shown`
-
 }
 
-function AddResult(result) {
-    resultsUl.innerHTML += result
+// Unhide the help item
+function ShowHelp() {
+    document.getElementById("helpItem").classList.remove("disappear")
 }
 
+// Unhide the message item and update the values
+function ShowMessage(msg) {
+    var item = document.getElementById("messageItem")
+    item.classList.remove("disappear")
+    item.getElementsByClassName("listItem")[0].innerHTML = `<div class="gh_hearts group body">${msg}</div>`
+}
 
-
-// Call back for searching. Gets called everytime the input bar changes
+// Call back for searching. Gets called everytime the input bar presses enter
 function OnSearch() {
     // Declare variables
-    helpMenuActive = false
-    var input, i, results, resultsUl;
+    var input, i, results;
     input = document.getElementById('search').value;
     ClearResults()
     if (input != "") {
         try {
             results = search(input)
         } catch (e) {
-            console.error(e.name + ': ' + e.message)
-            AddResult(errorResult(e))
+            console.error(e)
+            ShowMessage(e.message)
             return
         }
     } else {
@@ -40,27 +42,25 @@ function OnSearch() {
     
     if (results.length == 0) {
         if (input == "") {
-            AddResult(helpTemplate)
-            helpMenuActive = true
+            ShowHelp()
             return
         }
-        AddResult(noResultsTemplate)
+        //AddResult(noResultsTemplate)
+        ShowMessage("No results found.")
         return
     }
 
     for (i = 0; i < results.length; i++) {
-        item = documents[results[i].id];
-        AddResult(makeItemResult(item))
+        var id = results[i].id;
+        var item = document.getElementById(id)
+        item.classList.remove("disappear")
     }
     resultsCounter.innerHTML = `${results.length}/${documents.length} shown`
 }
 
 // The fields that we are allowed to search in
-const searchFieldsDefault = ['description', 'name', "owner", 'topics_string', "language", "writeup"]
-const searchFieldsAll = ['description', 'name', "owner", 'topics_string', "language", "writeup", "readme"]
-const searchFieldsAlias = {
-    "topics": "topics_string",
-}
+const searchFieldsDefault = ['description', 'topics', "id", "language", "writeup"]
+const searchFieldsAll = ['description', 'topics', "id", "language", "writeup", "readme"]
 
 // Parse the flags and build an options file
 function search(qry) {
@@ -84,6 +84,7 @@ function search(qry) {
                     options.fields.push("readme")
                     break
                 case "FIELDS":
+                    /*
                     var _fields = terms[i].split(" ").slice(1)
                     options.fields = []
                     for (j = 0; j < _fields.length; j++) {
@@ -98,12 +99,13 @@ function search(qry) {
                             throw new SyntaxError("Invalid search field: " + options.fields[i])
                         }
                     }
+                    */
                     break
                 default:
                     if (terms[i].split(" ")[0] == "" ) {
                         break
                     }
-                    throw new SyntaxError(`Invlid modifier: ${terms[i].split(" ")[0]}:`)
+                    throw new SyntaxError(`Invalid modifier: ${terms[i].split(" ")[0]}:`)
             }
         }
     }
@@ -116,7 +118,6 @@ function search(qry) {
 
 let miniSearch = new MiniSearch({
     fields: searchFieldsAll, // fields to index for full-text search
-    //storeFields: ['id', 'fullname'],
     searchOptions: {
         prefix: true,
         boost: {description: 10}

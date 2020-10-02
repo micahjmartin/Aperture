@@ -1,0 +1,135 @@
+---
+name: nothings/single_file_libs
+link: https://github.com/nothings/single_file_libs
+language: c++
+topics: []
+description: List of single-file C/C++ libraries.
+writeup: A list containing small, easy-to-integrate, portable libraries which are
+  usable from C and/or C++, These libraries should be able to be compiled on both
+  32-bit and 64-bit platforms and contain <= 3 files to include.
+readme: smile WAV Area wrapper single type_specification tweet Win neon johnezang
+  processing effolkronium editing Note high nuklear Categories IMA_ADPCM also values
+  imb google s7 fastlz com hash lib primitives blendish elements Object should filename
+  catch I lights three MP3 quick concave minilibs deallocate PNG stanford pithy std
+  sts_mixer cr88192 C11 TweetNaCl post convert reynolds catch2 triangle triangulation
+  waveforms pow2 antirez GPUOpen solver normal number TinyDir embeddable lot Clara
+  SummedAreaTable richgel999 protocol onqtam linear still programmatic civetweb sailormoon
+  sse issue seamoptimizer agauniyal jzon sawickiap 3 antialiased most yocto_bvh Other
+  Stand slre utest PGM animated parsing simple cJSON marching doctest PlusCallback
+  tinytime following Catch MicroPather EmbeddableWebServer usable ADPCM de List HLSL
+  points DrMcCoy pantor marked drop joeld42 similarity adishavit 64 snippets simulator
+  Mac mempool Can fast_obj shl on at plain Assert means cesanta iSC writer jpeg GCN
+  cgltf For 1738 reflection thisistherk RandyGaul angusj ANN master XXX msgpack able
+  strings printf any Parsing data retrieve wcwidth9 Public catchorg DanielGibson strpool
+  language SPUT tinythreadpp appear structures full including leave aw hellerf hardikp
+  ray library template optimized information task widget helpers LGPL typesafe dbgtools
+  scottt lcm unless so LZ ZLIB person syoyo io too support 2D csvstream utf8 Daniel
+  project boolean ISC implementations allocate triangles compress munit net include
+  rnd send FLAC 3d Fills 14 sokol space string imgui loguru GPLv2 who dialect fork
+  jo_mpeg NanoJPEG Minimalistic intern Marc operating selist portable h H amalgamated
+  nlohmann am device There tech rmitton you tweetnacl profiling ccVector jobtalle
+  value Submissions adamyaxley heap prideout cryptography d99kris transformations
+  minimalistic info tress capture proj physically Rules compile github author lightmapper
+  standard yp Apache But shape assert JPEG multi Clipper colored email o major ccxvii
+  R5RS column algebra3 tk_objfile serge input btac1c event default lattice related
+  one impulse vector general larger junk bitsnbites stems method LUrlParser silentbicycle
+  DG_dynarr this Vince klib rjm_raytrace noc console R7RS authors modular cubes tinyfiles
+  Single jc_voronoi rombankzero MY efficiently null LoC generators requests michaldrobot
+  regular source specific MinGW tiny_jpeg twice in compiler portability sourceforge
+  small matrix for doesn dbohdan YAML lduck11007 Chobolabs agnostic genann generic
+  Tomas miloyip ands sokol_gfx optionparser similar evaluation Akenine cimgui shapes
+  n Unix TinyThread DynaVar 1 system anyway zed_net stb tinyobjloader Zintinio polypartition
+  files seams bounding utilities dougbinks JavaScript left filenames inputs different
+  rjm_mc karimnaaji decompression IDs deserialization error generation LICENSE personally
+  bold _GPLv2_ lock stereo miniz tinyply binding uthash glTF list shareable LGPLv3
+  mmx parsers ben decoder flags tinygizmo Cache mathematics queries D3D11 bjoern util
+  bake Metal terminal nanoflann process if ArjArav98 php Obfuscate serializer dev
+  don large sampling mattiasgustavsson tinyxml2 constraint break picopng TinyEXIF
+  lilbrary xelatihy duktape termination csv tinyexpr directly sts micropather 2 intersection
+  ProgramOptions kieselsteini yocto than can do shf make zero tinyurl microbenchmarking
+  nemequ type request dropping Picol more PDFgen bindings header max fft removed houqp
+  ht79ndj KD cdcseacave UTF alone like triangulator JPG s licenses needs humus view
+  yocto_shape Table crypto LIL org DanEngelbrecht writing as minctest PolyPartition
+  Why objzero amoeba STL may array playback server TinySoundFont nvlib features casting
+  Protobuf avl btac1c_mini0 lualite c42f inc TinyXML2 binarized OpenGL feel desktops
+  JSON simrank distance cURL submissions libcluon Transform require Memory gif page
+  will blob tiny gif_load browse time baking regions here utf using queue offsetting
+  11 ronen25 non save Remotery line MPL esp volume metadata rgb scheduler accepted
+  Handmade aw_ima enkiTS average gb_math compression bgbtech_misc lightmap partitioning
+  multithreading wooorm GPU called variant various rendering mixed wcwidth immediate2d
+  get asap nanosvg path http hide Hedley submit signed PBM work produce hashing SLRE
+  uses monocypher ZCM ai interested Math devel FILE foonathan ApoorvaJ textmode tinysound
+  OBJ pixels rich pocketmod shaders preferred listed two after results In geometric
+  tinyfiledialogs other GPL NanoVG domain minimp3 above yocto_symrigid English Libraries
+  RAR logging mobius3 out linenoise marshalling these miniexr Also package Tcl whereami
+  dialogs If party lots integer Parse html mikktspace noc_turtle PoissonGenerator
+  meshes Celtoys lodepng AI Duktape Packages Zguy unidirectional and 8 lz4 XML ilyak
+  etherealvisage tinyformat eu mixer jkuhlmann mackron fscanf sokol_time plug par_shapes
+  Generally POSIX ZIP clib bit extern nanojpeg that element algorithm SQLite approximate
+  loader cache runtimeterror GIF argv Windows chobo lightmaps sound random are ASAP
+  flexible Optimizer FAQ json sobol https since quality just nv_voronoi benhoyt pathfinding
+  regex the starts prns Helper history dynamic oui dr_flac kazuho cmp New Fourier
+  dependencies stratified it cmdline float vincentlaucsb debugbreak str_view has ImGui
+  CSV TinyCThread squarewave ccodearchive SimRank EXR ok esque build optimization
+  easyexif table tanakh either description applications generator zlib ivanfratric
+  composable calculations implementation dascandy basement problem mipmap pull scripting
+  does hedley URI works seddon Fast Corrections API picobench once kgabis vectors
+  not lordoffox lightweight picol public mongoose listing me pseudo icculus kann voxel
+  quaternion parameterization find EasyTab based 0 contaner polygon libcmdf procedural
+  because LibrariesAndSDKs Lua lexer rigid good videogames ajson w archive CC0 additions
+  subset unit user1095108 tracer SVG trompeloeil what ccrma Some CPP tinyheaders priority
+  compiled Please renderer asterisk StrangeZak close issues memory Immediate2D iterating
+  microprofile draw TinyJPEG have my_basic Recent linked browser troydhanson glampert
+  SSE trees jo_gif networks awdeorio rollbear schellingb sheredom case dr_libs use
+  PackedArray macro benchmark corporateshark AVL parse lodev made qualify Vector c
+  jibsen Vulkan point wareya Linux DOS 04 purpose arrays single_file_libs cases forbidden
+  interpreter convenient to tronkko CSVstream EXIF know fctx afterwise integrate write
+  strasser HappyHTTP KANN 3D GUI accept rxi git analysis Argh of pool MIS deserlize
+  interface users hxx dmilos direct is hidefromkgb ve PLY extractor tinycthread PPM
+  hierarchical cr reading tom 983 efficient an interfacing MOD about microtar nanoSVG
+  rapidcsv par_easycurl long mm_sched Efficient tar b separate networking but audio
+  argument obstacle video PicoJSON sort viewer poisson PDFGen differentiation Jzon
+  function word extract bug class B BASIC soft your append Reynolds alpha EWS advertised
+  hoehrmann read mode app Catch2 dirty bool a wc animats Smilex socket thread gizmo
+  gb clouds graphics PDF hernandp systems developer camgunz mordred game native greatest
+  sequential fixed sts_net yaml cimg tinyexr jimmiebergmann Guaranteed user encouraged
+  MPEG allocator rec style miniaudio included somebody libraries readline counts measurement
+  lists lil lack dr Mongoose PNM Genann TinyExpr bitcount window wrong Scheme snd
+  Swarmz arbitrarily wavefront image projects configuration mm_web both saving link
+  par people Extrawurst nativejson kgflags ddiakopoulos 32 jlblancoc be some reasons
+  store Cultrarius building Sigkill79 platform 2016 ennorehling DG_misc note wiki
+  hardware mayanklahiri attractivechaos unicode rjm Voxelizer mesh macOS tree hippomocks
+  delphi paladin dear chiselapp gl VulkanMemoryAllocator binary bikeshed closest sgorsten
+  diffusion expression etc iboB However bitbucket mini Yes duck which aware nayuki
+  ish actually flocking graph decompress offline Vertex own marc starwing beyond inih
+  where ima pluscallback discussion blender Come we nothings automatic think into
+  several network dfa Boost SoundFont2 lingua XMP CeCILL command happyhttp picojson
+  sdf KrzysztofSzewczyk ified assertion won packet Gibson testing A tangent CLIUtils
+  meant static isn hpp code mobile options This many src leethomason text yocto_trace
+  vertex Library 3rd free size JCash gpakosz dirent far BSD t field znet Parser roukaour
+  correction Cassowary framework tablet CCAN argh voidah interactively aras new home
+  executable See mm_vec SDF reader PGS dates literal ProTracker open 19 directory
+  generating them 2d yorhel web cpp double joshuarubin MIT raytracer fast need inline
+  rasterizer dmc_unrar edu elapsed generate ginsweater duangle region buffers guillaumechereau
+  CPU tesselation LCM mapping parg webserver below Threads encoder indicates cro_lib
+  prof evolutional obfuscation philsquared between yhs tfile Cimg xxHash file engine
+  matcher cxong p mm_lexer modern consigned expressions par_msquares output debug_assert
+  control labrat math levenshtein production pugixml only Cyan4973 could jonasmr come
+  cjson geometry yxml linkom easy sum performance rang images MakeID 60K MessagePack
+  color transcendental zerocm 9 npiegdon zcm min normals objects struct minimal check
+  tinydir software MicroProfile cbeck88 scoped compressor rect all df platforms compute
+  client might toolkit with ocornut libue floooh Fytch modify corrections memononen
+  CLI cro_mipmap Probably png significantly voronoi seekable sets RFC else URL mostly
+  dr_wav deserialize WTFPLv2 parser hierarchy Simple debug profiler Audio Poisson
+  avg assertions please clibs serialization modal interning xatlas edit mpeg neural
+  Feature debugging ini immediate stmr vy printing allowed GLES2 nl miscellaneous
+  simclist from or repository writes independent lieff AndreRenaud rjm_texbleed pempek_assert
+  MsgPack name voxelizer dir vurtun formerly body swarming libpqueue module mij grinninglizard
+  Summed SIMD oltrelinux developers Rapidcsv codeplea emilk CLI11 seek libs sequences
+  used clipping Allocator functions loading visit_struct Snippets webby fan Exceptions
+  internally ShaderFastLibs TinyPngOutput named tigr license disk synthesizer hot
+  tinymemfile cross HTTP emphy 3986 4 must multithreaded thebeast33 ideally clipper
+  inja Moller verified cyrus linalg Monocypher parson jonolick gb_string www C Geneva
+  noc_file_dialog MS callbacks qualifies primitive keyj IMA kinds gingerBill chrberger
+  jpcy GL3 every OpenEXR subtleties yocto_obj serialize
+---

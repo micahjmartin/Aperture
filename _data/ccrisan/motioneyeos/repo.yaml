@@ -1,9 +1,0 @@
-ignoredescription: false
-name: ccrisan/motioneyeos
-scrape: true
-tags:
- - dvr
- - camera
- - rpi
-url: https://github.com/ccrisan/motioneyeos
-writeup: ''

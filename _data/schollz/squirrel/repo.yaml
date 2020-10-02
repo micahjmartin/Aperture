@@ -1,9 +1,0 @@
-ignoredescription: false
-name: schollz/squirrel
-scrape: true
-tags:
- - sqlite
- - cmdline
- - go
-url: https://github.com/schollz/squirrel
-writeup: ''

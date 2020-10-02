@@ -1,9 +1,0 @@
-ignoredescription: false
-name: deptofdefense/hack-a-sat-library
-scrape: true
-tags:
- - space
- -  dod 
- - hacking
-url: https://github.com/deptofdefense/hack-a-sat-library
-writeup: Public library of space documents, tutorials, and resources for budding satellite hackers 

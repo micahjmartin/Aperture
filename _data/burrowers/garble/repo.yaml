@@ -1,8 +1,0 @@
-ignoredescription: true
-name: burrowers/garble
-scrape: true
-tags: []
-url: https://github.com/burrowers/garble
-writeup: >
-    Obfuscate Go code by wrapping the Go toolchain. Garble produces a binary that works as well as a regular build, but that has as little
-    information about the original source code as possible.

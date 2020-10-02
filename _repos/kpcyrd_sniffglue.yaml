@@ -1,0 +1,43 @@
+---
+name: kpcyrd/sniffglue
+link: https://github.com/kpcyrd/sniffglue
+language: Rust
+topics:
+- sandboxed
+- network
+- pcap
+- sniffer
+description: Secure multithreaded packet sniffer
+writeup: sniffglue is a network sniffer written in rust. Network packets are parsed
+  concurrently using a thread pool to utilize all cpu cores. Project goals are that
+  you can run sniffglue securely on untrusted networks and that it must not crash
+  when processing packets. The output should be as useful as possible by default.
+readme: along are explore disabled ethernet blocks https vvv env installed cjdns pentoo
+  etc docs processing usr tlsv1 ensure also which almost the com sandbox It dropbox
+  list tls should actually Don cc libpcap d dependencies it own sure has Everything
+  vvvv libseccomp rm reprotest rust process recommended help build expires enp0s25
+  during dev variations maintainer network i issue rs branch Ubuntu tested directly
+  sniffglue packet 2 Installation distributed ssdp can ircs once During not v code
+  following This make account chroot On crates requires fuzz deb everything based
+  drop because crash tcp GPLv3 securely Mac fuzzed travis sh t layman We registry
+  Those forget You update on at OSX host s install ubuntu S key NixOS Network beginning
+  beacons Gentoo Fuzzing Please config org cert directory master vv as rustup share
+  sudo need have filter read_packet mmstick increase initialized been networks parsed
+  dns 1MB stable contact filters Docker shell hardening test file refresh applied
+  sniffer Hardening main so curl io output docker Crates nix sniff Linux utf8 finally
+  project HOME ipv4 possible future brew icmp time dhcp using unneeded needed restrict
+  The 11 net proto initialization to goals boxxy screenshot shields setups emerge
+  useful git Build security img svg of vulns various udp pool done utilize all specifies
+  push analyzer is cargo with http apk eth0 There stages signed root you an Security
+  about rxv Seccomp irc conf uses its import png Project _logger debian github excluded
+  keyring via but From written ci privileges stage Kali debug empty setup keys please
+  after two there sexy container your kpcyrd read example Arch from report program
+  repository echo currently a before includes out prebuilt provided seccomp thread
+  run default gpg X systems eth package general very Status apt Currently second this
+  keyserver init current domain_host cores ipv6 concurrently License add arp links
+  used user builds and syscalls To included ask keyrings Usage sensitivity Or source
+  specific in valid adv first 802 when small export for doesn sources must untrusted
+  image Reproducible Protocols packages started configuration compromised Alpine that
+  by pacman be hackint some unprivileged sSf unshare note packets system compromise
+  cpu maintainers Debian fuzzing
+---

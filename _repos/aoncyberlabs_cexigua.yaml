@@ -1,0 +1,32 @@
+---
+name: AonCyberLabs/Cexigua
+link: https://github.com/AonCyberLabs/Cexigua
+language: Shell
+topics:
+  - inject
+  - process
+  - linux
+  - offensive
+description: Linux based inter-process code injection without ptrace(2)
+writeup: ''
+readme: overwrite 2 g NOPs works worked offsets Features we sys arbitrary parser self
+  text NOP execute is X does also RSI actual any parent requires RDI functions new
+  s readsyms have proc payload 0 not syscall binary previously PLT execve libfuse
+  5 base value The dependencies function Wait fd executed FUSE something CLI adding
+  6 standard PID bash secure Parser distros pre ASLR generated found Using mounted
+  sharing find syscalls maps gadget seemingly setting allows stack under grepped SOMETHING
+  are over ASM x handle and running x86_64 like used JMP shellcode POP SYSCALL within
+  memfd Re filesystem loaded Parent becomes world lib r need RDX slow along ptrace_scope
+  arguments possible unable PROT_EXEC of this gadgets had t I our exec objects Utility
+  7 ROP sendfile directly mmap itself flexible using creates amounts from fexecve
+  necessary R9 sh 4 it to into glibc Execute Wrapper mem in hood available brittle
+  which processes second Launch one so the code yama sleep most around would can less
+  worst return parity only specified Any them libraries handwritten nanosleep all
+  fun e ensure process grep data open run ELF string make automatically Files means
+  Pure LD_PRELOAD write on via required offset then kernel memory longer children
+  passthrough Binary that if be anywhere 3 memfdcreate Bash or with uses but Future
+  ROPChain large work busybox another faster thing due entrypoint This actually dd
+  ve RAX written utils Interactivity Why file interactive a including first RCX remember
+  Cache UID GNU for after To padded wait method achieved their call correct was default
+  add calls generator example create R8 more 1 section usr copy We
+---

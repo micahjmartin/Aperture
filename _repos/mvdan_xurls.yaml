@@ -1,0 +1,18 @@
+---
+name: mvdan/xurls
+link: https://github.com/mvdan/xurls
+language: Go
+topics:
+- tld
+- extract-urls
+description: Extract urls from text
+writeup: Golang library for extracting URLs from text using Regex
+readme: text are regexp mvdan byte status rxRelaxed from tmp or golang using https
+  go Since a echo Regexp expression calling FindAllString cd foo no mktemp Note GO111MODULE
+  live FindAllIndex on around string xurls the urls com means GoDoc install should
+  Strict init cc finding svg such d Do functions get org 13 all repeated To rxStrict
+  is as http globally Requires available have methods later func regular compiling
+  mod in v2 centered for FindString must Go import matches cmd avoided does indexes
+  that URL calls Relaxed scheme exposed shell be Extract API tool main so gophers
+  godoc not expressions pkg other 1 This many match
+---

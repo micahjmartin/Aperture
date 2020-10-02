@@ -1,0 +1,35 @@
+---
+name: f-secure-foundry/tamago
+link: https://github.com/f-secure-foundry/tamago
+language: Go
+topics: []
+description: TamaGo - bare metal Go for ARM SoCs
+writeup: ''
+readme: aspects are Operating tree https go binary clone II adapted instructions surface
+  Zero consists LICENSE Board Raspberry usbarmory driver ensure Executing which modifications
+  supported embedded the kit logo com raspberrypi Andrea re flags it takes 6ulz armory
+  addition build runtime table pi2 dev applications warranty GOARM Creative NXP sanitize
+  E armv7l Foundation Current i MCIMX6ULL 6ull Secure README 3 2 Renee bash distributed
+  A Andrej API can summarizes meant arm code following andrej This details zero gopher
+  target boards MX6ULL src Systems Software design more FOR 0 PURPOSE published real
+  free releases soc licensed mark MERCHANTABILITY Barisani framework reducing on PARTICULAR
+  secure dependency LOC EVK accompanying terms see See well raspberry pizero compiled
+  org master GNU WITHOUT distribution as clean mx any Supported Free bin 7 Public
+  providing without unencumbered implied full mx6ullevk respective f provides existing
+  use components information metal FITNESS file main ANY GOOS System French c removing
+  true support level Linux will few adds project USB designed hope Commons emulated
+  BCM2835 The emphasis step initialization Corporation to compilation place images
+  andrea rosano changed attack GOARCH firmware spawns documentation within allowing
+  useful git Build BCM2836 WARRANTY svg of Copyright minimal _rt0_arm_tamago simply
+  software _ Strong required all Rosano is sample with Gopher modify you version foundry
+  even pwd tamago 0x80010000 processor amd64 import General illustration Binary CGO_ENABLED
+  github Authors b standard enables motivated but bare Internals two variables other
+  debugging Introduction GO_EXTLINK_ENABLED usage 0x1000 allows R execution board
+  pi example T separation from Chip or program inversepath golang currently a F redistribute
+  SoCs placed Both cd one systems 4000 vector package Compiling native Example imx6
+  current previous License already desire compare each extends model and included
+  SoC found relevant available Arganda Documentation hosts ldflags specific license
+  in compiler application products architectures built export for ARM Go latest Attributions
+  projects packages development both barisani 15 that www evaluation by C under nxp
+  TamaGo Pi go1 be TAMAGO bcm2835 modified Mk pkg Hugo tamago1 wiki hardware release
+---

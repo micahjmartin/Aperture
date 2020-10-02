@@ -1,0 +1,33 @@
+---
+name: burrowers/garble
+link: https://github.com/burrowers/garble
+language: Go
+topics:
+- code-obfuscator
+- obfuscation
+- binary
+- build
+description: Obfuscate Go builds
+writeup: Obfuscate Go code by wrapping the Go toolchain. Garble produces a binary
+  that works as well as a regular build, but that has as little information about
+  the original source code as possible.
+readme: wraps Functions order will usage are tiny Mode purpose mode only mvdan toolchain
+  Coupled possible could designed time binaries private original from Tiny stack entirely
+  or specify filenames Version golang up different given go https a since binary progress
+  currently includes The burrowers resulting prints line our to t 14 input little
+  these default variable no 87 Note GO111MODULE format package on literals at module
+  implemented supported shortcomings GOPRIVATE Deterministic Reversible If set ignored
+  the com date short un never Mechanism linker this useful assembly cc current what
+  Build See effort see hashes of well such 6 caching panics section reflection flags
+  smaller panic required and get has ever Replace traces all org To running GODEBUG
+  interfaces h printed is as ease likely issues with base64 garble if numbers Strip
+  moment Requires wrapping internally Options then normal methods later help Obfuscate
+  Produce outside addition tables build an runtime extra regular source same we identifiers
+  reproducible work about in compiler large 10 still passed When uses Exported By
+  area modules for stripped Go shuffle info object cmd symbol packages flag projects
+  41145 both fields errors trace documented github works 15 plugins All that information
+  ReadBuildInfo calls slow by environmental under but garbles testing document improve
+  Purpose be can tool transform garbled debug Removes main so aren not In recover
+  code position Remove paths pkg fatal they 1 Caveats This handled many make support
+  debugging initial Most GOPATH
+---

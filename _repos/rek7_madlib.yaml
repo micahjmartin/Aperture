@@ -1,0 +1,19 @@
+---
+name: rek7/madlib
+link: https://github.com/rek7/madlib
+language: Python
+topics: []
+description: PAM Backdoor
+writeup: Python script to compile a PAM backdoor on to the system. Features include
+  logging credentials, backdoor password, and automatic install.
+readme: type magic more _____ are x86_64 py rek7 Extracting username 0 Successfully
+  Version https needed The DPKG 16 include ssh Entries Finishing less to Logs effective
+  updates ____ default moved usr bcrypt 00 Compiling Finished Replaces string homebase
+  the com lib password Compiled 55 Manually Specifying security Y File making 18 hashes
+  effectively user __ reverse _ nologin 17 pam_unix and all madlib Python3 passwords
+  h replaced is with able Tainted linux Obfuscates Automatic any difficult Requires
+  MD5 Usage root bin engineering Features in TAR Detected Detection stomps Username
+  56 Automatically Download for PAM Requirements logged Added backdoor github gnu
+  3 15 by Completed bash Backdoor privileges Lib file Root dumps false so Moved secretpassxd
+  pam Time r helps 1 Default make ___ files
+---

@@ -1,0 +1,36 @@
+---
+name: datalogistics/eodn-harvester
+link: https://github.com/datalogistics/eodn-harvester
+language: Python
+topics: []
+description: ''
+writeup: EODNHarvester is a daemon that gathers scenes from the United States Geological
+  Survey (USGS) using the USGS JSON interface. The USGS hosts satellite imagery collected
+  by a number of sensors. These images (a collection of images of a single location
+  - e.g. Standard and Infared - is called a scene) are uploaded to the Earth Observation
+  Depot Network (EODN) for use and data collection.
+readme: collected type PASSWORD verbose more will order Where Observation are recieve
+  py project latitude requires instance collection single alternate USERNAME retrying
+  left username email designed logging time from correctness or These removed report
+  up using before a includes again provided currently distributions The latter out
+  installed instructions USGS_HOST LOWER_LEFT size send lower run Read collect to
+  satellite yum calling runs always Settings take these Then images Standard usr default
+  self right hour upper pass United Prerequisites ensure NODE on States also Geological
+  REPORT_EMAIL purposes If set USGS folder x the documentation THREADS downloading
+  Timeouts password new install sufficient should Infared this security necessary
+  script Ensure robust TIMEOUT ip times attempt called Same of derived Network RedHat
+  re For used d simply sensors OS gathers scene flags scenes it corner uploaded follow
+  g and has Size chunks daemon directory interface Python3 To completion Chunk AUTH_VALUE
+  override upload is as DATASET_NAME local path primary with eodnharvesterd MAX_RECONNECT
+  process connections data coordinates available REPORT_HOUR Usage longitude SORT_ORDER
+  sleeping UNIS_HOST UNIS_PORT bin location number build version an explicit files
+  former hosts work WORKSPACE in HARVEST_WINDOW large EODNHarvester EODN VERBOSE Depot
+  By built area for been sent when must Survey depend Python info reports threads
+  network flag configuration checking About emit DOWNLOAD_CHUNKSIZE python3 contact
+  wait port temporary imagery does How log harvest UNIS settings occur 15 use amount
+  What token that standard Sets information mostly effect by VALIDATION_GRANULARITY
+  MAX_RESULTS Installation UPPER_RIGHT often Earth DEBUG be file harvested can passing
+  JSON store unless D AUTH_FIELD prefix setup V Python2 not exnode two v c eodnharvester
+  output results LoRS periodic following python being while messages recieved system
+  e NOTE This true day debugging your url above
+---

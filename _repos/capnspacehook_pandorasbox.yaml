@@ -1,0 +1,37 @@
+---
+name: capnspacehook/pandorasbox
+link: https://github.com/capnspacehook/pandorasbox
+language: Go
+topics:
+- filesystem
+- virtual-file-system
+- security
+- vfs
+- cryptography
+description: An intuitive and encrypted in-memory filesystem (VFS)
+writeup: ''
+readme: random Using Memory brief Functions design great words will more usage are
+  Local Box finished exact look txt instance allows only facilitate underlying byte
+  example status decrypted Pandoras possible virtual time detirmine based from defer
+  goal or These https All go using a before cases copies out force The duration decrypt
+  Because safely err helper easy Pandora error Read etc good ReadFile to t calling
+  input always immediately created algorithms refer WriteFileLocalBox Global pass
+  like AbsFs replacing giving You package on Write organization Open also instead
+  which host ioutil very If string Copy myBox contributors the starts capnspacehook
+  com s last CopyFile Example amazing It global GoDoc dstFile Otherwise should probably
+  this init needs Close WriteFileGlobalBox what afterwards VFSMkdir svg Create struct
+  key Truncate times called Forcing Took of VFS variant re For used whenever _ scoped
+  versions OS functions it nil sure and encrypted has org box interface interact desired
+  WriteFile them writing takes is as ease local memory path Mkdir with switching create
+  if noticed identical 0644 opening data need internally encrypt have normal methods
+  you seamlessly off may then reading blang func And 70 covered same return specific
+  either call embed Take work in don FS about thanks wish providing access those When
+  earlier accessed into when closed repos for pandorasbox ll filesystem Go fmt import
+  detirmines packages NewBox both provides auto So different until importing memguard
+  does library github Println reason 3 use repo 2 that standard information he calls
+  by friendly but testing absfs often be super some OSMkdir Thanks file awnumar can
+  Testing simple opened Host main handling omitted Safety godoc os automatically want
+  InitGlobalBox not described In easily io accessible That code function cryptographic
+  srcFile operate other while tests they 1 vs This Acknowledgements make variants
+  transparently filepath your vfs files locally
+---

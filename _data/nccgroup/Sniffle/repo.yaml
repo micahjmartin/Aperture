@@ -1,9 +1,0 @@
-ignoredescription: false
-name: nccgroup/Sniffle
-scrape: true
-tags:
- - sniffing
- - blutooth
- - ble
-url: https://github.com/nccgroup/Sniffle
-writeup: ''

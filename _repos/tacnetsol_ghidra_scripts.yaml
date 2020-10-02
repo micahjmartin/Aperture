@@ -1,0 +1,32 @@
+---
+name: tacnetsol/ghidra_scripts
+link: https://github.com/tacnetsol/ghidra_scripts
+language: Python
+topics:
+- arm-rop
+- mips-rop
+- ghidra
+description: Port of devttyS0's IDA plugins to the Ghidra plugin framework, new plugins
+  as well.
+writeup: ''
+readme: registers parameters Functions devttyS0 more will List text fluorescence References
+  are explanation codatify Local Codatify only Gadgets Rizzo Blower find ida based
+  from Finder stack or program li mips_rop Chain up https given different Fixup a
+  Identify clone shellcode Tool armrop instructions Display rizzo etc to summary fuzzy
+  chains high format on screenshots Fluorescence values Cross Manager multiple If
+  string discovery Variables the com s leaf jumps new their strcpy install accept
+  Jumps I see current Get Build script finding Create called of add displayed such
+  Return check signatures Ghidra user Some section each functions bullets it tag define
+  renames and exploitation all directory checkbox custom To depth Function Below defines
+  references is found as taking creates with chain strings Double Scripts if double
+  data available need then md you a0 Builder pointers present tables Script overview
+  regular source broken call IDA Support leafblower in value overviews controllable
+  TNS refs operator items arguments Highlight Click cross into appear small for others
+  Convert MIPS ARM identify Format variadic Move callchain Results strlen projects
+  png gadgets link saved scripts port Indirect IOT rename_variables github entire
+  Epilogue plugins Operator via devttys0 that calls Leaf under between specified ROP
+  argument Find Call uninitialized Strings be local_cross_ref can simple applied Rename
+  expressions Searches System In r0 Thumb two Prologue code function variables undefined
+  func_profiler other control they system Summary parts readmes support Profiler account
+  potential level
+---

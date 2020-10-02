@@ -1,9 +1,0 @@
-ignoredescription: false
-name: TheHive-Project/Cortex
-scrape: true
-tags: []
-url: https://github.com/TheHive-Project/Cortex
-writeup: >
-  Cortex tries to solve a common problem frequently encountered by SOCs, CSIRTs and security researchers 
-  in the course of threat intelligence, digital forensics and incident response:
-  how to analyze observables they have collected, at scale, by querying a single tool instead of several?

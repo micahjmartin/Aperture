@@ -1,0 +1,20 @@
+---
+name: izabera/zeromaps
+link: https://github.com/izabera/zeromaps
+language: C
+topics: []
+description: A "living" Linux process with no memory
+writeup: A linux trick for creating a "living" Linux process with no memory. Could
+  be useful as a redteam trick
+readme: contains unmaps early Linux will page segfault finally example everything
+  from instruction emitted tl because proc up https a kill gets 313677 send just thread
+  x64 pid linking to t doing self one no know sleep high thread2 block on asciicast
+  map which final also the s mind new vsyscall list this executable I asciinema fuse
+  svg quick key of such thread1 actual FUSE After funny each it own sure and get org
+  all jits To bytes state maps pressed is was memory creates where with create process
+  Why if dr then particular EINVAL thought source we return unmapping in don compiler
+  lies got unmapped portability reliably Implementation execute into jit doesn filesystem
+  its Requirements until segv does raised anything munmap entire python2 that calls
+  by now stuck A be some file can simple D empty so would modern uninterruptible goes
+  c code too segfaults python there PROFIT details This make living
+---

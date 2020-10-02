@@ -1,0 +1,14 @@
+---
+name: jroimartin/explib
+link: https://github.com/jroimartin/explib
+language: Python
+topics:
+- ctf
+- pwn
+- exploiting
+description: Python package for CTFs and exploit development
+writeup: ''
+readme: exploit http purposes the com install Installation pwntools Documentation
+  based from pydoc m pip a Heavily command CTFs For execute venv for following Python
+  python and explib e development package on
+---

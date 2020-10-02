@@ -1,0 +1,19 @@
+---
+name: schieb/ELFManip
+link: https://github.com/schieb/ELFManip
+language: Python
+topics:
+  - elf 
+  - linux 
+  - offensive
+description: Modify ELF executables
+writeup: ''
+readme: needed project sections additional one of very Installation present linux
+  mind add few being that with engineering py setup used a https Check executables
+  most example segments die corresponding in 1 simple eliminated exposes executbles
+  Requires for built it intended part ELF Cannot headers was bit see work ordered
+  features ELFManip adding usecase 64 to the Known said provides not be limited address
+  specific by examples folder larger Instead is replace some man 32 python objcopy
+  With net install segment functionality and Limitations as This can without thus
+  ability section
+---

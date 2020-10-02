@@ -1,0 +1,32 @@
+---
+name: firstlookmedia/dangerzone
+link: https://github.com/firstlookmedia/dangerzone
+language: Python
+topics: []
+description: Take potentially dangerous PDFs, office documents, or images and convert
+  them to a safe PDF
+writeup: 'Dangerzone works like this: You give it a document that you don''t know
+  if you can trust (for example, an email attachment). Inside of a sandbox, dangerzone
+  converts the document to a PDF (if it isn''t already one), and then converts the
+  PDF into raw pixel data: a huge list of of RGB color values for each page. Then,
+  in a separate sandbox, dangerzone takes this pixel data and converts it back into
+  a PDF.'
+readme: office xls gif page more Linux media will text give dangerous download allows
+  macOS BUILD odg example brew email virtual 0 reduce or repository up https using
+  a optionally releases assets msi again The Jpeg instructions Dangerzone Microsoft
+  size lets non Mac 2013 Screenshot docs to t sh Homebrew these Then firstlook images
+  default containers jpg PDF like know one pdfs systems Graphics You TIFF color Suspicious
+  on choice types also which instead values documents screenshot inspired invisiblethings
+  the pdf com trusted blog never sandbox It list html install compresses firstlookmedia
+  this home Set git tiff See jpeg pixel called of PNG docx already trust _ huge Some
+  Without Sandboxes each After it open post convert and working operating org converts
+  cask them takes malicious odt is as ODF was creates with doc potentially podman
+  if data converting tech then have md you v0 With an OCR Installing Spreadsheet Documents
+  Take about don in Hacked dmg without access Inside layer RGB features into uses
+  Download for ods xlsx suspicious untrusted network started development png tif PowerPoint
+  Text Ubuntu github Fedora works separate Getting PDFs accidentally that sandboxes
+  by repositories 02 but Docker dangerzone installing document Working hacked back
+  pptx phone file can Presentation raw viewer Qubes so odp environment _Read Word
+  isn Excel converter io machines getting 21 attachment ppt GIF following container
+  safe 1 Windows wiki compromise Debian your
+---

@@ -1,0 +1,34 @@
+---
+name: bbc/wraith
+link: https://github.com/bbc/wraith
+language: Ruby
+topics: []
+description: "Wraith \u2014 A responsive screenshot comparison tool"
+writeup: Wraith uses a headless browser to create screenshots of webpages on different
+  environments (or at different moments in time) and then creates a diff of the two
+  images; the affected areas are highlighted in blue.
+readme: brief moments contains sthulb Blooman will blob mathew imagemagick 510056
+  are areas wraith browsers look txt 04 requires mode slimerjs WebDriver read adds
+  bbc index Chris status Contributing time generally 0 from chrome phantomjs based
+  report or multi_capture component Thulbourn up https webpages different using a
+  Website co assets provided out integration grid instructions 16 error capabilities
+  run travis to comparison over runs created LICENSE these 14 Can images comparisons
+  one no changed Comparing on at which also screenshots secure ways screenshot google
+  set decide 510063 shields the documentation logo selenium com s within Mathew Currently
+  history html install modes should everyone terms this Whichever useful BBC developers
+  img svg view Browser of License PNG SlimerJS check For used compare CasperJS how
+  jcleveley News ImageMagick Selenium it Please open maintained Page required and
+  org all visit Cleveley master CI running Photo them takes desktop is was twitter
+  creates with http Source casperjs create process contribute if There any data Chrome
+  available then have CONTRIBUTING you uk gallery md Responsive Anyone environments
+  hall build overview version Documentation rubygems forked source same specific blue
+  license affected Take headless in Simon capability browser uses features into when
+  news several for integrating its Requirements latest outputs threshold John interested
+  packages configuration capture png Dave both Credits below branch Chromedriver Ashton
+  Comparison least github specialist Hall works 3 use What 2 across gems domains follows
+  pixels that by www crop chrisbashton Running specified under task property askubuntu
+  ci A be Spidering some Apache Wraith file can tool once responsivenews raw dblooman
+  PhantomJS diff gem highlighted codeclimate percentage failed selectors exits githubusercontent
+  io v two code paths following comparing options changes 1 system questions domain
+  ready target your above locally
+---
