@@ -2,8 +2,7 @@
 name: mikeryan/crackle
 link: https://github.com/mikeryan/crackle
 language: C
-topics:
-- bluetooth
+topics: []
 description: Crack and decrypt BLE encryption
 writeup: crackle cracks BLE Encryption (AKA Bluetooth Smart). crackle exploits a flaw
   in the BLE pairing process that allows an attacker to guess or very quickly brute
@@ -11,4 +10,32 @@ writeup: crackle cracks BLE Encryption (AKA Bluetooth Smart). crackle exploits a
   process, the STK (Short Term Key) and later the LTK (Long Term Key) can be collected.
   With the STK and LTK, all communications between the master and the slave can be
   decrypted.
+readme: collected PCAP forces are tgz look successfully Found FAQ guess https go Crack
+  decrypt None l Long Note 412741 Questions PIN set the logo com pcap Cracking list
+  should spaces Grab 20 such entropy analyze it has thing was process creating if
+  serve STK connections freenode later help lacklustre launch number present addition
+  Major during Refer libbtbb AKA brute several attempting i branch situation README
+  remaining xx most slow bluetooth Running whether can tool exchanged CRCs not Contents
+  cracks public This established tarball Review supplied more endpoints requires similarly
+  inside fact 0 Ubertooth travis We Temporary Kershaw like range on at octet Spill
+  s Key new quickly site See necessary well Table compiled Operation follow Short
+  org directory master them 128 as Just ltk separators web identical any data review
+  perform fast have Specify generate Asked Kismet thanks providing without communications
+  Files Frequently minimum least use components LTK information between test file
+  so attacker output tests connection will encryption crack unencrypted project Provide
+  interesting possible future time Smart digit using given The net to no TK Modes
+  9 PcapNG BLE mikeryan Decrypted 81b06facd90fe7a6e9bbd9cee59736a7 Analyzing Encryption
+  Build svg analysis pairing significant typically of check ubertooth versions Works
+  done Dominic appropriate working required all is rest sample with http create LL_ENC_REQ
+  encrypt md you With an produce value slave irc uses Sample padded its subdirectory
+  info stdout capture png decryption 12 determine operation portion contain github
+  way playing written ci Thanks strategy raw would automatically keys two In after
+  results other bits your above best Mike contains LL_ENC_RSP usage Mode allows mode
+  Ryan containing decrypted Ossmann employs from original o major or program a force
+  out flaw yy Term run hexadecimal input 999999 event default one Also format very
+  method Status If Example modes this exploits add 6 already used user each and encrypted
+  13 To included found tm methods produced in conversation option sourceforge first
+  Crackle when recalculated for projects both Bluetooth cracking bit Big that by similar
+  crackle be some dragorn derive described Before incorrect packets choose Decrypt
+  files
 ---

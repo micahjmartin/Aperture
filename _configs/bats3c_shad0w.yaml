@@ -4,10 +4,10 @@ link: https://github.com/bats3c/shad0w
 language: C
 topics:
 - c2
-- shellcode
-- redteam
 - docker
+- shellcode
 - dotnet
+- redteam
 description: A post exploitation framework designed to operate covertly on heavily
   monitored environments
 writeup: SHAD0W is a modular C2 framework designed to successfully operate on mature
@@ -20,4 +20,29 @@ writeup: SHAD0W is a modular C2 framework designed to successfully operate on ma
   or XSLs fully inside memory. Dynamically resolved syscalls are heavily used to avoid
   userland API hooking, anti DLL injection to make it harder for EDR to load code
   into the beacons and offical microsoft mitigation methods to protect spawn processes.
+readme: protect src Modular Payloads api more will Injection usage Flangvik along
+  are assemblies look successfully Highly SharpSocks tradecraft Azure fully inside
+  badge status ton Upload designed time logging 2020 from tooling labs or here hooking
+  https using ability All a shad0w real different clone prompt The Custom Aware beaons
+  subject alt non easy capabilities Discord shinject less banner3 generation to dllinject
+  over bypass runs center harder Shellcode nightly Powershell C2 Logs event updated
+  736724457258745996 cd Its binarys BETA framework bats3c Porchetta range Reverse
+  on Traffic gives Status microsoft Mirror theft shields the configurable logo exfiltration
+  com Sysmon blog Process allowing It new Elevate install Mimikatz needs windows exploits
+  side site current git 03 img Industries mirror making continue of relaying beacons
+  For used Bypass evading user ETW proxy codes socks compiled load it XSLs website
+  and syscalls encrypted 8 style all payload userland common interact modular Disable
+  SharpCollection AMSI heavily mitigation traffic PrivEsc tools is anti toolkit Modules
+  found memory twitter with DLL generated web able Anti submodules create process
+  credential Ghost resolved any EXE data sudo Virus Usage methods Protocol you environments
+  SHAD0W injection With an gg discord JS Official server in Common evade AV operator
+  browser protocol Beacons GhostPack guilds frequently execute products yellow cross
+  migrate features EXEs into By when CLI for built Easy modules Donut Download Python
+  info implement Current EDR agents donut recurse align png commands Project Live
+  familiar HTTPS jitters ycXRvcD Extremely Install github square 06 3 dylan use via
+  that VBS offensive by C Built between Docker task pipeline callbacks transmitted
+  TheWover A be Dynamically widget Thanks mature API can file JSON spawn p formats
+  StdAPI powered Communication Modern More Main discordapp In io easily NET code flat
+  platform docker sysmon operate python Allowing while Based they avoid Proxy processes
+  viewed system jumpsec make many DLLs offical Unmanaged your
 ---

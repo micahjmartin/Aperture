@@ -3,12 +3,120 @@ name: caddyserver/certmagic
 link: https://github.com/caddyserver/certmagic
 language: Go
 topics:
-- letsencrypt
-- automatic-https
-- https
 - tls
+- automatic-https
 - acme
+- letsencrypt
+- https
 description: 'Automatic HTTPS for any Go program: fully-managed TLS certificate issuance
   and renewal'
 writeup: ''
+readme: Internet OCSP days backed listeners magic Distributed great performed obtain
+  are community 3ATests disabled instance change contributions certificate automate
+  Typically single fully badge carefully TLS spec FAQ topsecret locking disable up
+  https different go bind AAAA integration 80 gistcomment since assets closest binary
+  credited instructions Exponential err randomly renewed revoked error just SAN etc
+  docs forwarded over runs take lock disables However Yes Note guidelines high ensure
+  RateLimitEvents incredibly Listen also technology throttle which _not_ Encrypt values
+  ways set describes authority almost folder the starts Additionally com trusted ACMEz
+  nothing unmanaged Matthew cloudflare mind It history TLSConfig mounting list tls
+  tlsConfig As should probably convenience verification replacement perhaps I 1073103805112147968
+  fe6b Use plus robust completed December tuned 6053b6b4eb48 downtime were millions
+  such New re Fully listen coordinated happy section how deploy Providing offline
+  battle load own it customizations post sure ever Cache has desired shines lead facilities
+  Caddy_ Usually Challenges Instead starting CAs Configs Android NextProtos provider
+  DNSProvider was twitter taking where distribute mux CA potentially serving randomized
+  serve obtains if recommended speaking connections GetCertificate wrapping tied fbd5
+  49704830 normal learn later help present And router we record return during dev
+  either applications don 30 protocol sport issued having operational KV weeks still
+  those adopted receive tlsconfig extracted Although into attempting Written observation
+  renew considered strict implementation keep network _the implement minute issue
+  renewal something discontinued chosen endpoint So HTTPS station challenge talk wide
+  situation While whitelist privacy does tested directly fill internal Email management
+  works 3 reason remaining limitation ACMETLS1Protocol most gist 2 ACMEManager follows
+  effect 49921557 now Installation whether testing Other resources bash distributed
+  suite A ManageSync mature handshakes can Challenge exclusively do once API myACME
+  than false acmez aren simple static not At fails suitable yay Errorf locks easily
+  8385 duplicated code r configure patches clients following reasonable particularly
+  stores public This make many handshake course ep 97bf Tests type request src On
+  holt external design sharing de words more early front text Highly DecisionFunc
+  issuance requires Again Menu 114591 inside alternate cleans status points Contributing
+  Powerful completes find private 0 limiting defer Automation validations reliability
+  because ALPN implications associated tcp licensed free agree releases premier providers
+  securely resulting Any OR Mac Originally various invented good 100 BSD t dotconferences
+  order always field sliding We automation Can offer variable like w whatever had
+  flexibility try You sole on at MUST beta secure Overview structs yours multiple
+  staple years criteria wrap s 2d506780 means forerunner practices new lasting optional
+  everyone answer needs notion Keep see site necessary exponential trying NewCache
+  See key Lookit making 000 SNI disks well For lifetime allow limit keeps open myTLSConfig
+  enforce safety maintained follow config nil why Please advanced box org cert directory
+  master DoS copyright though them writing synchronization mholt6 handlers as issues
+  complicated memory listener LetsEncryptProductionCA able Package Automatic 1128849
+  req tlsalpn01 Traefik any ACME share _any_ need sudo have careful denied slightly
+  may func Powered thought blue server Staples certain Public call without providing
+  Pluggable language Consequently simplest stay imposes OnDemandConfig features contributing
+  servers rechecking part matthew arbitrary been integrations full fmt didn dns Robust
+  including matches sites forwarding things techniques records ResponseWriter Fprintf
+  higher existing CacheUnmanagedCertificatePEMFile Indication Autocert relicabackup
+  behavior CacheUnmanagedTLSCertificate library DNS template least optimal How documented
+  case relica Getting use online information domains Control instances between feel
+  workflows challenges ManageAsync IPs Cloudflare test revocation usually popular
+  consts file provide per caches much Even reference p Defaults unless Web ethical
+  so ahead made main environment especially qualify failed want hundreds caddyserver
+  responder githubusercontent io Change throughout functional too developing operations
+  cached being control XDG_DATA_HOME avoid they changes Storage weather true support
+  nearly ports decision core automagic level httpMux When my DefaultStorage crazy
+  known require will Linux production depending balancer First needing Agreed Provider
+  few cap_net_bind_service manually Normally outages project Application ServerHello
+  only HOME secured detail feature experience caa possible implementations Staple
+  could time Technically expiring Smart here come tab query using All served engineers
+  cases Examples distributions The Custom renews Negotiation convenient authorities
+  alt easy non performance line responses solution plaintext our managing capabilities
+  to bypass accidental center innovation Then images pointed commit right welcome
+  pioneered know no pass notices _the_ changed giving Config ln genuine setcap satisfies
+  DefaultACME documents string Scales strictly grants obviously policy contributors
+  shields maximum highly write Does who entered compliant unrolled sufficient demonstrate
+  Behind deprecated acme useful accept vast security intervals Similarly img svg majority
+  struct NewServeMux capable implementing called returns names of reachable differently
+  packet APIToken Supports transactions interval Starting 5efe9ef98961ecfb4da8 check
+  443 _same_ simply Sharing _ CacheOptions Do done Works software Active workflow
+  required overcome get conforms all RateLimitEventsWindow safer extension interface
+  interact users powerful client hammer is owns likely ve local path with http Holt
+  doc OnDemand cloud create blockages attempts There HandleFunc root CONTRIBUTING
+  md reading you Rate configs modify environments database guarantees With overview
+  an limits efficient HTTPChallengeHandler intact same work manages staples value
+  about widely Private even HandleHTTPChallenge earlier uses Easy regulate By easiest
+  h3 Development its Requirements recommend import retry long tried 11e8 png Certificates
+  Project practice rather Great until specification wield temporary _Before else github
+  2018 way author armed permission greater standard One staging manage rich 02 freely
+  but wildcard replace u Demand ListenAndServe Wildcard uninitialized But NOT privileges
+  Apache Request Testing empty Let 1235577699541762048 Of credits managed would automatically
+  rotated Implementations please unlikely In two results after variables function
+  installation 1234874273724084226 bug other listening examples href there redirects
+  mholt rate Retries dependence domain actual your 550 above Most best underlying
+  determining mdash append sponsors numerous usage allowed Now relies shared SANs
+  publicly allows read 2015 example SolveHTTPChallenge sourcegraph email Server conjunction
+  2020 letsencrypt from CacheUnmanagedCertificatePEMBytes watch major honors or solving
+  program Simply enable broke summarized libdns before a sometimes force out provided
+  cool power writes authorizing balancers exist NewWithCache thread down run Enabling
+  immediately these event name default Known one certmagic _or_ happened whose package
+  firehosing trillions 767e0cd033c3 instead implemented originally Cross very If method
+  actions hooks prevent persistent maturity makes Layer blob 49d37200 Currently their
+  abstraction html thus CertMagic automated this asking handler side Solves Caddy
+  enabled backup attempt ServeHTTP License add already width links certificates used
+  earlier_ effectively user emails each functions Sponsored website touch and encrypted
+  storage Persistent common click LetsEncryptStagingCA low To central included complete
+  running threadreaderapp libraries Per GetConfigForCert fleet cluster relevant requirement
+  History demand reliance waive available however Usage then Protocol Or Issuer idea
+  zone legal queueing wrong window extra aspect dotGo Features NewDefault specific
+  source license DNS01Solver in valid deploying disk address 10 application Name deployed
+  first Full when sleevi HTTP for 2336055 4 built doesn ll Compared Twitter must CommonName
+  Go solve backoff received job retries 220 Serving stored development fields configuration
+  special align setting obvious requirements Will Credits Optional port brings compromised
+  people posts behind customize Relica that www by response implicit under defaults
+  suit gross start unaffected be Certificate some ephemeral alpn Advanced atomically
+  store obtained thousands spammy handling NewACMEManager sub every grant godoc liner
+  29 described cache accessible programs That platform getting Must 2016 pkg expiration
+  highest while Windows 1 system supports coordinating Default wiki solved stapling
+  computers handled
 ---

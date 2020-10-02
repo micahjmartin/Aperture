@@ -3,13 +3,31 @@ name: moul/cryptoguess
 link: https://github.com/moul/cryptoguess
 language: Go
 topics:
-- guess
 - decode
 - tool
-- decoder
-- hash
-- cryptography
 - forensic
+- guess
+- hash
+- decoder
+- cryptography
 description: Automatically detect and parse cryptography keys
 writeup: ''
+readme: smile type ED25519 request OpenSSH xargs Decoders encodings blob ASN text
+  GLOBAL lzw Metrics lorem base32 txt badges Library certificate gzip badge status
+  find json private from 0 xml report manfred or tags repository utf https go a F
+  releases 20by Touron 16 err l ssh PKCS line error Card t LICENSE ecdsa images cryptoguess
+  PEM default one no structure Shows pem very elliptic set Status BASE64 parses shields
+  publicKeyInfo the des com asn1 isCompound ascii85 PKIX password 2019 new global
+  list GoDoc optional tls As See img svg graph key License codefactor of certificates
+  release console crypto tag nil and 19 encrypted 8 style org terminators get DER
+  master codecov ipsum h found 0xc00005c8c0 memory Encoding with white_check_mark
+  ParsedSSHAuthorizedKey aes rsa base64 der escaped data Usage signed VERSION OPTIONS
+  USAGE authorized help stringType explicit version Manfred Report blue license 115
+  in don 20Touron application arguments GitHub CLI print SSH ASCII cryptography for
+  gob red_circle Go E image long pub COMMANDS f commands command microbadger lines
+  branch CircleCI csv length library RSA Made github Curve Install dsa goreportcard
+  token 2 www by C Docker gh circleci CodeFactor form shield NAME u pubkey test A
+  omitEmpty Apache file show cli n D debug false made Recursive automatically godoc
+  jwt keys io timeType v flat moul x509 class B options cipher 1 candidates public
+  vs true defaultValue encoded JWT life potential detects Elliptic url files match
 ---

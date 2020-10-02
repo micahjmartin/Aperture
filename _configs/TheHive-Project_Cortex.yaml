@@ -3,21 +3,51 @@ name: TheHive-Project/Cortex
 link: https://github.com/TheHive-Project/Cortex
 language: Scala
 topics:
+- rest
+- observable
+- engine
 - forensics
 - free
-- iocs
-- rest
-- engine
 - python
-- response
-- analyzer
-- observable
-- analysis
-- thehive
 - api
+- iocs
+- response
+- thehive
+- analyzer
+- analysis
 description: 'Cortex: a Powerful Observable Analysis and Active Response Engine'
 writeup: 'Cortex tries to solve a common problem frequently encountered by SOCs, CSIRTs
   and security researchers  in the course of threat intelligence, digital forensics
   and incident response: how to analyze observables they have collected, at scale,
   by querying a single tool instead of several?'
+readme: collected api CortexDocs analyzed are community Gmail automate contributions
+  single up https end different Website cortex LICENSE updates take querying Note
+  ensure also which ways supported google REST set the logo com hash blog list stateless
+  As Guide dedicated code_of_conduct addresses Important such parsers horizontally
+  groups d us analyze how load it own researchers observables sure has twitter if
+  problems help gitter having modules several guide tries problem companion issue
+  AngularJS pull won Installation forum API can tool do IP perfect en suitable easily
+  code patches particularly make course account OPSEC TheHive request front investigate
+  hand badges Contributing associated comes forensics free material scale t better
+  TheHiveDocs We accounts Its like try You on at Updates Join scalable new install
+  Try needs taste bulk encountered For released open Please maintained SignUpWithoutGmail
+  org master threat as issues away any need have may analysts thanks Public without
+  language frequently contributing been full including misp tens thehive_project incident
+  existing contact Discussions template case use instances feel Affero file engine
+  leveraging JSON Web made 39 hundreds output operations observable they Analysts
+  support blob depending Linux will integrated few purpose project feature improvement
+  time come using Leverage Bootstrap The Details regularly clicks send performance
+  Code to 14 images welcome flavors types hl service within security svg fork hashes
+  whole names of check analyzers simply software April Alternatively interface users
+  analyzer Along is AGPL with http create submit md reading you an same access fellow
+  uses By news its Requirements General Observables im long VT png Project committed
+  invoke CSIRTs github 2018 chat written Thanks would please two installation overworked
+  bug other there let domain your Most contains publicly allows mode example email
+  VirusTotal thehive or program report repository before a provided out Moreover run
+  Cortex created encounter these analyzer_requirements related one instead very If
+  Architecture Make VM this conduct License adjust wheel Google rewrite and common
+  To SOCs SignUp remain available Information off team Additional requests Documentation
+  files source intelligence Support in address MISP GitHub play training Community
+  for Python latest solve URLs digital guides Analyzers requirements that www by response
+  under posted be some every Scala Twitter missing
 ---

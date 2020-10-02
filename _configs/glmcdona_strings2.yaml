@@ -2,13 +2,24 @@
 name: glmcdona/strings2
 link: https://github.com/glmcdona/strings2
 language: C++
-topics:
-- reverse-engineering
-- windows
+topics: []
 description: 'strings2: An improved strings extraction tool.'
 writeup: Strings2 is a Windows 32bit and 64bit command-line tool for extracting strings
   from binary data. On top of the classical Sysinternals strings approach, this improved
   version is also able to dump strings from process address spaces and also reconstructs
   hidden assembly local variable assignment ASCII/unicode strings. Currently, the
   ASM-string extracting approach only supports the x86 instruction set.
+readme: type Sysinternals On unicode processname strings2 page will are No header
+  project txt download only possible Contributing from instruction stack specify or
+  dumped before a binary out prompt The matching l prints line directions x64 pid
+  pushed to t Only ASM variable space welcome on at reconstructs also dumping nh string
+  set exe title the asm com Example Currently html hex unique filename characters
+  this spaces assembly I Use Flags of PID Some awhile Prints each flags process_strings
+  and all push takes printed is as improved local Contributions http able strings
+  process am maintaining data classical Minimum Usage hidden approach subdirectories
+  dump number malware version window regular 0x valid in cat address Dumps abcd 32bit
+  extracted print 4 for ASCII flag f command contribution assignment x86 extracting
+  top that 64bit follows by specified Add Unicode From 0x1a3 be 419 all_process_strings
+  tool raw prefix Recursively accessible output code r Windows system supports public
+  Strings2 Default processes This split support release numchars
 ---

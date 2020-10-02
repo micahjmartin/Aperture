@@ -68,6 +68,7 @@ TOPIC_MATCHES = {
     "class": "course"
 }
 
+# TODO: Add these to the Web UI
 SEARCH_GROUPS = {
     "redteam": ["redteam", "offensive", "competition", "metasploit", "c2"],
     "blueteam": ["blueteam", "defensive", "security"],
@@ -199,6 +200,7 @@ def SubCommandInit():
 
     if repo.startswith("https://"):
         try:
+            url = repo
             repo = "/".join(repo.split("/")[-2:])
             if repo.count("/") != 1:
                 raise ValueError("")
@@ -275,17 +277,13 @@ def SubCommandScrape():
 
 def getValues(fid, basepath):
     vals = {
-        "tags": [],
         "owner": "",
         'description': "",
         'name': "",
-        'topics_string': "",
         "language": "",
         "readme": "",
         "topics": [],
         "writeup": "",
-        "ignoredescription": False,
-        "id": 0,
         "full_name": "",
         "url": "",
     }
@@ -331,6 +329,10 @@ def getValues(fid, basepath):
         vals["url"] = "https://github.com/"+vals["fullname"]
     return vals
 
+from ast import literal_eval
+
+import re
+
 def SaveValues(values):
     #output = OrderedDict()
     output = {}
@@ -340,6 +342,11 @@ def SaveValues(values):
     output["topics"] = values.get("topics", [])
     output["description"] = values.get("description", "").strip()
     output["writeup"] = values.get("writeup", "").strip()
+    try:
+        readme = literal_eval(values.get("readme", ""))
+        output["readme"] = " ".join(set([i for i in re.split("[^\w]", readme) if i]))
+    except:
+        output["readme"] = values.get("readme", "")
     path = os.path.join("_configs/", "_".join(values.get("full_name", "unknown").split("/"))+".yaml")
     with open(path, "w") as fil:
         fil.write("---\n")

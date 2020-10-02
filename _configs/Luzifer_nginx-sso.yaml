@@ -3,17 +3,23 @@ name: Luzifer/nginx-sso
 link: https://github.com/Luzifer/nginx-sso
 language: Go
 topics:
-- totp
-- duo
 - ldap
-- oidc
+- oauth2
+- duo
 - nginx
 - sso
-- mfa
 - yubikey
-- oauth2
+- mfa
+- oidc
+- totp
 description: SSO authentication provider for the auth_request nginx module
 writeup: nginx-sso is intended to be used within the ngx_http_auth_request_module
   of Nginx to provide a single-sign-on (SSO) for a domain using one central authentication
   directory.
+readme: Wiki intended http order previously on documented github the documentation
+  README com within goreportcard project badges authentication single html badge find
+  everything Documentation Report report program be license https provide using in
+  a can Luzifer of used increase en nginx readability sso In for been docs to Card
+  downloads sign it Go latest there has org moved directory Github This fyi wiki one
+  central domain release ngx_http_auth_request_module You is
 ---

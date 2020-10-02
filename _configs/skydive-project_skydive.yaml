@@ -3,12 +3,11 @@ name: skydive-project/skydive
 link: https://github.com/skydive-project/skydive
 language: Go
 topics:
+- networking
 - metrics
 - ebpf
 - flow
-- graph
 - monitoring
-- networking
 - pcap
 description: An open source real-time network topology and protocols analyzer
 writeup: Skydive is an open source real-time network topology and protocols analyzer.
@@ -17,4 +16,31 @@ writeup: Skydive is an open source real-time network topology and protocols anal
   forward them to a central agent for further analysis. All the information is stored
   in an Elasticsearch database. Skydive is SDN-agnostic but provides SDN drivers in
   order to enhance the topology and flows information.
+readme: pypi OF Distributed obtain along are except contributions badge binaries g8f8gdfq0un9
+  up https binary apache docs LICENSE netns usr forward meeting also google REST set
+  KIND the SDN logo com UI It history quick hyphen Invite localhost d Compose 20Minutes
+  deploy it plastic jenkins 0690fa process heading swagger CII either 30 express E
+  network meet command 2 distributed OpenContrail API than can not chmod v BASIS enhance
+  e This more copy flow CEST download Contributing 0 stack real licensed privileged
+  OR collect agreed mv You on at Open allinone host licenses Key compose Weekly executable
+  what See 2695 aims stackshare open Please follow drivers org master them interfaces
+  writing WITHOUT 8082 yml Connectors sudo Slack 20invite bin may blue browser language
+  features implied involved coreinfrastructure provides steps Minutes bestpractices
+  tutorials use information Docker provide p Web ANY environment 202 curl githubusercontent
+  io docker Gremlin support SKYDIVE_ANALYZER_LISTEN gif blob order 20license infrastructure
+  project flows Workspace Unless gzip time Version here query All using The 11 net
+  line to 5d946ad5 images Lo sock welcome know SKYDIVE_ETCD_DATA_DIR x shields documentation
+  1eri4vyjmAwxiWs2Kp4HYdCUDWACF_HXZDrDL8WcPF Ability Get img svg analysis Kubernetes
+  30am of Supports check software VMs working required get all Thu Your client analyzer
+  h is local path with http 8081 tech si CONTRIBUTING md agent var you database overview
+  an Report protocols about understanding Captures topology Channel further OpenStack
+  access IS Easy jit easiest Best General agents standalone github way law goreportcard
+  PyPI gz ti but StackShare Elasticsearch Apache raw limitations V automatically flat
+  edit container WARRANTIES Practices mode tmp o CONDITIONS or a applicable governing
+  run pid 23skydive Card one permissions html this License used console 2010 Quick
+  builds and g style slack contrib To central minutes complete happening found AS
+  Documentation comprehensive source specific license compliance in 10 Tutorials first
+  GitHub skydive Full for Go latest AM stored started projects Skydive ts agnostic
+  www Thursday 20Meeting by under document Unified start be 20CEST every described
+  getting Containers 1
 ---

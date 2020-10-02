@@ -3,16 +3,78 @@ name: tidwall/tile38
 link: https://github.com/tidwall/tile38
 language: Go
 topics:
-- geojson
-- gis
-- geo
-- database
-- geofence
-- geospatial
-- spatial
 - geolocation
+- spatial
+- geojson
+- database
+- geospatial
+- gis
+- geofence
+- geo
 description: Real-time Geospatial and Geofencing
 writeup: Tile38 is an open source (MIT licensed), in-memory geolocation data store,
   spatial index, and realtime geofence. It supports a variety of object types including
   lat/lon points, bounding boxes, XYZ tiles, Geohashes, and GeoJSON.
+readme: Spatial wikipedia great reserved Latitude bounding are No except instance
+  latitude macOS index single codebase fully badge rectangle left webhooks Instructions
+  Eredis binaries json hedis Pub https different go Polygons since telnet installed
+  Fields 16 meters just Phoenix etc natively GeoJSON over Zero consists PHP LICENSE
+  detected pubsub live QuadKeys which also Playing ways values google Redbird set
+  the starts logo com Redis hash programming ietf It 5 Object probably perhaps redis
+  I 9tbnthxzr subscribe quick enter 284 CL Important Sparse millions pretend such
+  WHEREs localhost del busstop us basic multipoint it Ready tile represented detailed
+  has wooga searching Below respond was twitter where distribute terminal 225 recommended
+  if carmine ok longitude redigo help number build And table 108 realtime boundary
+  we return alive 30 protocol BR those INTERSECTS informatikr SPARSE cursor into area
+  sent Check 4762 featurecollection keep i pattern commands rs pull inf command Ruby
+  branch Erlang interactive iterate does README glob works 3 2 most turn se fenced
+  Running Components clauses 2693 notifications distributed A than can tool do simple
+  equivalent Swift static truck2 not en geohash CURSOR Node code r tinyredisclient
+  clients following Java options This many make 4626 lon Baker type GeometryCollections
+  src request evenly FENCE more text Tiles explanation ton inside completes points
+  find virtual everything based 0 polygon drop boxes members licensed spatial releases
+  9851 exited 64 channels search quadkey exit machine travis 100 remote sh always
+  We field Visit MATCH city like 462 You on at map OSX animation plain multiple clustered
+  eredis fset Clients contained s begins tells install deletes orange optional characters
+  czechboy0 composed rb StackExchange websockets key 2695 tiles truck1 Network notications
+  For dl limit redic compiled open Please org box master searched though them scala
+  as memory truck3 clean double any data MIT setchan need Slack have Geofences filter
+  may zoom hmartiro Roaming 7 90 keyword replication blue server call Common 6000
+  none lettuce interpreted simplest result Bounding southwestern been bounds br OK
+  object including truck02 timestamp pub height 101 ALL higher Command Haskell stable
+  filtering td Within fence library through persist Getting use monitor js debasishg
+  information between Docker specified shell channel test benchmark popular provide
+  JSON message p andymccurdy amakawa so want websocket curl System io enters output
+  RESP operations position docker being point MultiPolygons phpredis true support
+  connection representing level url match Nearby multilinestring gif page Linux will
+  topics order depending perl detect Multiple few Perl NOFIELDS py helpful only xyz
+  feature together ptaoussanis tempe brew exception maptiler Tile floating Realtime
+  assigned roaming using All 70 added cases The returned Subscribe alt performance
+  responses line 10923 to Homebrew center searches checkout Geohash images tile38
+  no geofence Geofencing around types Leader 65536 ignored string Polygon microsoft
+  Tile38 shields documentation within entered msdn Rust pre objects Build Y Maps img
+  Webhooks svg SEARCH indicating times returns geometrycollection of delivering Websockets
+  simply CLEAR LIMIT auxiliary Lisp XYZ Perhaps exists get all interface age client
+  h tools is QuadKey z path with http previously create There coordinates deleted
+  you bb259689 outside database With an version Client protocols same Basic value
+  latlon 5123 Channel member linestring uses CLI easiest sparse precision redox kept
+  16384 slower node_redis png requested invoke sethook Z persists representation github
+  way entire b industry 120 mp911de greater standard One scan geojson but From coordinate
+  cl geofences written ci 24 33 rfc7946 node kilometers would 112 exits In results
+  two 21 border removes other 110 href there messages Josh variety Contact intersect
+  Geo your PerlRedis above Sparsing iteration 1024 speed Libraries belongs id allows
+  monitors collection example truck Server from Building establishing or These golang
+  intersects Glob_ a 4098 out initiating run less these Longitude name default updated
+  X one body systems lat km Also format elevation nearby instead very If Status lots
+  northeastern Variety html follower trucks second this sends Clojure Search vseloved
+  FreeBSD aspx concatenated 40 bbox add 6 WITHIN License already width used Thus and
+  8 slack Therefore Intersects hiredis To included hub running maps detections Point
+  libraries Telnet fleet NEARBY An Geohashes available geolocation methods mitsuhiko
+  couple opens extra 200 named source Features 1695 Started Support in disk stays
+  10 items 256 option gomodule notify looks first GitHub cross Bing adding Full built
+  when 4 for languages tidwall others HTTP Geofence must Go latest Python stored earth
+  radius fields projection align both setting bit geofencing Loop length multipolygon
+  Install 268 that www across similar by C under buses Searching notifies Lat document
+  phulst 32 NodeRedis start be cli store connects dropped sub Scala ptrofimov note
+  haxx Windows choose 1 supports clear bus WHERE wiki system ready release
 ---

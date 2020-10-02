@@ -2,9 +2,7 @@
 name: NextronSystems/APTSimulator
 link: https://github.com/NextronSystems/APTSimulator
 language: Batchfile
-topics:
-- simulator
-- apt
+topics: []
 description: A toolset to make a system look as if it was the victim of an APT attack
 writeup: APT Simulator is a Windows Batch script that uses a set of tools and output
   files to make a system look as if it was compromised. In contrast to other adversary
@@ -12,4 +10,55 @@ writeup: APT Simulator is a Windows Batch script that uses a set of tools and ou
   possible. You don't need to run a web server, database or any agents on set of virtual
   machines. Just download the prepared archive, extract and run the contained Batch
   file as Administrator.
+readme: attackers Injection Uses No Local look guardicore pentest JavaScript single
+  Obfuscation Nbtscan Tries PASS blocks up https different Entry bind kill clone closest
+  UserInitMprLogonScript installed Win Solutions subnets Connect docs runs Guest Discovery
+  scanners Write fail Creates Activates set Nmap folder the starts com privesc It
+  5 Admin Excluder As context caldera I Flightsim Use Monitoring script addresses
+  PowerShellMafia us build_pack expected section EICAR it Cache entries Executes Instead
+  takes traffic was Eventlog ps1 CA TOOLARCH process if moment build Account APT runtime
+  table Start don AV Procdump extracted into executables several evaluate sent DUMP
+  E 7z network Focus tries minute mimikatz controls pull command harm LSASS Assessment
+  tested README 3 repo 2 Sets se Running Add Monkey Ncat shows flightsim A than can
+  tool do simple Collection IP Neo23x0 not isn At en code Screenshots sethc entry
+  following e This make focus LOCAL_SYSTEM target listing request Software batch deisgned
+  me more Scheduled Compromise txt Remote download Ansible demo virtual private 0
+  tcp real forensics releases pwdump classes remote t Customers Intrusion complaint
+  archive had You update on psexec at exe activity JPG contained s powercat new Key
+  aptsimulator Mimikatz executable See key Fake simulation enc well Network reflection
+  Lateral Task Antivirus WCE Follow Endpoint advanced org directory Collect master
+  Recon svchost them 1234 threat malicious as typical memory Just zip web exclusion
+  Why any need have Sticky 7 generate drops Looks toolset server certain executed
+  workfile administrators Administrator without extend Commands renamed StickyKey
+  Files obfuscated privilege features servers been win didn cmd sites extracts Motives
+  Command contact Batch Evasion persistence DNS case Getting use RATs information
+  Response Control mitre CALDERA shell task test Extract caused file c2 MalwareAPT
+  dumps p Web attacker environment want System curl Runs output Activity cyb3rops
+  they Early Dump NIDS known FILEARCH register will nextron Run folders Agents official
+  Execution Extending only Malicious alphasoc possible alternative Prepare time archives
+  yet using Since cases Simulator The Tool Update Movement include net easy non capabilities
+  line our to procdump place scheduled C2 Hosts emulation 7Zip Screen PowerCat microsoft
+  write POCs PUBLIC security intervals Create PsExec Invoke of Do software stability
+  auxiliary appropriate Active working get all extension Exec APTSimulator Desktop
+  SchtasksBackdoor tools is scripted local category ProcDump with AVExcluder http
+  Warning Shells decided Case modify exclusions md root you dump database an version
+  virus Security JS productive about Curl ansible Detection access solutions User
+  uses market Download Creation APTDIR WMIBackdoor suspicious shells agents pretty
+  EDR Credential png gentilkiwi Obfuscated cause sets github way b via standard scan
+  replace procexp64 Defense assessment bat please utility In results machines Cases
+  downloads extract other Scan class vs workfiles Contact domain Drop your Using contains
+  NUL Mode read RAR mode execution allows ext detection wscript from integrity o or
+  report program Scanning Persistence errors Navigate a includes provided Because
+  placed run less executions adversary created name X debugger dir one systems package
+  prerequisites module screenshots dumping besimorhino If prepared apt monitoring
+  mattifestation their button html Password Extraction automated this Windwows contrast
+  File Malware backup add monkey Drops juju4 used user compare Back simulates and
+  encrypted g 8 decoded blocker XML Access POC SOCs An Test cloaked diretory requests
+  malware connect Projects named hosts Infection Adds credentials Started escalation
+  in Dropper address Dumps application products Typical adding when 4 for Job latest
+  job digital Everyone WMI Graeber special simulate ZIP port compromised WMI_Backdoor
+  that www They by response C Avoiding PowerShell back Matt start Backdoor Downloads
+  Connects Advanced Output dropped every aoa SM cache programs That sysinternals GIF
+  haxx RUN Windows 1 system Integrated PowerSploit compromise release Twitter fallback
+  files
 ---

@@ -2,11 +2,7 @@
 name: blendin/3snake
 link: https://github.com/blendin/3snake
 language: C
-topics:
-- linux
-- sshd
-- credentials
-- redteam
+topics: []
 description: Tool for extracting information from newly spawned processes
 writeup: Targeting rooted servers, reads memory from sshd and sudo system calls that
   handle password based authentication. Doesn't write any memory to the traced processes.
@@ -16,4 +12,18 @@ writeup: Targeting rooted servers, reads memory from sshd and sudo system calls 
   extracting strings related to password based authentication. Don't really like the
   solution of backdooring openssh or installing a kernel module on target servers
   so I made this.
+readme: src OpenSSH gif more blob will Linux Run experimental txt read authentication
+  mode only based from tmp o or yubikey proc here up using https end tracers a Listens
+  openssh ssh solution run output_file to t sh event images __ENABLE_SU__ netlink
+  X related like Todo on module ptrace regex 74b2d22c auth traced the __ROOT_DIR__
+  write com su Make password new receives second Don this I current Build enabled
+  of License 0c07 d 474cb9b6daec user reads it Ask config and get traces directory
+  users master client passwords h Limitations is memory 887a terminal Configuration
+  strings Daemonize process credential any MIT Yubikey sudo Usage root dump candidate
+  __ENABLE_SSH_CLIENT__ an rooted Features blendin Located server daemonized really
+  in Targeting __ENABLE_SUDO__ option attached mounted handle adding servers when
+  for filesystem sockets 11e8 sshd About command trace relative extracting kernel
+  backdooring github that 20363764 calls 3snake __ENABLE_SSH__ installing Doesn shows
+  file Output so made every 35941544 fluid githubusercontent usernames output paths
+  Spawns system processes make target When
 ---

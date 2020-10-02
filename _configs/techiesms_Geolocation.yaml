@@ -2,13 +2,10 @@
 name: techiesms/Geolocation
 link: https://github.com/techiesms/Geolocation
 language: Arduino
-topics:
-- gps
-- geo
-- google
-- esp8266
+topics: []
 description: This is the code for getting location onto your ESP8266 board without
   using any GPS harware or GPS module. This code uses Google Geolocation API for fetching
   location
 writeup: ''
+readme: ''
 ---

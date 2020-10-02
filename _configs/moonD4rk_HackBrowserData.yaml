@@ -4,16 +4,34 @@ link: https://github.com/moonD4rk/HackBrowserData
 language: Go
 topics:
 - macos
-- chrome
-- firefox
-- windows
 - offensive
 - browser
 - edge
+- windows
+- chrome
+- firefox
 description: "Decrypt passwords/cookies/history/bookmarks from the browser. \u4E00\
   \u6B3E\u53EF\u5168\u5E73\u53F0\u8FD0\u884C\u7684\u6D4F\u89C8\u5668\u6570\u636E\u5BFC\
   \u51FA\u89E3\u5BC6\u5DE5\u5177\u3002"
 writeup: hack-browser-data is an open-source tool that could help you decrypt data[passwords|bookmarks|cookies|history]
   from the browser. It supports the most popular browsers on the market and runs on
   Windows, macOS and Linux.
+readme: "Internet 360speed_history require verbose blob Linux GLOBAL speed Run qq_history\
+  \ browsers microsoft_edge_cookie qq_password download gs 26 firefox_cookie macOS\
+  \ firefox_bookmark could chrome_cookie Bookmark json from MacOS chrome Building\
+  \ 28 Version https go 22 a binary bookmarks releases decrypt clone 74 compress Because\
+  \ Microsoft 11 just run to t 14 runs default cd dir archive qq_bookmark format on\
+  \ 9 Speed exe x the success com HackBrowserData password history It Safe 5 Password\
+  \ filename hack cc \u4E2D\u6587\u6587\u6863 git security Get firefox_password chrome_password\
+  \ Browser 18 of 6 360 d chrome_history cookie 360speed_password Google console firefox_history\
+  \ open and get microsoft_edge_password 19 all 8 master Market dead chrome_bookmark\
+  \ Desktop passwords vv h desktop cookies is 68 PS zip Compress History Verbose Chrome\
+  \ data share firefox microsoft_edge_bookmark OPTIONS md TODO USAGE you Supported\
+  \ help QQ statcounter build an 54 41 source bookmark microsoft_edge_history value\
+  \ China browser 10 Require result market Full export 44 for 4 Format br worldwide\
+  \ 85 IE README_ZH f Available 91 12 csv Safari Sogou Install github b qq_cookie\
+  \ 3 Share most that C Installation NAME Edge shell Other bash policies 360speed_cookie\
+  \ test some 33 popular show tool simple false moonD4rk Export china 39 results v\
+  \ 65 Legacy Worldwide edge Windows 1 system supports e Cookie Explorer support release\
+  \ your Firefox 360speed_bookmark"
 ---
