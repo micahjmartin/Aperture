@@ -27,7 +27,7 @@ plugins:
   - jekyll-feed
 
 collections:
-  - configs
+  - repos
 
 sass:
   style: compressed

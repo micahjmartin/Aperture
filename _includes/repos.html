@@ -1,5 +1,5 @@
 {% assign colors = "yellow red blue aqua green purple pink" | split: " " %}
-{% for repo in site.configs %}
+{% for repo in site.repos %}
 <li id="{{repo.name | slugify}}" class="disappear"><div class="listItem">
     <div class="group header clickable">
     <div><a  onclick="window.open('{{ repo.link }}')"  class="gh_name">{{ repo.name }} </a></div>
