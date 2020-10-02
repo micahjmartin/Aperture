@@ -12,7 +12,7 @@ Github repository text is indexed on the following pieces of information:
 * The README file
 * Custom meta data that can be added at build time!
 
-![Aperture](https://raw.githubusercontent.com/micahjmartin/Aperture/master/aperture.png)
+![Aperture](https://raw.githubusercontent.com/micahjmartin/Aperture/master/assets/img/aperture.png)
 
 ## Adding a repository
 

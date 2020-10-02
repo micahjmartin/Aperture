@@ -1,5 +1,6 @@
+{% assign colors = "yellow red blue aqua green purple pink" | split: " " %}
 {% for repo in site.configs %}
-<li id="{{repo.name | slugify}}"><div class="listItem">
+<li id="{{repo.name | slugify}}" class="disappear"><div class="listItem">
     <div class="group header clickable">
     <div><a  onclick="window.open('{{ repo.link }}')"  class="gh_name">{{ repo.name }} </a></div>
     <div class="gh_hearts">{{ repo.language }}</div>
@@ -13,7 +14,7 @@
     </div>
     <div class="group tags">
         {% for tag in repo.topics %}
-        <div class="tag" style="border-color: yellow">{{ tag }}</div>
+    <div class="tag" style="border-color: {{ colors | sample }}">{{ tag }}</div>
         {% endfor %}
     </div>
     <p>

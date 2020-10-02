@@ -2,23 +2,27 @@ resultsUl = document.getElementById("results");
 resultsCounter = document.getElementById("resultCounter");
 resultsCounter.innerHTML = `0/${documents.length} shown`
 
+
+// Hide everything in the results list
 function ClearResults() {
     for (i = 0; i < resultsUl.children.length; i++) {
         resultsUl.children[i].classList.add("disappear")
     }
 }
 
+// Unhide the help item
 function ShowHelp() {
     document.getElementById("helpItem").classList.remove("disappear")
 }
 
+// Unhide the message item and update the values
 function ShowMessage(msg) {
     var item = document.getElementById("messageItem")
     item.classList.remove("disappear")
     item.getElementsByClassName("listItem")[0].innerHTML = `<div class="gh_hearts group body">${msg}</div>`
 }
 
-// Call back for searching. Gets called everytime the input bar changes
+// Call back for searching. Gets called everytime the input bar presses enter
 function OnSearch() {
     // Declare variables
     var input, i, results;
