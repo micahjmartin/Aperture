@@ -1,8 +1,0 @@
-ignoredescription: false
-name: brannondorsey/whonow
-scrape: true
-tags:
- - redteam
- - infra
-url: https://github.com/brannondorsey/whonow
-writeup: ''

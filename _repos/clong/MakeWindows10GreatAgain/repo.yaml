@@ -1,6 +1,0 @@
-ignoredescription: false
-name: clong/MakeWindows10GreatAgain
-scrape: true
-tags: []
-url: https://github.com/clong/MakeWindows10GreatAgain
-writeup: This script doesn't address any of the privacy issues of Windows 10 because there are already a bunch of tools that already do that.

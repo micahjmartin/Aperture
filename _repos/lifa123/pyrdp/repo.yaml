@@ -1,9 +1,0 @@
-ignoredescription: false
-name: lifa123/pyrdp
-scrape: true
-tags:
- - redteam
- - mitm
- - rdp
-url: https://github.com/lifa123/pyrdp
-writeup: ''

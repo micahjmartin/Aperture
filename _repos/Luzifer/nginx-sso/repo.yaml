@@ -1,6 +1,0 @@
-ignoredescription: false
-name: Luzifer/nginx-sso
-scrape: true
-tags: []
-url: https://github.com/Luzifer/nginx-sso
-writeup: nginx-sso is intended to be used within the ngx_http_auth_request_module of Nginx to provide a single-sign-on (SSO) for a domain using one central authentication directory.

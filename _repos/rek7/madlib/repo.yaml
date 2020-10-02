@@ -1,6 +1,0 @@
-ignoredescription: false
-name: rek7/madlib
-scrape: true
-tags: []
-url: https://github.com/rek7/madlib
-writeup: Python script to compile a PAM backdoor on to the system. Features include logging credentials, backdoor password, and automatic install.

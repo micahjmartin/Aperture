@@ -1,7 +1,0 @@
-ignoredescription: false
-name: paxtonhare/demo-magic
-scrape: true
-tags:
- - cli
-url: https://github.com/paxtonhare/demo-magic
-writeup: ''

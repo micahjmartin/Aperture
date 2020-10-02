@@ -1,8 +1,0 @@
-ignoredescription: false
-name: edent/Sercomm-API
-scrape: true
-tags:
- - api
- - camera
-url: https://github.com/edent/Sercomm-API
-writeup: ''
