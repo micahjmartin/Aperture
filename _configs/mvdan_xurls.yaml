@@ -1,0 +1,10 @@
+---
+name: mvdan/xurls
+link: https://github.com/mvdan/xurls
+language: Go
+topics:
+- tld
+- extract-urls
+description: Extract urls from text
+writeup: Golang library for extracting URLs from text using Regex
+---

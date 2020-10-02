@@ -1,0 +1,10 @@
+---
+name: google/licenseclassifier
+link: https://github.com/google/licenseclassifier
+language: Go
+topics:
+- classifier
+- license-management
+description: A License Classifier
+writeup: ''
+---

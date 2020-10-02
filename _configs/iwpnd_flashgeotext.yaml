@@ -1,0 +1,13 @@
+---
+name: iwpnd/flashgeotext
+link: https://github.com/iwpnd/flashgeotext
+language: Python
+topics:
+- flashtext
+- search
+- named-entity-extraction
+- geotext
+description: Extract city and country mentions from Text like GeoText without regex,
+  but FlashText, a Aho-Corasick implementation.
+writeup: ''
+---

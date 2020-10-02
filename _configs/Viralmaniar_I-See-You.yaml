@@ -1,0 +1,18 @@
+---
+name: Viralmaniar/I-See-You
+link: https://github.com/Viralmaniar/I-See-You
+language: Shell
+topics:
+- geotargeting
+- osint
+- socialengineering
+- redteam
+- reconnaissance
+- geolocation
+- phishing
+description: ISeeYou is a Bash and Javascript tool to find the exact location of the
+  users during social engineering or phishing engagements. Using exact location coordinates
+  an attacker can perform preliminary reconnaissance which will help them in performing
+  further targeted attacks.
+writeup: ''
+---

@@ -1,0 +1,14 @@
+---
+name: fireeye/flare-floss
+link: https://github.com/fireeye/flare-floss
+language: Python
+topics:
+- fireeye-flare
+- deobfuscation
+- malware
+- reverse-engineering
+- strings
+description: FireEye Labs Obfuscated String Solver - Automatically extract obfuscated
+  strings from malware.
+writeup: ''
+---

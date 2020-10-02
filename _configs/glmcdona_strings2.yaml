@@ -1,0 +1,14 @@
+---
+name: glmcdona/strings2
+link: https://github.com/glmcdona/strings2
+language: C++
+topics:
+- reverse-engineering
+- windows
+description: 'strings2: An improved strings extraction tool.'
+writeup: Strings2 is a Windows 32bit and 64bit command-line tool for extracting strings
+  from binary data. On top of the classical Sysinternals strings approach, this improved
+  version is also able to dump strings from process address spaces and also reconstructs
+  hidden assembly local variable assignment ASCII/unicode strings. Currently, the
+  ASM-string extracting approach only supports the x86 instruction set.
+---

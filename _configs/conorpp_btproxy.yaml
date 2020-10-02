@@ -1,0 +1,10 @@
+---
+name: conorpp/btproxy
+link: https://github.com/conorpp/btproxy
+language: Python
+topics:
+- bluetooth
+- mitm
+description: Man in the Middle analysis tool for Bluetooth.
+writeup: ''
+---

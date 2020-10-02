@@ -1,0 +1,16 @@
+---
+name: returntocorp/semgrep
+link: https://github.com/returntocorp/semgrep
+language: JavaScript
+topics:
+- c
+- sast
+- go
+- static-analysis
+- python
+- java
+- static-code-analysis
+description: Lightweight static analysis for many languages. Find bug variants with
+  patterns that look like source code.
+writeup: ''
+---

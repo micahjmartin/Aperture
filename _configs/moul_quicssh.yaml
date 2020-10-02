@@ -1,0 +1,16 @@
+---
+name: moul/quicssh
+link: https://github.com/moul/quicssh
+language: Go
+topics:
+- proxy
+- server
+- daemon
+- ssh
+- offensive
+- cli
+- quic
+description: SSH over QUIC
+writeup: quicssh is a QUIC proxy that allows to use QUIC to connect to an SSH server
+  without needing to patch the client or the server.
+---

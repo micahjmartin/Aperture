@@ -1,0 +1,11 @@
+---
+name: nektos/act
+link: https://github.com/nektos/act
+language: Go
+topics:
+- github-actions
+- ci
+- devops
+description: "Run your GitHub Actions locally \U0001F680"
+writeup: ''
+---

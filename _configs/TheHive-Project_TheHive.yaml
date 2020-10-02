@@ -1,0 +1,22 @@
+---
+name: TheHive-Project/TheHive
+link: https://github.com/TheHive-Project/TheHive
+language: JavaScript
+topics:
+- forensics
+- free
+- iocs
+- rest
+- scala
+- investigations
+- cortex
+- misp
+- analyzer
+- orchestration
+- platform
+- agplv3
+- api
+description: 'TheHive: a Scalable, Open Source and Free Security Incident Response
+  Platform'
+writeup: ''
+---

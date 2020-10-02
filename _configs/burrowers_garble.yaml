@@ -1,0 +1,14 @@
+---
+name: burrowers/garble
+link: https://github.com/burrowers/garble
+language: Go
+topics:
+- code-obfuscator
+- obfuscation
+- binary
+- build
+description: Obfuscate Go builds
+writeup: Obfuscate Go code by wrapping the Go toolchain. Garble produces a binary
+  that works as well as a regular build, but that has as little information about
+  the original source code as possible.
+---

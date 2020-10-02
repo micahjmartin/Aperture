@@ -1,0 +1,14 @@
+---
+name: CoolerVoid/HiddenWall
+link: https://github.com/CoolerVoid/HiddenWall
+language: C
+topics:
+- firewall
+- linux
+- netfilter
+- rootkit
+- defensive
+description: Tool to generate a Linux kernel module for custom rules with Netfilter
+  hooking. (block ports, Hidden mode, functions to protect etc)
+writeup: ''
+---

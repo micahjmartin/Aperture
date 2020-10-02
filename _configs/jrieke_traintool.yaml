@@ -1,0 +1,17 @@
+---
+name: jrieke/traintool
+link: https://github.com/jrieke/traintool
+language: Python
+topics:
+- ai
+- pytorch
+- machine-learning
+- numpy
+description: "\U0001F527 Train off-the-shelf machine learning models with one line\
+  \ of code"
+writeup: 'traintool is a Python library for applied machine learning. It allows you
+  to train off-the-shelf models with minimum code: You just give your data and say
+  which model you want to train, and traintool takes care of the rest. It has pre-implemented
+  models for most major use cases, works with different data formats and follows best
+  practices for experiment tracking and deployment.'
+---

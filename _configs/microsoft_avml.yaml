@@ -1,0 +1,15 @@
+---
+name: microsoft/avml
+link: https://github.com/microsoft/avml
+language: Rust
+topics:
+- linux
+- memory-forensics
+- security
+- defensive
+description: AVML - Acquire Volatile Memory for Linux
+writeup: AVML is an X86_64 userland volatile memory acquisition tool written in Rust,
+  intended to be deployed as a static binary. AVML can be used to acquire memory without
+  knowing the target OS distribution or kernel a priori. No on-target compilation
+  or fingerprinting is needed.
+---

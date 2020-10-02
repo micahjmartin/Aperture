@@ -1,0 +1,17 @@
+---
+name: outflanknl/RedELK
+link: https://github.com/outflanknl/RedELK
+language: CSS
+topics:
+- logstash
+- elastic
+- redteam
+- infrastructure
+- security
+- monitoring
+- kibana
+- siem
+description: Red Team's SIEM - tool for Red Teams used for tracking and alarming about
+  Blue Team activities as well as better usability in long term operations.
+writeup: ''
+---

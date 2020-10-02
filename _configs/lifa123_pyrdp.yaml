@@ -1,0 +1,12 @@
+---
+name: lifa123/pyrdp
+link: https://github.com/lifa123/pyrdp
+language: ''
+topics:
+- mitm
+- rdp
+- redteam
+description: RDP man-in-the-middle (mitm) and library for Python 3 with the ability
+  to watch connections live or after the fact
+writeup: ''
+---

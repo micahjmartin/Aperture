@@ -1,0 +1,14 @@
+---
+name: schollz/squirrel
+link: https://github.com/schollz/squirrel
+language: Go
+topics:
+- curl
+- sqlite3
+- downloading
+- cli
+- sqlite
+- wget
+description: Like curl, or wget, but downloads directly go to a SQLite databse
+writeup: ''
+---

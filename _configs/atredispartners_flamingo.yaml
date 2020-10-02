@@ -1,0 +1,9 @@
+---
+name: atredispartners/flamingo
+link: https://github.com/atredispartners/flamingo
+language: Go
+topics: []
+description: Flamingo captures credentials sprayed across the network by various IT
+  and security products.
+writeup: ''
+---

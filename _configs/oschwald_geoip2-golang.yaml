@@ -1,0 +1,13 @@
+---
+name: oschwald/geoip2-golang
+link: https://github.com/oschwald/geoip2-golang
+language: Go
+topics:
+- maxmind
+- database
+- geoip
+- geoip2
+- geolocation
+description: Unofficial MaxMind GeoIP2 Reader for Go
+writeup: ''
+---

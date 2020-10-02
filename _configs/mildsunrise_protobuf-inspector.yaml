@@ -1,0 +1,13 @@
+---
+name: mildsunrise/protobuf-inspector
+link: https://github.com/mildsunrise/protobuf-inspector
+language: Python
+topics:
+- cli
+- serialization
+- protobuf
+- reverse-engineering
+description: "\U0001F575\uFE0F Tool to reverse-engineer Protocol Buffers with unknown\
+  \ definition"
+writeup: ''
+---

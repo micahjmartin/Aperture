@@ -1,0 +1,14 @@
+---
+name: jasonish/evebox
+link: https://github.com/jasonish/evebox
+language: Rust
+topics:
+- nsm
+- suricata
+- ids
+- ips
+- security
+- netsec
+description: Web Based Event Viewer (GUI) for Suricata EVE Events in Elastic Search
+writeup: ''
+---

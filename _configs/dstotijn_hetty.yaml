@@ -1,0 +1,16 @@
+---
+name: dstotijn/hetty
+link: https://github.com/dstotijn/hetty
+language: Go
+topics:
+- proxy
+- bugbounty
+- offensive
+- http
+- security
+- mitm
+description: Hetty is an HTTP toolkit for security research. It aims to become an
+  open source alternative to commercial software like Burp Suite Pro, with powerful
+  features tailored to the needs of the infosec and bug bounty community.
+writeup: ''
+---

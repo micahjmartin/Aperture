@@ -1,0 +1,14 @@
+---
+name: ThoughtfulDev/EagleEye
+link: https://github.com/ThoughtfulDev/EagleEye
+language: Python
+topics:
+- face-recognition
+- stalking
+- social-media
+- osint
+- machine-learning
+description: Stalk your Friends. Find their Instagram, FB and Twitter Profiles using
+  Image Recognition and Reverse Image Search.
+writeup: ''
+---

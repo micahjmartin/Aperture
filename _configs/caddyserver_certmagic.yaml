@@ -1,0 +1,14 @@
+---
+name: caddyserver/certmagic
+link: https://github.com/caddyserver/certmagic
+language: Go
+topics:
+- letsencrypt
+- automatic-https
+- https
+- tls
+- acme
+description: 'Automatic HTTPS for any Go program: fully-managed TLS certificate issuance
+  and renewal'
+writeup: ''
+---

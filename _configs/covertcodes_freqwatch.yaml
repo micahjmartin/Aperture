@@ -1,0 +1,13 @@
+---
+name: covertcodes/freqwatch
+link: https://github.com/covertcodes/freqwatch
+language: C
+topics:
+- monitoring
+- sdr
+- gps
+- radio
+description: Keep track of the airwaves with RTL-SDR; snoop and capture everything
+  into a DB
+writeup: ''
+---

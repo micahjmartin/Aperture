@@ -1,0 +1,11 @@
+---
+name: jroimartin/explib
+link: https://github.com/jroimartin/explib
+language: Python
+topics:
+- pwn
+- ctf
+- exploiting
+description: Python package for CTFs and exploit development
+writeup: ''
+---

@@ -1,0 +1,15 @@
+---
+name: r00t-3xp10it/resource_files
+link: https://github.com/r00t-3xp10it/resource_files
+language: Ruby
+topics:
+- ruby-script
+- redteam
+- metasploit
+- offensive
+- offensive-scripts
+- resource-files
+description: mosquito - Automating reconnaissance and brute force attacks
+writeup: This repository contains various resource files to assist in recon, exploitation,
+  and metasploit database related issues.
+---

@@ -1,0 +1,18 @@
+---
+name: sensepost/objection
+link: https://github.com/sensepost/objection
+language: Python
+topics:
+- instrumentation
+- framework
+- frida
+- android
+- offensive
+- security
+- mobile
+- ios
+description: "\U0001F4F1 objection - runtime mobile exploration"
+writeup: objection is a runtime mobile exploration toolkit, powered by Frida, built
+  to help you assess the security posture of your mobile applications, without needing
+  a jailbreak.
+---

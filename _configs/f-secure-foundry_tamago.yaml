@@ -1,0 +1,8 @@
+---
+name: f-secure-foundry/tamago
+link: https://github.com/f-secure-foundry/tamago
+language: Go
+topics: []
+description: TamaGo - bare metal Go for ARM SoCs
+writeup: ''
+---

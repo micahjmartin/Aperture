@@ -1,0 +1,23 @@
+---
+name: TheHive-Project/Cortex
+link: https://github.com/TheHive-Project/Cortex
+language: Scala
+topics:
+- forensics
+- free
+- iocs
+- rest
+- engine
+- python
+- response
+- analyzer
+- observable
+- analysis
+- thehive
+- api
+description: 'Cortex: a Powerful Observable Analysis and Active Response Engine'
+writeup: 'Cortex tries to solve a common problem frequently encountered by SOCs, CSIRTs
+  and security researchers  in the course of threat intelligence, digital forensics
+  and incident response: how to analyze observables they have collected, at scale,
+  by querying a single tool instead of several?'
+---

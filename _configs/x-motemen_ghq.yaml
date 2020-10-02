@@ -1,0 +1,10 @@
+---
+name: x-motemen/ghq
+link: https://github.com/x-motemen/ghq
+language: Go
+topics:
+- cli
+- github
+description: Remote repository management made easy
+writeup: ''
+---

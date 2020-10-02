@@ -1,0 +1,12 @@
+---
+name: tacnetsol/ghidra_scripts
+link: https://github.com/tacnetsol/ghidra_scripts
+language: Python
+topics:
+- ghidra
+- mips-rop
+- arm-rop
+description: Port of devttyS0's IDA plugins to the Ghidra plugin framework, new plugins
+  as well.
+writeup: ''
+---

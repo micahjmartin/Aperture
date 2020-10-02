@@ -1,0 +1,10 @@
+---
+name: bbc/wraith
+link: https://github.com/bbc/wraith
+language: Ruby
+topics: []
+description: "Wraith \u2014 A responsive screenshot comparison tool"
+writeup: Wraith uses a headless browser to create screenshots of webpages on different
+  environments (or at different moments in time) and then creates a diff of the two
+  images; the affected areas are highlighted in blue.
+---

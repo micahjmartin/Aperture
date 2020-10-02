@@ -1,0 +1,15 @@
+---
+name: radioactivetobi/geo-recon
+link: https://github.com/radioactivetobi/geo-recon
+language: Python
+topics:
+- geo
+- ip-lookup
+- osint
+- offensive
+- reconnaissance
+- geolocation
+description: An OSINT CLI tool desgined to fast track IP Reputation and Geo-locaton
+  look up for Security Analysts.
+writeup: ''
+---

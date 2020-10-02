@@ -1,0 +1,12 @@
+---
+name: GhostManager/Shepherd
+link: https://github.com/GhostManager/Shepherd
+language: Python
+topics:
+- dns
+- infrastructure
+- redteam
+description: A Django application to help red team operators manage a library of domain
+  names
+writeup: ''
+---

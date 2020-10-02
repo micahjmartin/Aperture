@@ -1,0 +1,23 @@
+{% for repo in site.configs %}
+<li id="{{repo.name | slugify}}"><div class="listItem">
+    <div class="group header clickable">
+    <div><a  onclick="window.open('{{ repo.link }}')"  class="gh_name">{{ repo.name }} </a></div>
+    <div class="gh_hearts">{{ repo.language }}</div>
+    </div>
+    <div class="group body  clickable" onclick="window.open('{{ repo.link }}')">
+    {% if repo.description.size > repo.writeup.size %}
+    <div class="gh_description">{{ repo.description }}</div>
+    {% else %}
+    <div class="gh_description">{{ repo.writeup }}</div>
+    {% endif %}
+    </div>
+    <div class="group tags">
+        {% for tag in repo.topics %}
+        <div class="tag" style="border-color: yellow">{{ tag }}</div>
+        {% endfor %}
+    </div>
+    <p>
+        {{ repo.content | markdownify }}
+    </p>
+</div></li>
+{% endfor %}

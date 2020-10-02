@@ -23,10 +23,14 @@ url: "" # the base hostname & protocol for your site, e.g. http://example.com
 markdown: kramdown
 theme: minima
 plugins:
+  - jemoji
   - jekyll-feed
 
 collections:
-  - repos
+  - configs
+
+sass:
+  style: compressed
 
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list

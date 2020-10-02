@@ -1,0 +1,13 @@
+---
+name: capnspacehook/pandorasbox
+link: https://github.com/capnspacehook/pandorasbox
+language: Go
+topics:
+- vfs
+- security
+- cryptography
+- filesystem
+- virtual-file-system
+description: An intuitive and encrypted in-memory filesystem (VFS)
+writeup: ''
+---

@@ -1,0 +1,16 @@
+---
+name: datalogistics/wildfire-dln
+link: https://github.com/datalogistics/wildfire-dln
+language: C
+topics:
+- image-classification
+- lora
+- atak
+description: Code and scripts for applying DLT in a disconnected, challenged environment
+  with a focus on wildfire incident response.
+writeup: 'Wildland Fire Data Logistics Network (WildfireDLN): An Implementation of
+  Resilient Networking WildfireDLN will deliver rich and informative data with a robust
+  system that supports file transfer and access across disconnected, heterogeneous
+  networks to address the needs of wildland firefighting operations for increased
+  network coverage and data portability.'
+---

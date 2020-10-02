@@ -1,0 +1,16 @@
+---
+name: kscottz/PythonFromSpace
+link: https://github.com/kscottz/PythonFromSpace
+language: Jupyter Notebook
+topics:
+- gis
+- imaging
+- satellite
+- computer-vision
+- image-processing
+- jupyter-notebook
+- python
+- vision
+description: Python Examples for Remote Sensing
+writeup: ''
+---

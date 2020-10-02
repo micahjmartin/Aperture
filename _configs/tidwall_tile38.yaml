@@ -1,0 +1,18 @@
+---
+name: tidwall/tile38
+link: https://github.com/tidwall/tile38
+language: Go
+topics:
+- geojson
+- gis
+- geo
+- database
+- geofence
+- geospatial
+- spatial
+- geolocation
+description: Real-time Geospatial and Geofencing
+writeup: Tile38 is an open source (MIT licensed), in-memory geolocation data store,
+  spatial index, and realtime geofence. It supports a variety of object types including
+  lat/lon points, bounding boxes, XYZ tiles, Geohashes, and GeoJSON.
+---

@@ -1,9 +1,11 @@
+---
+---
 <!DOCTYPE html>
 <html lang="en">
   <head>
     <meta charset="utf-8">
-    <title>{{ page.title }}</title>
-    <link rel="stylesheet" href="assets/css/main.css">
+    <title>{{ site.title }}</title>
+    <link rel="stylesheet" href="{{ '/assets/css/main.css' | relative_url }}">
     <link href="https://fonts.googleapis.com/css2?family=Nixie+One&display=swap" rel="stylesheet">
     <link href="https://fonts.googleapis.com/css2?family=Work+Sans:ital,wght@0,200;0,300;1,100&display=swap" rel="stylesheet">
 
@@ -11,7 +13,7 @@
   <body>
     <div class="h_center">
       <div class="v_item">
-        <label class="title">Aperture</label>
+        <label class="title">{{ site.title }}</label>
         <label class="subtitle">a window to ingenuity</label>
       </div>
       <div class="v_item searchbar" style="margin-top: 10%;">
@@ -21,13 +23,21 @@
       </div>        
       <div class="v_item">
         <ul id="results">
+          {% include help.html %}
+          {% include repos.html %}
+          <li id="messageItem" class="disappear">
+            <div class="listItem">
+            </div>
+          </li>
         </ul>
       </div>
       </form>
     </div>
   </body>
   <script src="https://cdn.jsdelivr.net/npm/minisearch@2.6.0/dist/umd/index.min.js"></script>
-  <script src="assets/js/documents.js"></script>
-  <script src="assets/js/template.js"></script>
+  <script src="assets/js/searchable.js"></script>
   <script src="assets/js/main.js"></script>
+  {% comment %}
+  <script src="assets/js/template.js"></script>
+ {% endcomment %}
 </html>

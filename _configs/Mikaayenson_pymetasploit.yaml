@@ -1,0 +1,11 @@
+---
+name: Mikaayenson/pymetasploit
+link: https://github.com/Mikaayenson/pymetasploit
+language: Python
+topics:
+- metasploit
+- exploit
+- rpc
+description: A full-fledged msfrpc library for Metasploit framework.
+writeup: ''
+---

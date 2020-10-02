@@ -1,0 +1,16 @@
+---
+name: cytopia/pwncat
+link: https://github.com/cytopia/pwncat
+language: Shell
+topics:
+- portforward
+- ncat
+- netcat
+- offensive
+- pivoting
+- nc
+description: pwncat - netcat on steroids with Firewall, IDS/IPS evasion, bind and
+  reverse shell, self-injecting shell and port forwarding magic - and its fully scriptable
+  with Python (PSE)
+writeup: ''
+---

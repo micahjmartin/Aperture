@@ -1,0 +1,15 @@
+---
+name: zserge/lorca
+link: https://github.com/zserge/lorca
+language: Go
+topics:
+- electron
+- ui
+description: Build cross-platform modern desktop apps in Go + HTML5
+writeup: Build cross-platform modern desktop apps in Go + HTML5  A very small library
+  to build modern HTML5 desktop apps in Go. It uses Chrome browser as a UI layer.
+  Unlike Electron it doesn't bundle Chrome into the app package, but rather reuses
+  the one that is already installed. Lorca establishes a connection to the browser
+  window and allows calling Go code from the UI and manipulating UI from Go in a seamless
+  manner.
+---

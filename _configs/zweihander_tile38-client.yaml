@@ -1,0 +1,14 @@
+---
+name: zweihander/tile38-client
+link: https://github.com/zweihander/tile38-client
+language: Go
+topics:
+- geo
+- geofence
+- spatial
+- geospatial
+- geolocation
+- tile38
+description: Tile38 Client package
+writeup: ''
+---

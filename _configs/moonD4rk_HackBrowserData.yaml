@@ -1,0 +1,19 @@
+---
+name: moonD4rk/HackBrowserData
+link: https://github.com/moonD4rk/HackBrowserData
+language: Go
+topics:
+- macos
+- chrome
+- firefox
+- windows
+- offensive
+- browser
+- edge
+description: "Decrypt passwords/cookies/history/bookmarks from the browser. \u4E00\
+  \u6B3E\u53EF\u5168\u5E73\u53F0\u8FD0\u884C\u7684\u6D4F\u89C8\u5668\u6570\u636E\u5BFC\
+  \u51FA\u89E3\u5BC6\u5DE5\u5177\u3002"
+writeup: hack-browser-data is an open-source tool that could help you decrypt data[passwords|bookmarks|cookies|history]
+  from the browser. It supports the most popular browsers on the market and runs on
+  Windows, macOS and Linux.
+---

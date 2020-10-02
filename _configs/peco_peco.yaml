@@ -1,0 +1,10 @@
+---
+name: peco/peco
+link: https://github.com/peco/peco
+language: Go
+topics:
+- cli
+description: Simplistic interactive filtering tool
+writeup: Command line filtering tool. Pipe data into Peco and interactively filter
+  the results.
+---

@@ -1,0 +1,10 @@
+---
+name: s0lst1c3/dropengine
+link: https://github.com/s0lst1c3/dropengine
+language: Python
+topics: []
+description: DropEngine provides a malleable framework for creating shellcode runners,
+  allowing operators to choose from a selection of components and combine them to
+  create highly sophisticated payloads within seconds.
+writeup: ''
+---

@@ -1,0 +1,15 @@
+---
+name: moul/cryptoguess
+link: https://github.com/moul/cryptoguess
+language: Go
+topics:
+- guess
+- decode
+- tool
+- decoder
+- hash
+- cryptography
+- forensic
+description: Automatically detect and parse cryptography keys
+writeup: ''
+---

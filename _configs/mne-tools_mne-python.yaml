@@ -1,0 +1,19 @@
+---
+name: mne-tools/mne-python
+link: https://github.com/mne-tools/mne-python
+language: Python
+topics:
+- electrocorticography
+- neuroimaging
+- magnetoencephalography
+- ecog
+- statistics
+- electroencephalography
+- eeg
+- visualization
+- neuroscience
+- meg
+description: 'MNE : Magnetoencephalography (MEG) and Electroencephalography (EEG)
+  in Python'
+writeup: ''
+---

@@ -1,0 +1,9 @@
+---
+name: clong/MakeWindows10GreatAgain
+link: https://github.com/clong/MakeWindows10GreatAgain
+language: PowerShell
+topics: []
+description: Tweaks to make Windows 10 less annoying and more usable
+writeup: This script doesn't address any of the privacy issues of Windows 10 because
+  there are already a bunch of tools that already do that.
+---

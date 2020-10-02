@@ -1,0 +1,12 @@
+---
+name: algolia/places
+link: https://github.com/algolia/places
+language: JavaScript
+topics:
+- autocomplete
+- geolocation
+- geocoder
+- geo
+description: ':globe_with_meridians: Turn any <input> into an address autocomplete'
+writeup: ''
+---

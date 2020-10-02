@@ -1,0 +1,14 @@
+---
+name: JustAnotherArchivist/snscrape
+link: https://github.com/JustAnotherArchivist/snscrape
+language: Python
+topics:
+- social-network
+- social-media
+- osint
+- scraper
+description: A social networking service scraper in Python
+writeup: snscrape is a scraper for social networking services (SNS). It scrapes things
+  like user profiles, hashtags, or searches and returns the discovered items, e.g.
+  the relevant posts. Scrapes Facebook, Instagram, Twitter, Telegram, VKontakte.
+---

@@ -1,0 +1,12 @@
+---
+name: nothings/single_file_libs
+link: https://github.com/nothings/single_file_libs
+language: c++
+topics:
+- c
+- list
+description: List of single-file C/C++ libraries.
+writeup: A list containing small, easy-to-integrate, portable libraries which are
+  usable from C and/or C++, These libraries should be able to be compiled on both
+  32-bit and 64-bit platforms and contain <= 3 files to include.
+---

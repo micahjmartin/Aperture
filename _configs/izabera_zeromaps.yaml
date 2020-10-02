@@ -1,0 +1,13 @@
+---
+name: izabera/zeromaps
+link: https://github.com/izabera/zeromaps
+language: C
+topics:
+- linux
+- trick
+- memory
+- redteam
+description: A "living" Linux process with no memory
+writeup: A linux trick for creating a "living" Linux process with no memory. Could
+  be useful as a redteam trick
+---

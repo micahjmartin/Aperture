@@ -335,15 +335,19 @@ def SaveValues(values):
     #output = OrderedDict()
     output = {}
     output["name"] = values.get("full_name", "")
-    output["url"] = values.get("url", "")
+    output["link"] = values.get("url", "")
     output["language"] = values.get("language", "")
     output["topics"] = values.get("topics", [])
     output["description"] = values.get("description", "").strip()
     output["writeup"] = values.get("writeup", "").strip()
     path = os.path.join("_configs/", "_".join(values.get("full_name", "unknown").split("/"))+".yaml")
     with open(path, "w") as fil:
+        fil.write("---\n")
         yaml.dump(output, fil, sort_keys=False)
-
+        fil.write("---\n")
+        # TODO Add readmes back in
+        #fil.write(values.get("readme", ""))
+        #fil.write("\n")
     
 
 # I know this command calls a lot of the same functions many times over, but I dont care, it works, its a build script.

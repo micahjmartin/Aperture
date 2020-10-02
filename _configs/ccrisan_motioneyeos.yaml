@@ -1,0 +1,11 @@
+---
+name: ccrisan/motioneyeos
+link: https://github.com/ccrisan/motioneyeos
+language: Makefile
+topics:
+- rpi
+- dvr
+- camera
+description: A Video Surveillance OS For Single-board Computers
+writeup: ''
+---

@@ -1,0 +1,14 @@
+---
+name: sharkdp/fd
+link: https://github.com/sharkdp/fd
+language: Rust
+topics:
+- regex
+- tool
+- terminal
+- cli
+- filesystem
+- search
+description: A simple, fast and user-friendly alternative to 'find'
+writeup: ''
+---

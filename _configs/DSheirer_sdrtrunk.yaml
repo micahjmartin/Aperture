@@ -1,0 +1,12 @@
+---
+name: DSheirer/sdrtrunk
+link: https://github.com/DSheirer/sdrtrunk
+language: Java
+topics:
+- p25
+- sdr
+description: 'A cross-platform java application for decoding, monitoring, recording
+  and streaming trunked mobile and related radio protocols using Software Defined
+  Radios (SDR).  Website:'
+writeup: ''
+---

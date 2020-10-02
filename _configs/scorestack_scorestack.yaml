@@ -1,0 +1,11 @@
+---
+name: scorestack/scorestack
+link: https://github.com/scorestack/scorestack
+language: Go
+topics:
+- competition
+- elastic
+- scoring
+description: A security competition scoring system built on the Elastic stack.
+writeup: ''
+---

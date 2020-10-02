@@ -1,0 +1,13 @@
+---
+name: paxtonhare/demo-magic
+link: https://github.com/paxtonhare/demo-magic
+language: Shell
+topics:
+- demo
+- cli
+- automated
+- tool
+description: A handy shell script that enables you to write repeatable demos in a
+  bash environment.
+writeup: ''
+---
