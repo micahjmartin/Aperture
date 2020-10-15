@@ -1,0 +1,37 @@
+---
+name: fireeye/capa
+link: https://github.com/fireeye/capa
+language: Python
+topics:
+- reverse-engineering
+- malware-analysis
+- defensive
+description: The FLARE team's open-source tool to identify capabilities in executable
+  files.
+writeup: >
+  capa detects capabilities in executable files. You run it against a PE file or shellcode and it tells
+  you what it thinks the program can do. For example, it might suggest that the file is a backdoor,
+  is capable of installing services, or relies on HTTP to communicate.
+readme: very license entries we techniques us program lets within actions do 0 workflows
+  Download about png reported shows collection s Here files threat 3ACI overview html
+  tool capabilities Yara formats Pro standalone next gif it Alternatively should branch
+  Check then requests txt or services fireeye example License capable thinks relies
+  further this interesting workflow nightly persistent usage mixture Please passing
+  analysis format Linux found event io Windows as at easy first conclusions extend
+  our be step used distributed HTTP reverse logo exactly 07 against in from contains
+  more You doc data control PE Taken dissect you Base64 level 2020 can binary via
+  hundreds This github line research binaries write installing integrate that ran
+  evidence engineering https blob flag www svg how to output recover useful even server
+  vv YAML repository makes By green see build navigate experienced file the two shields
+  suspicious these master detects If sample tells Therefore exe run and OpenIOC matches
+  quickly where verify ida_plugin_intro malware badge automatically least of command
+  communicate OSX what study contribute setup suggest learn In unknown XOR those standard
+  integration capa are md without status Number identify together verbose why 3Amaster
+  a think explain For 2 3Apush for Apache shellcode rule sandbox Contributing img
+  fetch library information spawn ida CONTRIBUTING another instructions explorer areas
+  processes decode might following 64bit TODO above rules blue uses com CI using enables
+  analyst terminal recognizes trust links results IDA The built LICENSE releases latest
+  is here plugin Guide These reports stable authoring one use install some by backdoor
+  with send regards an download post limitations helps 368 query new could assembly
+  try out To installation find development on executable blog reasons
+---

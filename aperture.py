@@ -68,7 +68,7 @@ SEARCH_GROUPS = {
     "education": ["course", "education", "list", "demo", "training"]
 }
 
-language_tags = ["python3", "python27", "python2", "golang", "golang-package", "nodejs", "node", "js", "typescript", "javascript"]
+language_tags = ["python3", "python27", "python2", "golang", "golang-package", "nodejs", "node", "js", "typescript", "javascript", "cpp"]
 
 def normalizeTopics(data):
     """Normalize all the topic names
@@ -77,7 +77,11 @@ def normalizeTopics(data):
     actual_tags = set()
     tags = [t.lower() for t in data.get("topics", []) if t]
     repo = data.get("full_name", "")
-    l_tags = language_tags.copy() + [data.get("language", "").lower()] + repo.lower().split("/")
+    l_tags = language_tags.copy() + repo.lower().split("/")
+    lang = data.get("language", "")
+    if lang:
+        l_tags.append(lang.lower())
+    
     for tag in tags:
         if not tag:
             continue

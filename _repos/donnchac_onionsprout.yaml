@@ -1,0 +1,23 @@
+---
+name: DonnchaC/onionsprout
+link: https://github.com/DonnchaC/onionsprout
+language: Go
+topics:
+- onionservice
+- tor
+- web
+description: OnionSprout is a tool to run publicaly-accessible web services, for example
+  from Raspberry Pi in your home, without a public IP.
+writeup: ''
+readme: go using first to should third server proxy connections Later as interface
+  sets yourself can page where terminate address end domain Your started by and in
+  will Example name building routes show on or publicly onion CLI webserver running
+  All involved private is public Pi kept because a subdomain tool The host forward
+  You for up automatically use Register OnionGateway transparently certifcate Installation
+  it registering TLS IP Tor your need which home be package have accessible encrypted
+  network example the repo configure computer service without configuration provison
+  traffic user over run Additionally location key A install connection anyone from
+  TODO Usage via party Currently OnionSprout own publicaly are LetsEncrypt store Start
+  To routed s you cloning local Configure new request services test Raspberry web
+  this
+---

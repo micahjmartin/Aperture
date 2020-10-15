@@ -1,0 +1,11 @@
+---
+name: lbernstone/IR32
+link: https://github.com/lbernstone/IR32
+language: C++
+topics:
+ - esp32
+ - infrared
+description: Infrared remote using rmt peripheral on esp32
+writeup: ''
+readme: RMT Arduino peripheral IR C utilizing library ESP32
+---

@@ -1,0 +1,20 @@
+---
+name: rkinnett/ESP32-2-Way-Audio-Relay
+link: https://github.com/rkinnett/ESP32-2-Way-Audio-Relay
+language: C++
+topics:
+  - wifi
+  - radio
+  - sdr
+  - ham
+  - esp32
+description: ESP32-based 2-way audio interface for wireless voice and data relay between a network terminal and an amateur radio.
+writeup: ''
+readme: physical been When between talk into This hackaday com no versa interface
+  wireless relays samples Wifi protocol relay 170710 hfvhf drain ham UV way network
+  provides packet host over wired voice modes Banana vice APRS converts tnc for Baofeng
+  For vb is both amateur digital with an signal through running 5R banana open Voicemeeter
+  data Audio www from ESP32 esp32 control also project analog streams and audio connection
+  based VBAN to Relay 2 using stream Way circuit external use The radio enabling Winlink
+  https on wirelessly PC htm has the a tested push terminal io
+---
