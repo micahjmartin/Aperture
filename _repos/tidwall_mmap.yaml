@@ -1,0 +1,13 @@
+---
+name: tidwall/mmap
+link: https://github.com/tidwall/mmap
+language: Go
+topics:
+  - library
+description: Load a huge file into a byte slice without actually reading any data
+writeup: ''
+readme: is bye sure can without if into reading t cked s bigole That instantly now
+  Make like other when much a actually you data file any slice Using huge release
+  mmap happens Now closing read Load Go done all GBs byte your even pretty to otherwise
+  This after Installing f Don many the
+---

@@ -1,0 +1,10 @@
+---
+name: pvachon/hantek6254bd_reveng
+link: https://github.com/pvachon/hantek6254bd_reveng
+language: C
+topics:
+ - radio
+description: Repo for reverse engineering the Hantek 6254BD USB-connected oscilloscope
+writeup: ''
+readme: ''
+---

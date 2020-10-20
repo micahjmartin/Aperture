@@ -189,10 +189,13 @@ def SubCommandInit():
     print("[*] Scraping Github information")
     data = GithubGet("repos/"+repo)
     data["url"] = url
-    print("[*] Scraping Readme")
-    readme = GetReadme("repos/"+repo)
-    subs = readme.split("\n```")
-    data["readme"] = " ".join([" ".join(s.strip().split()) for s in subs[::2]])
+    try:
+        print("[*] Scraping Readme")
+        readme = GetReadme("repos/"+repo)
+        subs = readme.split("\n```")
+        data["readme"] = " ".join([" ".join(s.strip().split()) for s in subs[::2]])
+    except:
+        print("[!] Readme could not be scraped")
     normalizeTopics(data)
     SaveValues(data)
     # Edit if we are in vscode

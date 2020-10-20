@@ -1,0 +1,231 @@
+---
+name: infosecn1nja/AD-Attack-Defense
+link: https://github.com/infosecn1nja/AD-Attack-Defense
+language: null
+topics:
+  - redteam
+  - offensive
+  - defensive
+  - windows
+  - ad
+description: Attack and defend active directory using modern post exploitation adversary
+  tradecraft activity
+writeup: ''
+readme: Plain pt active_directory_domain modifying Backup 4624 adversary asset 2875fa6dc78083cedeab10abc551cb58
+  Bypass hunt Ensure wednesday Integrity credential windows naming Services ADSA 2008
+  client Cheat channel9 DCSYNC ATP medium 04 9547d8152e3490a6e5e3da0279faab64340885be
+  World 1684 Mimikatz gather on 770 pentesting account Carlos Push collections takeover
+  Scoubi Hack strike own forward system Malware hardening c 0708 May finder versions
+  Forging focused changes shells exploiting Talk Epic Unhooking does monitoring those
+  exec Under extent And 77ABC5BD 1040 This Changes understanding logon roasting testing
+  path configuration data implementation become 3719 Trusts time enhancement static
+  ijustwannared Trust 2012R2 Accounts Macros days Rid everyones Free kerberoast same
+  Sigma home default Others 23 Default id heard manage create Cyber Environments TGS
+  toolset Weaponization meant Code across sandboxing impacket cypher attacks SilkService
+  Jumping BADLOCK PW Engineering notsosecure subcategory insight Vulnerability Text
+  Administrator membership Revisited Probably result cyber More deploy Robertson KB2871997
+  150 wsus TR17_AD_signed Five two Implementing sysadmins 20with API ultimate A Should
+  audit Segment they Loading Roasting 05 Premier Description ef0132ba4ae3cc136914da32a88106b9
+  PIN Tips Creating think publicdomain with 25 database To That Queries Attack Administrative
+  segregation Exploit technique 0x00 Shadow 4634 scanners i novel Pro Update EDRs
+  Beacon reboots 5141 Teams specific 8211 dive Reading Discovering re service Blue
+  1472 Privesc plaintexts ldapdomaindump linte resident Detects than DCs leaves jp
+  surface We SDProp 0143 attack started lists template 0145 arbitrary especially networks
+  f8b143b11dc020b854178d3809cf91b5 have Searching when Dump objects DACL Get 4673
+  red RoqVunX_sqA detect dpapi Endpoint unload hashes holistic Just setting kerberoasting
+  creativecommons sysinternals Utility When Up thevivi FGPP Updates for Escalating
+  Thompson Defence 2753 middle ScriptBlock english technet not ClrReflection properly
+  Strategies five 2efb21acffd6 specially Assessment been members img Alternative strategies
+  command AttackingAndDefendingTheMicrosoftCloud canix1 PowerUpSQL Aorato direct AS
+  TR18_AD_Attack 2003 Hunt Advanced global Files DCShadow 41AF Required Linux whitepapers
+  any Good applied Zerologon Without minutes Hacker Behavioural methodology DFL Methodology
+  being DomainPasswordSpray edr best Database Pass Leverage Handbook over 1667 method
+  channel iRz7 LSAD compromising leoloobeek 3 Clients derbycon my group Unique cert
+  explore 1511 BYOL honeypot guests Ebooks context Authority BloodHound skeleton defender
+  dynamic plain Sleeve Compromising 2013 pdf Directory ACE Vista Using event lateral
+  ERNW_DogWhispererHandbook PL9HO6M_MU2nc5Q31qd2CwpZ8J4KFMhgnK Over 01 run ITSP Awareness
+  g_amsiContext Validate acls ID Novel Office gist stream Mitigate IT jonsh Strike
+  88x31 exploits ithint advisory adidns Team Resources hijacking and 179 4510f52fc19d
+  srdi looking localaccounttokenfilterpolicy EU knethteo 8320 General penetesting
+  internal alternative 314202 Best Dog e38e06ffd604 591 many Dechaining creating eng
+  Considerations GUI Servers Long D97 Administration wagging AmsiScanBuffer modular
+  tampering palantir 2011 modules interface currently SysmonSearch 1812 Movement unhooking
+  gpo redteam edition protect lets SECURITY Downgrade 1e8dcb5b Combining 4929 D026B4699190F1E6
+  Principal oh 8B51 4625 helping the 2f221924fef8c14a1d8e29f3cb5c5c4a finally wald0
+  Trusting Signing threats interactive picture network operational dezhub Vault likelihood
+  initialize cracking using Binaries Living 5fcc6e84 inappropriate NRPC Toolkit samratashok
+  Practical everyone all forests Fix v buster ESAE Baseline wild apis RACE EdvGp79RzH1rbM4zE45Kki2I
+  20CERT pentestlab posts Security Recovery Impacket trusts directory your FuzzySecurity
+  feature different 4798 LAPSToolkit Deployment help common Patching t5 requires theft
+  DCSync watch harmj0y threat ZeroLogon untrusted trust 10 object Evading DCPromo
+  03 shhmon searching mitigate oTyLdAUjw30 5 response KDC Procedures Disaster Threat
+  Empire DogWhispererV2 Permissions new TrimarcADChecks give Planning 2 Chain azure
+  Another raw BRK3486 Hash Offensive Mittal forest Defenses Escalation features KRBTGT
+  previous 4064 ADRecon Monitors Invoke Trimarc Version bypass l0ss real Modern reset
+  computer collection Limit trimarcsecurity troopers variable admin inactive msdn
+  dog NBNS Ways mode mwrlabs distribution gathers entire pentesters 2843 scoping adfs
+  acl Cheats AskPFEPlat SP2 Skeleton Hidden GoFetchAD Transcript Signs Analysis driver
+  labofapenetrationtester Practices port ATA py exploitation Hashes deep Defending
+  From 3328d954607d71362e3c krbtgt zBang 4672 Commands should eu DC virtual hub Provider
+  20Movement users defense considerations explicit LAPS R2 POC cheatsheet tradecraft
+  practices active leaks Targeted Kerberoasting playlist EA api secureworks blogs
+  4743 3164 Automation vulnerabilities OUs hosting SAs Not one Clear Windows Varonis
+  pingcastle device sdprop rid an reducing Collection docs Attacking Live information
+  controls dumper these Hosts experimenting custom 26 Early visualizing persistence
+  modified enumeration domain Beyond bring Rescue wrappers Protocol gallery 13 279a1ed7863d
+  Malicious Monologue threatexpress Manage sense plug Robbins Solution admins Discovery
+  config escalating 28 PowerPoint Elusive Methods Stop GPO of SpoolerScanner instrumenting
+  specterops through 8 Connect Admins assessment executing computers scope AMSI Bingham
+  JPCERTCC olafhartong Workstations 025 Minidump 20theft tradecrafts changed looks
+  Manager ACTIVE OiqaO9RHskU copyright 8518 Message ASD Taking Silver hash redteaming
+  Secure Controls riccardoancarani Phant0m 184f9822b195c52dd50c379ed3117993 Insecure
+  proof complexities Mitigation tickets hausec Engine rsmudge will 1588 Grouper Protection
+  mkorman90 SprayingToolkit injection prevention 155422 cryptography Policy sr enable
+  keys Real Tools Degrees Killer Pentesting Group Enhanced avs Schema Recommendations
+  Preferences Adversary hacking Can Engagements collection_2019 Kill 581a9e51 d permissions
+  Dynamic Responder Gathering HuyKha2 version Trending CobaltStrike MIC 61C0882662AC
+  world RUbADHcBLKg blog detection 4771 0128 History So 6ECFB10CB4B9 secureyourit
+  07 Deploy am fs Access technical performed so implementing reps software onlyrefuse
+  tool Device are 1906 trusted BSidesCharm probably 068 Unlocking via use customise
+  targeted 2c46102b76bc exploit tactics updates crafted llmnr vast pwning interact
+  Powersploit other stigviewer Force Sql Reducing aspx Full automatically 1785 New
+  email Guard Operational Technique patches SMBv1 1640 you link Part 20Kerberos detecting
+  Request exists esae replica etc Attackers environments swiss Heard if establishes
+  Plans Dumping presskit Teamer BloodHoundAD revisited Do attempted NTLMv2 procedures
+  abusing Galaxy Print targets SAMRi10 Info Create each level 012 sysmon hunting Execution
+  Could ticket acsc preventing patch Spraying ws connects For script 4662 Allow Well
+  later domination mapping SSP 1729 resid Disabling running media Resource ActiveDirectory
+  free available get signature 5137 Process Responding 71f2b33688e1 09 Guide remove
+  monitor intel operation Teamers Finally edit category capability Cease SWP_14_07_PassTheGolden_Ticket_v1_1
+  20Pentesting opsec PingCastle reg 20Garcia knowledge License RWDCs downgrade Honeypot
+  applocker enhanced Exploiting secure affects process Evasion v20 LyncSniper Fear
+  LLMNR ExtraSids DSRM cobaltstrike Enabling every high ACLs Port 101 Account FS sixdub
+  manager characters successfully dl forensics central Leveraging dcsync 440283 Extraction
+  Summary ANY HarmJ0y System policy Have sensitive RODCs 3299 app increase functionality
+  BHUSA2018_Sysmon Weak Ross JcFdNAleIk4 YOU 20Rooted2019 exploited amsiscanbuffer
+  passing DNS memory Framework 2288 evil mitigating Bypassing Ignite LSASS 1508 Compromise
+  Course youtu due local downloads thread Pwnage C google au Mapping xpnsec gofile
+  Asia simple My EU_Security_Whitepaper_2014 Revenge compromise C14579CA microsoft
+  RDP europa fireeye engagements unauthenticated sans Own who List neighboring PowerShell
+  case Word aclpwn One Tom forwarding 4688 Overview sight Name logging do DA Intrusion
+  attacking SharpGPOAbuse Hang exercise generated im extrasids Sysadmin Federation
+  24e46b73 suspicious Trying MHaggis appropriate 112 LogonTracer preferences execution
+  tracing NS KB3004375 constrained edrs SharpDump introduction classes kerberos separate
+  Them adstg Implement 4768 situational Pen BloodhoundAD study Administrators en Blocking
+  Spns tools CERT CredDefense Anti TTPs bloodhound Key prevent 2014 Its social based
+  The 1lQHTqXZIDxwaIUnXdO can hooking explained secureauth DeathStar Morowczynski
+  Hacking Learned 3782 sccm 4056 call subTee Block md SilkETW mdsec Bloodhound maturity
+  Developing inside KrbTgt clr S4U2Pwnage Simple privileged Monitor Issues malicious
+  powerview Table APIs Post SACLs is useful handle application able pentestpartners
+  awareness Forwarding ClrGuard Credentials 7 override Unintended Exploitation Field
+  commands Path calls Config securitybulletins Gold jumping Domains 650 cylance scans
+  assoc av Link Terminal Securing defending Fosaaen Computer tags under Gargoyle LBXQm6M6YIBQNWa4V7tp99YQ
+  view info NtlmRelayToEWS connection Touching crowdstrike kekeo single Checks Netlogon
+  azuread 1 described Out Monitoring 14 slightly Detection combination ca exchange
+  DCSYNCMonitor edermi 2017 0148 lolbas ultimatewindowssecurity architecture Improving
+  Business Azure things CrackMapExec netspi WSUS spray Our About com installed Sheet
+  Preventing word 2012 enabled Designing powersploit Sysadmins load Backdoor systems
+  powerupsql administrator Improve Guests equivalent escalation endgameinc 8581 stack
+  Spray Interface administrators ntlm 0Kee TGT All 2fc8af6ea28199fd63a529a73a4176c7
+  slideshare Reset finding 118 PaulSec required fox Tickets Land sends 4 BlackHat
+  Important stealthy review Spoof Doors Situational possible Leaks support seconds
+  Wdigest teams domains Walkthrough attackers Active events secura Enumerating Technical
+  or defend Set ASSESSMENT deployment Off LOLScripts Enumeration November workstations
+  unconstrained 007_Kerberos_Golden_Ticket_Protection_v1_4 1330537912_Keys_to_the_Kingdom_Limiting_AD_Admins
+  2cpptx Scan WhitePapers password 2535 their cloud never delegated Take Tactics Minimal
+  complexity hackmag 20credential 2010 rescue HoneyTokens MS14 offensive SMB Direct
+  Title state corrupt mwrinfosecurity servers Other RastaMouse forged An 15 people
+  Powerupsql wmi mdavis332 PowerSCCM CVE us exited reports dcept Mode step Years 21
+  rdp text RPC Rahmat Whisperer law Right camo Scanning LOLBins Pull passwords Add
+  Analytics org in TTP Retrieving Rights Remote Way written br Kerberoast Script github
+  build Six enumerating Usage nsacyber securely this InjectedThread www Is target
+  Language sql hidden only 23905d34537ce4b5b1818c3e6405c1d2 Theft ANGRYPUPPY scripts
+  400 army 4769 activedirectory NBT right amsi 7e8d539a9029 Stealthy advanced 20through
+  20guide ds materials Auditing to Loader quality Teaming risks ired logs long Sccm
+  plugin defence Many Integrated rapid7 javelin walkthrough shadow io has 600 Go Unconstrained
+  s4u2pwnage reading techniques Kevin identity Digging Unload gc function at DCSHADOW
+  ata remote pen sid survey Troopers presentation Golden Implementation zero enigma0x3
+  microsofts EMET restrictions called 70 pass rights https source RPRN cstc SP1 Ntds
+  ilzjtlo0vbyu1u0 LocalAccountTokenFilterPolicy co 4799 more PYKEK securitylog logged
+  access 2362 REP jblog 1607 elevati Shadowception guide 20Active Guidance Restricted
+  be workstation blackhat Application break SteelCon gdedrouas teaming Sysinternals
+  Checksum activity GPOs Oh services WSUSpendu Controllers Mitigation_Strategies_2017
+  Lessons Management Takeover mdsecresearch Ultimate Use nikhil_mittal Only Getting
+  speakerdeck Understanding Enterprise bypassing known SeEnableDelegationPrivilege
+  Auto crawling OmerYa analyzing 22 pam CheatSheets I no key Does Shells informational
+  insider determine macros privilged dnsadmins delegation Send 27 ACL Sdprop Automated
+  Restore 365 trustedsec Shhmon S4U2Proxy Study Tradecrafts Arno0x TarlogicSecurity
+  sysadmin byt3bl33d3r Attacks planting interaction ADV190006 gentilkiwi gargoyle
+  RiskySPN plan 20 AD risk Privileges stealthbits ms14 Splunky 20Lateral cc755321
+  gain Activity privileges nl CLR Segregation deleted detects without designed Ticket
+  Product Utilizing DIRECTORY management OPSEC Persistence temporary Scripts Common
+  2053 dafthack Delegation Wilkin 1760 deception instantly associated Internal dumping
+  endgame Workstation earn redxorblue Email Kingdom Finding 4648 trending eladshamir
+  analytics Forest 0683 4611 CMD File Derivative thinking PowerSploit tips Skype 451
+  wiki PoC pwnage impersonate WMI profile You Spoofing working Lync Remove dangerous
+  User Delegate Integration Elevation CHECKLIST combining Local vletoux sacl responder
+  latest Your such Configuration AMvCRTKB_V1J5ow 4103 11 protocols accounts templates
+  land discovering Network back penetration administration Abuse Formalized limit
+  Net linux Logon jpcert SAM countercept critical Systems 2293 poisoning dsimg cannot
+  techcommunity cd125829518d Event ADACLScanner RT PowerUp environment buttons Pwning
+  age REPs rubeus RiskySPNs NetSPI vysec Automate encyclopedia With caused Hardening
+  Domination In serverlevelplugindll recommendations Abusing establish 17 failed terms
+  Constrained 0144 BOF formerly man Wagging MacDonald 1714 Tradecraft 20public Exchange
+  Sharp dirkjanm needed 3458 ten ernw implementations 3tier QuestSoftware Limiting
+  Weekly trusting part WEF Invisi internet rastamouse connect Credential mouse abuse
+  VAST insights Running unintended html Groups corporate requests me utilizing Jacob
+  Trustpocalypse overview repository Resilience Detecting 36780 dead decoy STIG MITM
+  request 403 registered Sysmon Module HKEY_LOCAL_MACHINESYSTEMCurrentControlSetControlSecurityProvidersWdigest
+  SYSVOL Dead Disable performing impact NET abstract Deception Defender 250315 hosts
+  youtube SecureAuthCorp module Cracking 20Directory unsupported 1275 outflank everybody
+  framework before Microsoft Privileged dit troopers17 mailsniper list dropbox project
+  ps1 assess Project tweekfawkes uk Tool Evasions resilience 18931 Relaying removed
+  Kerberos infosecn1nja guidance fr Pentester ZIOw_xfqkKM regularly NTDS LDAP trustpocalypse
+  off jaredcatkinson laps RID Audit Ten SPNs DouglasBienstock share which 20Forests
+  4742 controller also office credentials CLM cobbr g35f391192_00 extracting year
+  road K Risk 682b5be57650 onedrive Lateral mirrors v2 Check evading could groups
+  Patch Cylance 863C Silencing FVTRh deploying blob Case Sensitive generates Based
+  Protected Managed Death Single vulnerable Constructing nettitude_labs requested
+  Links full potential auditing ADV190023 user Support movement loaded SIEM OOB used
+  slides control allow Python ad SpiderLabs Distribution Sheets privilege de fsx30
+  gov githubusercontent purposes csec tasks 68747470733a2f2f646f63732e6d6963726f736f66742e636f6d2f656e2d75732f616476616e6365642d7468726561742d616e616c79746963732f6d656469612f61747461636b2d6b696c6c2d636861696e2d736d616c6c2e6a7067
+  improving Pyrotek3 related Introducing 4689 document ntlmrelayx block PowerView
+  Applications MachineAccountQuota Driver sec564 Tier Awesome take current Scanner
+  l8nkXCOYQC4 Cloud elevation blackhillsinfosec AV DPAPI fear hack Execute years v3
+  623 most Forests work awesome Admin Toolset It abuses Lifecycle powershellisdeadepiclearningslondon
+  powershell 08 Contents Sources Pwned report Become contents envelope Now packets
+  20Primitives everywhere authenticated 19 issues Service good VBA Tiered protocol
+  subverting turn golden vulnerability Primitives about IAKDLn Shell Rubeus weak getting
+  Argument DIT 4armed shenaniganslabs Adminsdholder 4557222 Data Binding silencing
+  honeytokens Scanners Generic links Buster Log dir Logoff was Identify another slide
+  7c9ef772 Format resource alsid AP BloodHoundWorkshop 1772 Injection 5f45a414 centralize
+  0146 federated SID 2015 by Cobalt Gaining 34 No NTLM pub cyberark into Review fortynorthsecurity
+  Learnings stored Granting authentications ETW Tampering contextis Kekeo 06 US practical
+  dll Breaking that OSs 20Event width Surface spns Logging Incidents master gouv find
+  Defense What Keys SafetyKatz filtering 0 utiilzing digging WatchAD Of revenge Re
+  Mining requirements BackDoor 2962486 Research Center tr18 perform evasion introspection
+  wp MS technology Password introducing digital Mobility GoFetch Crawling Sean SadProcessor
+  file Mitigating DACLs Tracking Domain sigma download folders Neo23x0 CC0 protection
+  Testing ubm E564 execute connections Red ssi Runtime breaking Risks Extracting Hunting
+  Metcalf away administrative shellster svg identify varonis post 6324 tricks 4780
+  modern 18996 msrc 525 Tiers vba authentication Users eBook much settings deployments
+  AppLocker DoD Federated our as Descriptors Survey leveraging Karl 20mitigation Memory
+  Scoping Session AdminSDHolder Recon attacker Remotely MailSniper PE code unlocking
+  2018 ba 3694 waived content 2019 Response Coltel How Implant understand Powermad
+  room push signs against Backdoors 2716 Logs adminsdholder PowerShellMafia patching
+  Controller Two LM DNSAdmins live ed283e7ebdd5 death Boundary server Sneaky Silently
+  net Step obtain approved 20Attacks 2016 Control ADFS Never IDS Techniques mimikatz
+  m AD_Sec_Tools quickly doors beacon uploads SCCM Bring ways mattifestation Passwords
+  SwiftOnSecurity mitigation extract Privilege 2020 hlldz Desktop nbtns docx flexible
+  Road http foothold DNSAdmin EDR 541 xB26QhnL64c 20Delegation AVs articles Cypher
+  defenses experiments longer Hijacking DLL knife scheduled Poisoning existence 3377
+  Performing how Permission 3658 aka a Planting Defend boundary Protect 20964 remotely
+  netlogon davidprowe stig created Nurfauzi Suite 12 ntds Channel adsecurity pre Dangerous
+  necessary Hide Endpoints log Functions authkey sneakymonkey allows it 3011780 Server
+  Assemblies Calls labs Cheatsheet research Gain Subverting src cobalt Events consequently
+  portal publications Object DogWhisperer 20Tracking blue Enable 20Logs_version2 Investigate
+  but remains Across minimizing discovery security team securing provide whitelisting
+  Information dfir relaying concept SPN sRDI GhostPack SQL dcshadow DerbyCon DirkjanMollema
+  Most UPDATED search from Dcshadow while Host 16 set 1j2nW05H cc enumerated rasta
+  Powershell 48d94b5b once dechaining Fighting s Signature ebook p
+---

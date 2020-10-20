@@ -1,0 +1,14 @@
+---
+name: becksteadn/jennings
+link: https://github.com/becksteadn/jennings
+language: Shell
+topics:
+  - apfell
+  - c2
+  - redteam
+  - offensive
+description: Automated setup for a persistent apfell agent.
+writeup: ''
+readme: See a md runlevels jennings persistent role Automated documentation setup
+  agent for README Apfell using plant
+---
