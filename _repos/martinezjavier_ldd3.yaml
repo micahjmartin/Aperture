@@ -1,0 +1,22 @@
+---
+name: martinezjavier/ldd3
+link: https://github.com/martinezjavier/ldd3
+language: C
+topics:
+ - linux
+ - drivers
+ - sample
+description: Linux Device Drivers 3 examples updated to work in recent kernels
+writeup: ''
+readme: recent using Linux were next relevant for generic symlink code warrior 16
+  CDT updated 5 compile up 4 project examples 3 recently Builds against wiki example
+  Bugs now 04 the July cproject Kernel of latest To Drivers should provided in 2020
+  system correct old original most com years or This work setup net versions tested
+  9780596005900 aims The https found HowTo_use_the_CDT_to_navigate_Linux_kernel_source
+  05 builds qemu and LDD3 Linus 19 assuming Device specific 2019 supported symlinking
+  files keep http Compiling to date linux See 9 do directory org patches instructions
+  drivers 18 oreilly book Eclipse headers this branch installed Latest Torvalds source
+  linux_source_cdt be 42 Integration are kernel a 0 local Buildroot kernels github
+  link point ldd3 lwn as done is comments git below on About sfr at few with Yocto
+  eclipse pub scm issues martinezjavier can by Tested not tree integration Ubuntu
+---

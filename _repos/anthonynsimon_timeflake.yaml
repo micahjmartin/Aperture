@@ -1,0 +1,60 @@
+---
+name: anthonynsimon/timeflake
+link: https://github.com/anthonynsimon/timeflake
+language: Python
+topics:
+- uuid
+- snowflake
+description: Timeflake is a 128-bit, roughly-ordered, URL-safe UUID.
+writeup: ''
+readme: kind Unique UUIDv1 behavior In automatically traffic able understanding clustered
+  precise case encode then 2015 2e number article Features Systems UUID zzzz465 been
+  increment Java Announcing Thank on gist very primary for strings 21 machines consider
+  collisions 2120 unique_68 anything latency 3e nice MySQL Most check media what still
+  unfortunately be happen int Paradox tests so knows userN if switched such publication
+  order Send potentially Geographic Padding representations privacy changes perfectly
+  Simply tokens timeflakes per extensions bits single Commit How in Contributors uuid
+  readme models paradox roughly The the properties security anonymize New safe create
+  system sequential displayed bugs sharding should Implementation Want bytes Inspired
+  load version hundred following tested identity Even 2 likely libraries all used
+  some indexing prepared CHANGELOG milliseconds connection also already required request
+  circleci steps points gives mess provide Instagram of Also centralized apps Any
+  fast visited IDs string Create Android Identifiers follow briefly dependencies enables
+  associated 3 it reveals Build Browsers announcing 80 location after Fast modified
+  significant hex set close documented googleblog extension languages included user
+  vs indices creating but during Timeflake peewee Flexible from when chance avoid
+  pull t posting art made compatible posted object MIT mleonhard not sorting took
+  They its API long services generated types build currently implications users KSUID
+  re unsigned Why It Roughly org space other go These consist Operating Efficient
+  v1 help Fully Added most Birthday 00 grows please and that reveal Twitter Components
+  cryptographically UUIDs 02i2XhN7hAuaFh3MwztcMd adds shields starts random standard
+  has to max billion details Implementations LICENSE many parties immediately 02 timeflake4js
+  efficient macOS license auto one over while any posts integers which Browser Posting
+  based Javascript even Out timestamp 24 practical URLs makes analysis Example existing
+  add indexes collision CircleCI respective valid representation twitter more stay
+  three no Python Sqlite3 As timeflake timeflake4j 5 now Peewee 160 ULID combined
+  firebase example With ordered new useful Postgres network timestamps than alternatives
+  simple better record 50 stopped Ways push screen switch can shares file trillion
+  length party 6 under share 4 encodings 128 1 password explain JS have every advance
+  enough ID raw birthday Snowflake with versions their ORM as making your derive functionality
+  would hack contribution box betterexplained do using SAP Prior faster appM post
+  This I millisecond numbered iOS welcome mostly next meant https names does And considered
+  million data github gh will Provided Data 120 blob less away Some part For sold
+  requests embedded looking Right module v dw companies Changelog UUIDv4 3c7a162fb83a833850af8ff668d5441b
+  keys secure Cloud model third use shortly Windows codebase python search Latest
+  approach might unique coordination must notifications Extensions creates anthonynsimon
+  given geographic only sell fields 7 doesn User additional reviewed match working
+  records Dependencies s save Version is Make database So provides sequence read bibby
+  Implemented Published databases feature Django information PushID support Post 48
+  platform multiple instagram Analytics incremental affect Gioni06 Google 32 like
+  Go You TS created 2010 dataset lexicographical img this could hide see performance
+  K Please There issue snowflake round a times edited you analytics pypi master alphabet
+  an them Since are or up en_us Fork project app ids Sharding Contribute Whether encoding
+  Usage encodes Firebase engineering time note A docs across anonymizing characters
+  URL sensitive 22 end Supported See com md incrementing preserve html Typescript
+  12 ways licensed bit reset Alphabets timezone fragmentation how articles include
+  sends Status branch de ensure same secrets aware custom software editing 1cf5a71e5a5c
+  before io License v4 If Downloads want write was server client usage send No handle
+  Ensure at numbers predictable within ISPs they Note library were blog base62 PyPi
+  sortable by view differences
+---

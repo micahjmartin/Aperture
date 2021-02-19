@@ -1,0 +1,14 @@
+---
+name: archcloudlabs/ghidra_scripts
+link: https://github.com/archcloudlabs/ghidra_scripts
+language: Java
+topics:
+ - ghidra
+ - reverse-engineering
+ - upx
+description: Collection of ghidra scripts used in CTFs/Malware analysis/just poking
+  at things
+writeup: ''
+readme: ELFs Scripts embedded used just Check_UPX signatures Check things in ghidra
+  poking UPX ghidra_scripts and for Collection analysis CTFs at java Malware of scripts
+---

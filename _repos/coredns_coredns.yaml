@@ -1,0 +1,56 @@
+---
+name: coredns/coredns
+link: https://github.com/coredns/coredns
+language: Go
+topics:
+- cncf
+- plugin
+- dns-server
+- service-discovery
+description: CoreDNS is a DNS server that chains plugins
+writeup: ''
+readme: images rfc8484 In coming Corefile go1 look box named 1443 Blog tutorials Remove
+  document serve so listening Practices list lib any over discuss prometheus appreciated
+  recursive Start metrics old Block More com 500 E Docker converted disk log don addr
+  goreportcard performed the Increase act Prometheus issues by Rewrite are notifies
+  1 r twitter starting projects NSEC or utilizing found called Policy fly enables
+  1444 generated 7858 cache as auto route53 kubernetes issue nsid CII SkyDNS 2 Slack
+  runs number corednsio vulnerability friends name instead io 0 qname amd64 a we Deployment
+  branch mycert running listen go forwarder this Retrieve guidelines github When specified
+  godoc process Modules fix needed an disclosures docker Load grpc loadbalance Specifying
+  followed Please authoritative cncf skynetservices change command query if already
+  identifier finally workarounds coreinfrastructure Integrate should party and g googlegroups
+  assume graduated 1250 it follows label way img requires shields They must output
+  audit here AXFR Sign HINFO response release replacing word able 13 dig Profiling
+  1518 what very TCP error re configured now DoH Translation run coredns writing show
+  sent DNS dnssec make mention is explugins have system announce org qclass addresses
+  supported See NOT Release server incompatible add Use etcd git Announce dns stops
+  8 returned works Mailing Compilation sure compatible resources alone other while
+  example z vulnerabilities unchanged no most allowed your pprof primaries next gRPC
+  reference balancing key specifically md everything 25 correct Pulls reverse could
+  Audit chains CoreDNS tree UDP forwarded nameserver current backwards Reporting To
+  Support will flexible Build does slack master CH 1053 We check in override arpa
+  1519 transport codecov which using Github removes fuzzit still to ci Contribution
+  modifying binary consult This repository address features loads clone starts review
+  TLS transfers printed rewrite of upstream range 24 return y there mykey active directory
+  skydns version parsing www Each that signed fast documented contribution mod do
+  providers report parsed 6 Card IPv6 from sending please on ports 3 Coverage wiki
+  below e blob addressing greatly Code 8f for Report configuration Twitter written
+  If above can svg rfc7858 data various reports given plugins p travis security compile
+  org_id tools Documentation conversion queries case tls Provide CIDR Make also see
+  cd via 5 was group DNSSEC new standard logging 127 working txt listens dot full
+  Source proxy bind automatically used DO c find Allow Native some transfer qtype
+  CoreDNS_Colour_Horizontal However falls var I start Cloud both Means x pulls Deprecation
+  2001 Currently zones NSID hub class template primary ietf SECURITY pdf changes Cure53
+  Note linux 53 12 up zone all build then public Security systemd easily closing 4
+  logged responses A forward Caching Any Status environment ANY app k8s Community
+  Best First project setup minor higher out function blog Serve t Foundation related
+  DoT assumed IP Listening information 10 publicly cases following reason whoami prefer
+  png third html installed errors want CONTRIBUTING allow same deployment option flag
+  5001 use load but Then send performs patch with through blue without dns64 And Go
+  dev you even i plugin done file those request 8484 details Computing requests contribute
+  RFC set privately thank badge secondary backend chaos Examples only functionality
+  HTTP be backward default files golang processes lenient cloud Automatically not
+  port Website The bestpractices support protocol everybody 01 yield https aa8c32
+  config match corefile Sometimes more DNS64 occupied assets provided
+---

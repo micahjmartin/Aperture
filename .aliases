@@ -1,5 +1,5 @@
 alias ap="./aperture.py init"
-
+export TERM_PROGRAM=vscode
 function edit() {
     lastcom=$(history 2 | head -n 1 | python3 -c "import sys; print(sys.stdin.read().split()[-1])")
     path="_repos/$(echo $lastcom | sed -Ee 's/https?:\/\/[[:alnum:]\-\.]+\///;s:/:_:').yaml"

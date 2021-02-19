@@ -1,0 +1,49 @@
+---
+name: mkirchner/linked-list-good-taste
+link: https://github.com/mkirchner/linked-list-good-taste
+language: C
+topics:
+- linked-list
+- elegant
+- pointers
+- torvalds
+- linux
+description: Linus Torvalds' linked list argument for good taste, explained
+writeup: ''
+readme: routing maintaining declaration us makes still integers work can comparison
+  as once pointers img i statement branching let removal respectively implementation
+  Thus of called Linked how below iteration he insight style part points l else next
+  Using His considers iterator out supports sequence insert_before invalid while throughout
+  particularly extends However at prefers With from existing using inserting new find
+  well simple explanation modify additional hold actually advance examples above if
+  considered indirect Everything each understand target L condition access given scheme
+  reason this remove singly exist lack equals until dereference tests 2016 edge elegant
+  accessed location This traverse so www Introduction insertion technical allows again
+  around moving back incoming So be starting branch yield have member 2 over include
+  uses outcome place If API consistent need How IntListItem certainly deletion values
+  find_indirect concise item are 10 arrows comment following CS re that introduction
+  structure integer beyond problem turn means Inserting where idea beginning alt rewrite
+  br https lists instance do translates list section talks example handle C use cs101
+  src refactor standard not good different 3 goes variable Quick arbitrarily flows
+  Integrating less NULL is cf The reproduced I p select general An we leads turns
+  appended and straightforward solution b works ted premise version non s normal position
+  which png integral more prev one time behind starts illustrated When maintain speaks
+  latter look meaning always After iterate detail start editing no order runs task
+  value without point predecessor boxes 14 search initial Maintaining also into h
+  take Linus corresponds provides implement e benefit last Here remove_cs101 linus_torvalds_the_mind_behind_linux
+  basic entire beautiful key on directly coding in implementations deal subsequently
+  advanced Singly view add require In like Figure pointing first pseudocode marking
+  get these algorithm found Numbers implementing you model or doesn known items align
+  indicate cases forward A TED struct consists hit for CS101 interprets it Data t
+  head has previous 1 eliminates demonstrate its loop field going immediately before
+  advances taste becomes used interpret yields case shown addressing despite holding
+  having Going integrating don data compiles But exit to tricks with It current benefits
+  since about linked change snippets First but same another chosen go why see pointer
+  two element move a what way able applied obviously Let interpretation end We requires
+  minimal true width type there approach conclusion opposed other function sections
+  Torvalds traversal remove_elegant Implementing say insert separate mentions through
+  cur instances As yes particular evident special 600 updated address presents code
+  will center follow Hard com evaluate enough sometimes sufficient holds semantics
+  every want very creative neat interview away an iterating single conceptual does
+  Conclusion quick the merely inserted Before
+---

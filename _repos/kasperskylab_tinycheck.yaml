@@ -1,0 +1,46 @@
+---
+name: KasperskyLab/TinyCheck
+link: https://github.com/KasperskyLab/TinyCheck
+language: Python
+topics:
+  - mobile
+  - forensics
+  - wifi
+description: TinyCheck allows you to easily capture network communications from a
+  smartphone or any device which can be associated to a Wi-Fi access point in order
+  to quickly analyze them. This can be used to check if any suspect or malicious communication
+  is outgoing from a smartphone, by using heuristics or specific Indicators of Compromise
+  (IoCs). In order to make it working, you need a computer with a Debian-like operating
+  system and two Wi-Fi interfaces. The best choice is to use a Raspberry Pi (2+) a
+  Wi-Fi dongle and a small touch screen. This tiny configuration (for less than $50)
+  allows you to tap any Wi-Fi device, anywhere.
+writeup: ''
+readme: over several stalkerware user their about _xdanx technical have Architecture
+  It Yan just Arnaud false than frontend an take already Pi tunnel few French org
+  center stopstalkerware can meeting tech visitors small implants Once TinyCheck question
+  using steps some if specific tenacioustek network like Maxime standalone connection
+  more initial In twitter Description loading cybercrime allows don it by servers
+  Christina tinycheck Te video report awesome installed forensic Raiu spyware s The
+  smartphones state picturepan2 talked kwouffe Granier smartphone easily suspect guys
+  Emilien known extended Wiki kaspersky review backend FreeDNS Of Please available
+  craiu browser so and with connect your device Support dongle SSL Fi order 4G __Emilien__
+  associated tap this apps auclert keyboard be Name at status tracker access Zhu mobiletrackers
+  in allow http was based lib txt entities Wi Guys Code spot accepting capture indicators
+  on align domains emerged elements communications Fully very yourself felixaime look
+  repo outgoing hesitate Cian home without create of Florian ephemeral https By p
+  knowledge android two edit Zeek powerbank t use kind k develop Kristina Raspberry
+  clicks mode If Pires browsing contact strong prevent thanks idea kiosk Meet Spectre
+  minute workstation installation virtual provided malicious issued JusticeRage suricata
+  5 screen Demeter IOC such or During Stratum process Indicators 1331535790392946689
+  Florian_Pires ways via geo check nor tiny setup local we Heasley against need maintainers
+  blob interfaces br the non spectre contribute communication how Installation devices
+  KasperskyLab as us URL Suricata wire Frontend www help women end IoCs nscrutables
+  concept less certificate cases push projet colleagues Use master shelter href rules
+  touch which positives js detect fr internals are point reporting documentation anywhere
+  Several here analysis stalkerwares want who wiki Page Tatyana any Others for quickly
+  people Over github Kwiatkowski from install course individuals Special Ivan diskurse
+  you list Dan also This victim signed assets heuristics show Compromise whitelisted
+  io send feedback add existing centre used host sponsored Kaspersky doing throughout
+  CSS hubertine is a GReAT test accessed com Backend his installing hunt IOCs configuration
+  analyze own ghosts CIDRs Costin png cryptonote them one to self
+---

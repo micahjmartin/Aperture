@@ -1,0 +1,46 @@
+---
+name: philsmd/7z2hashcat
+link: https://github.com/philsmd/7z2hashcat
+language: Perl
+topics:
+  - offensive
+description: extract information from password-protected .7z archives (and .sfx files)
+  such that you can crack these "hashes" with hashcat
+writeup: ''
+readme: make Contributors performed information bug Disclaimer because case especially
+  goal AS using line number whether both truncated endian simple code Zip OF sfx decrypted
+  forget check smaller installed checksum users just exe INCLUDING steps com License
+  hash used interfere Perl the explanation patches first out big folder decompressed
+  Warning WITHOUT Note indicates convert are want Note2 means follows Upper Requirements
+  LZMA Ripper Installation very CLEANUP operating per PPC improvements separated THE
+  features PARTICULAR SPARC directly could The IA64 This project salt 4 welcome CRC32
+  Missing iterations git following belongs above below indicator 128 8 script how
+  optional with indicating uncompressed encrypted factor nicely know coder specify
+  need limit MERCHANTABILITY doesn common files WARRANTIES BCJ STDERR requirements
+  cost executable source decimal modules Attention about readable 2 repository after
+  credits everything file MUST multiple message an special compressed must NOT that
+  donated further but no FITNESS not 0x7 OR fields Enter truncation 7 version future
+  problems p7zip easy required BCJ2 overview root 0 should compression needs you module
+  allowed THAT hand reserved remove several If usage NO needed content Copy is ranging
+  also CORRECTLY decryption testing ANY nor greater actual TODOs release shouldn indicate
+  path themself their You do pl details bits omitted crack dollar BZIP2 form some
+  yes many people Lower attack nix install On all 15 Credits be Each paragraph without
+  argument i within and Thx applicable contain more WARRANTY signature prefer values
+  see verified than external newest value character comes whenever reached four explains
+  Hacking messages philsmd PROVIDE WARNING table literal intended only any most Command
+  like windows IMPLIED documentation non nibble will to possible TO mode 7z use Compress
+  experience longer standards type error output Therefore PURPOSE PUBLIC report ARM
+  hashes Whenever YOU AND 0xf different post 1 Sensitive little go instead depends
+  Instead Clone solve DEFLATE support BUT was processed padding attributes sum can
+  streams PROGRAM CRC A More outputs cases LZMA1 might provides decompressor outputted
+  ARMT add combinations Basename Truncated contains 16 t hard WORKS of on github aka
+  installing FOR PPMD cd or from PASSWORD_RECOVERY_TOOL_DATA_LIMIT itself DOMAIN LZMA2
+  redirect perl it data 255 IT compressor format hashcat LIMITED neither command page
+  7zip user 7z2hashcat hexadecimal Furthermore About by vector pretty KIND Run https
+  WE up AES warning 5 string Software iv password sharing e issues exist File protected
+  when initialization careful decompression parameters fixes understand Raw keep EXPRESSED
+  6 easier time cracking system header Explanation if John work a other run in g replace
+  clone shown sensitive this sometimes indicated extension date as GUARANTEES therefore
+  able has field always extract which coding between 11600 names m Lzma releases length
+  x86 submit for one please IS meaningful equal EITHER 3
+---
