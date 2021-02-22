@@ -1,0 +1,16 @@
+---
+name: firmadyne/scraper
+link: https://github.com/firmadyne/scraper
+language: Python
+topics:
+  - firmware
+  - scraper
+  - re
+description: Firmware scraper
+writeup: A firmware scraper that aims to download firmware images and associated metadata from supported device vendor websites.
+readme: psycopg specific Comment Usage all py file about inserted settings SQL device
+  http server and e associated Parallel 1 scraper parallel scrapy supported into Introduction
+  websites downloaded GNU firmware aims from www This vendor scrapers gnu a dlink
+  4 should crawl if using 2 metadata the to To Dependencies SQL_SERVER maximum psycopg2
+  https in that run download software g Configure not out with initd be org is images
+---

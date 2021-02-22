@@ -1,0 +1,48 @@
+---
+name: securing/DumpsterDiver
+link: https://github.com/securing/DumpsterDiver
+language: Python
+topics:
+ - forensics
+ - osint
+description: Tool to search secrets in various filetypes.
+writeup: DumpsterDiver is a tool, which can analyze big volumes of data in search of hardcoded secrets like keys (e.g. AWS Access Key, Azure Share Key or SSH keys) or passwords. Additionally, it allows creating a simple search rules with basic conditions (e.g. report only csv files including at least 10 email addresses). 
+readme: "unpacks passwords removed creating up space ways I hardcoded it on expression\
+  \ There characters Pre For search corporate analyzed see develop examples looking\
+  \ if etc single png requisites Disconnect3d video specifies one ideas via xep624\
+  \ once configuration default interesting much img rule LOCAL_PATH few won Note long\
+  \ pypi Wildcards Riancho additionally separate note separately 1000 Special It your\
+  \ false skip searching watch test PATH_TO_FOLDER commands raztus careful its reported\
+  \ Shared scan When expressions DumpsterDiver_logo See here 9 max installed triggered\
+  \ happy width not thank johann everyone at 100 ENTROPY of Basic sql true logs polish\
+  \ Secret supports grepping db so article compressed 5 lot 2 images Usage If me multiple\
+  \ example effective has\u0142o fully github SSH vimeo pip3 Please thanks addresses\
+  \ positives when lowercase using complex master secrets rzepsky Stygar Then By uppercase\
+  \ 4 twitter lots should contains DahDev contain keys e very way help The main the\
+  \ values strings you Docker Wanna purpose a analyzing Customization archives like\
+  \ Entropy count Be helpful File 20 libraries override for different static available\
+  \ demo limit why shouldn key customizable extensions find re Andres more which You\
+  \ report can or then 1800 entropy 1 passwordmeter data do to wildcards details uses\
+  \ options want License conditions also used trivial JSON done p quite company word\
+  \ through csv python3 8 than filetype_weight min aws_secret_access_key raw added\
+  \ detect RSA Rzepsky from MIN_KEY those better only interested This know customize\
+  \ may Run run all no 7 Beyond 12 would python grep bytes special look because Sorriaux\
+  \ an path zip 6 separated advance isn generates Limiting short exception 398343810\
+  \ who Using length To is extension running create potential line 80 be private that\
+  \ blob flag achieve in bad 66 Instead are finding what remove have fits any edit\
+  \ allows tool occurence words weight don attitude Requires digit parameters contributors\
+  \ Access haslo 0 src Azure AWS secret Additionally certain 10 git d Advanced email\
+  \ before Do same dumpster_diver 400 g scenario terms align including project blacklisted_files\
+  \ verifies MAX_KEY high Share features syntax contact will searches dumpsterdiver\
+  \ names 70 3 medium between file basic choice supported idea Contribution typical\
+  \ generate DumpsterDiver center with disconnect3d_pl o grep_words_weight assume\
+  \ adding repository action needs use A aws_access_key_id install StephenSorriaux\
+  \ files below gz OUTFILE t config Damian setting password hunting org modifying\
+  \ https Additionaly helped specify description maximum after findings com w3af 40\
+  \ echo bash pdf s about 15 each Python Multiple following specified such Key emails\
+  \ least Shannon advanced format simple containing analyze character image folder\
+  \ ID volumes edge output r exclude rules levels MAX_PASS trick docker Let LICENSE\
+  \ as mentioned scanning command script above 93d38a9cd4c1 set and MIN_PASS while\
+  \ minimum read anything level written py big detailed leak by 76 check txt tar yaml\
+  \ leaks GREP_WORDS alt this complexity Stephen Here total pass Finding Customizing"
+---

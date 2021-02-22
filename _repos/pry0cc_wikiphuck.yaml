@@ -1,0 +1,10 @@
+---
+name: pry0cc/wikiphuck
+link: https://github.com/pry0cc/wikiphuck
+language: Go
+topics: []
+description: A utility to extract IP's of contributors from a wikipedia URL written
+  in Go
+writeup: ''
+readme: ''
+---

@@ -1,0 +1,53 @@
+---
+name: marin-m/vmlinux-to-elf
+link: https://github.com/marin-m/vmlinux-to-elf
+language: Python
+topics:
+- elf
+- firmware-analysis
+- vmlinux
+- linux
+- reverse-engineering
+description: A tool to recover a fully analyzable .ELF from a raw kernel, through
+  extracting the kernel symbol table (kallsyms)
+writeup: ''
+readme: user consider 0F Produce engineering information compression instruction py
+  03 9b4650b blob lookup 6 any file C0 visible over with characters in on will 2C
+  specification 3D src raw kernel patches FF every kallsyms_num_syms Kernels SuperH
+  4A kallsyms relying has 25 similar terminated kallsyms_addresses alignment request
+  heuristics m 38 references man then algorithm re default PowerPC You https CONFIG_KALLSYMS
+  tested each names size org produces ReFirmLabs improvement itself landing_illustration
+  function GZip decoding hesitate building actually separated http can without binarch
+  1B target as fragment torvalds tuples pics offsets Kernel or positions do displays
+  either B4 case architecture kallsyms_names Only among Support recent System fields
+  common They p align 2004 messages table explicitly compressing you s their found
+  full Infer archive A ARMEL base 69 1E single only variable 82 find KallsymsNotFoundException
+  IDA to have ELF themselves F1 configured Provide Advanced supports bundled LZMA
+  serialized vary that magics fashion long kallsyms_uncompressed 84 c bit now this
+  Pro been contain packed extract circa when 80 mapping MIPSEL allowing correct ASCII
+  architectures html scans sizes issues index 0E but added your allows words Indexes
+  input generic print addresses vmlinux bzImage If kallsyms_token_table things man7
+  string zImage ARM64 structure almost OpenWRT may 24 x86 lower checking aren following
+  address main seems 6E name 2 endianness tightly offset for since approximative space
+  Features 1p 6F instead suggestion not entry Automatically other are below vmlinux_to_elf
+  kallsyms_token_index basic across 256 get ARC presented git was used 74 its enabled
+  Array Linux commit systems patch order upon using originally serving BZ2 18 CF vmlinuz
+  passed save simple contains through oops mostly enough finder com formats SPARC
+  OK png Zstd output it really signatures open into integer set such marin inferred
+  indexes unaltered It correspond 5C No 54 DA embedded support schema svn kallsyms_offsets
+  plain 06 center pages procfs 2013 contents entries an array contained number t character
+  version byte which 66 Each stripped clear 00 Sample kallsyms_finder 5F usage present
+  64 compressed text introduced issue December kallsyms_relative_base 79 analyze githubusercontent
+  AB preexisting 72 being Because How fully 5317e9cb69bb42dee167e0552a5e1f01147ba072
+  0C form does a tool variety configuration and relative 203 also by kernels man1
+  LZ4 Description fragments installation 0xfff supported utility reason kallsyms_markers
+  types master history obtain total new brief means recovered Usage format binwalk
+  linux point detected prologue field removes parameters 73 code automatically corresponding
+  recover Null heuristically XZ mirror F5 be 35 unpack respective magic kallsyms_token_address
+  strings hence These Some too tries detect 05 points nm TEXT reverse MIPS64 symbols
+  well top bits analyzable of length quickly until 4 F3 70 proc Find MIPSEB 09 disappear
+  11 is first should img arguments binary designated most The type 30 LZO wide elf
+  use concerned work 67 at 22 overriden symbol cases E1 inference 10 the Take 14 useful
+  how github ARMEB Don from original letter chosen openwrt build D4 current 85 60
+  31 h Briefly image Ghidra For statistically This
+---

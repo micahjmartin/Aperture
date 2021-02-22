@@ -1,0 +1,14 @@
+---
+name: projectdiscovery/cdncheck
+link: https://github.com/projectdiscovery/cdncheck
+language: Go
+topics:
+- cdn
+- scanning
+- cloud
+description: A filter to check for CDN IP addresses during port scanning.
+writeup: ''
+readme: library checks IP akamai Helper github CDN known and example cdncheck com
+  by given be sucuri here The can projectdiscovery if cloudflare ranges incapsula
+  to belongs basic a follows used that importing
+---

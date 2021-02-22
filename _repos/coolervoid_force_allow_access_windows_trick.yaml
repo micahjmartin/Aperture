@@ -1,0 +1,18 @@
+---
+name: CoolerVoid/force_allow_access_windows_trick
+link: https://github.com/CoolerVoid/force_allow_access_windows_trick
+language: C
+topics:
+  - windows
+  - offensive
+  - redteam
+description: Force allow access in windows firewall
+writeup: ''
+readme: tell does As when work INPUT simulate mouse How member use keyboard wVk the
+  force_allow_access_windows_trick simple writing structures The key Force so What
+  function using calls with firewall accepts windows has This on Security in TAB structure
+  window Alert or API a any important role button an Windows keys either ENTER choose
+  title bypassing can which if argument GetWindowText of code Secondly I for Firstly
+  checks finds access event and bypass called keystroke SendInput array allow as you
+  to played that it be
+---

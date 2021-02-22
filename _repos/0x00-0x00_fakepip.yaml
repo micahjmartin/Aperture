@@ -1,0 +1,16 @@
+---
+name: 0x00-0x00/FakePip
+link: https://github.com/0x00-0x00/FakePip
+language: Python
+topics:
+ - pip
+ - redteam
+ - offensive
+description: Pip install exploit package
+writeup: 'Execute code with pip install commands'
+readme: with py download file And use in responsibility img by zc00l our local back
+  Exploit following developed usr How target get not remote possible install to is
+  Screenshot misuse bin true This 004 raw this 001 Author maintained author setup
+  folder JPG pip code Simply into and Any command shell we the Demonstration Marques
+  Andre 003 if sudoer FakePip Then Download execute 002
+---

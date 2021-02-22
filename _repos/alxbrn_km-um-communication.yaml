@@ -1,0 +1,16 @@
+---
+name: alxbrn/km-um-communication
+link: https://github.com/alxbrn/km-um-communication
+language: C
+topics:
+  - linux
+  - kernel
+  - driver
+  - malware
+description: A somewhat wide collection of various kernelmode-usermode communication
+  methods in one repository (mainly just for learning purposes).
+writeup: ''
+readme: km usermode the a collection Credit learning wide methods is created one this
+  of just various repository A purposes kernelmode original whom for goes to mainly
+  in individuals projects communication somewhat um
+---

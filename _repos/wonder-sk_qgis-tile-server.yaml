@@ -1,0 +1,16 @@
+---
+name: wonder-sk/qgis-tile-server
+link: https://github.com/wonder-sk/qgis-tile-server
+language: Python
+topics:
+  - gis
+  - qgis
+  - server
+description: Simple map tile server based on QGIS
+writeup: ''
+readme: All This bonus side a for Tiles 100 py renderer structure that is code edit
+  file server rendering Requirements 5000 the in tile based home with Leaflet working
+  also header map your browser How about directory localhost maps page run python
+  web attempt http create to QGIS serves lines on of Flask paths As go tileserver
+  use are cached an
+---

@@ -1,0 +1,69 @@
+---
+name: mapbox/robosat
+link: https://github.com/mapbox/robosat
+language: Python
+topics:
+- satellite-imagery
+- openstreetmap
+- machine-learning
+- aerial-imagery
+- gis
+description: 'Semantic segmentation on aerial and satellite imagery. Extracts features
+  such as: buildings, parking lots, roads, water, clouds'
+writeup: ''
+readme: p 2 computes 2018 predicted overview Slippy alt pre s hard providing p3 Features
+  release serve rasterize Geofabrik 4 or CUDA parts and Python enables directories
+  adapt 3 train just segmentation visually trains one creating at save Philippines
+  v lines Caffe2 happy roads world p2 percent 02 help ecosystem Germany per checkpoint
+  loads wise align maning instances pth outputs demand metrics by starting abstract
+  Post ticket The runs running responsible imagery img pull modelling support follows
+  away pbf Prepares makes 44145 outline extending comes generates new map extend bring
+  Maning longer making positives across attached which simplifying palette requesting
+  mining downloads indices neural implements threshold tile shared 184 invoked into
+  license take turns using And extraction Extending similar prediction API transforming
+  points trained v4 Extracts what accessible master convenient start extracting latest
+  fully provide that Pre batch From an Overview send maintain lots They aligned changes
+  we final polygons but pixel working predicts show examples anything diary mapbox
+  simple structure consisting export in need GTX RoboSat developers geofabrik sub
+  args account contributing h1 Have images as good PyTorch License data any contributions
+  add follow GeoJSON negative ensemble subset rasterizes com x maintainability changesets
+  semantic pb required describes Most Arguments github aerial simplified turning config
+  neither PWD distribution details masks setup predict Generic get pyosmium CPUs format
+  developed look e written built Generates gathers expects CPU against same feature
+  serious t Copyright requires different ci generic 01 rm this Usage left up sure
+  source GPU z host filtered ideas following Filters won these channel actively AWS
+  GraphProto more over branch adjust Serves build r environments long strive preparation
+  checkpoints path handling non labels it two calculate merges hold Berlin categorized
+  polygon By download org either usage each inspection We osm useful All reads datasets
+  gets rs current walks specific tool Docker zero trivial Hub see also svg own bound
+  three thousands resource label Maps https end Tools pixels 1 cleaned coordinates
+  a effects Predicts ai extract quick merged statistics class constraints Tanzania
+  loss with weights extracted based available src raw Notes code Robosat you If evaluation
+  is adjacent features merge make Map boundaries model c maintained via both made
+  your http work default travis 45042 h validation ipc tools There first depending
+  responsibility Also set summarize discuss 6 where case Lambda Downloads www setting
+  getting g from file no handler request commands installing Table well convolutional
+  communication go Such convert main pairs custom 368726 After point installation
+  changeset NVIDIA applying nets section 1080 py Before rule training j causes memory
+  access_token dedupe multiple simplicity assets potentially placeholders Note accept
+  on base 20 webp encoded almost compare right improve ways dependencies used de For
+  hub about together gpu center i command Exports See Using for tileserver be should
+  filter onnx probabilities buildings cases nvidia bkowshik approved issue use In
+  endpoint Masks open Contents ONNX tiles Dockerfiles MIT its robosat building said
+  them Trains 80 tags v1 runtime configs 256x256 side cleaning Slippy_map_tilenames
+  create covering constrained automatically false Bavaria outlines generated Import
+  accuracy Mapbox net containing Rasterizes can formatted to geo models calculated
+  Distributed are like ids results will color involved size href access 368771 Contributing
+  Deduplicates recommend Merges between You network distinguishable Add register example
+  cars Calculates configuration Installation have us deployment there sizes satellite
+  docs tested workers of middle resolution contrast referenced most depend sketches
+  future 5 learn api wiki want single parking implementation core denoising under
+  generate deduplicates docker files probability properly abstraction close come split
+  directory perfect Bring started OpenStreetMap corresponding y inspecting handlers
+  mask As result geometries some soon Make TI generating existing fly TOKEN modeling
+  list run footprints all post osmium consists png GPUs Implement thankful cover dataset
+  backends going 03 debug introduced not 44321 2x daniel behind works toml processing
+  visual TensorFlow featurize These openstreetmap pipeline sources drone the cpu downloading
+  raster out osmcode 44462 container contribute sounds user comparison image issues
+  likely
+---

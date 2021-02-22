@@ -1,0 +1,32 @@
+---
+name: subgraph/usblockout
+link: https://github.com/subgraph/usblockout
+language: Go
+topics:
+- usb
+- screensaver
+- dbus
+- grsecurity
+- linux
+- defensive
+description: USBLockout monitors your user session and triggers Grsecurity Deny New
+  USB feature.
+writeup: ''
+readme: versa service automatically bus be us systemd by stolen New program launches
+  only login Lockout build back dpkg exits Deny_new_USB_connections_after_toggle The
+  enable It sight smartcards should sort You package safe leave like state Beware
+  attack events dbus local Building will repository checkout via session development
+  github YubiKey This tty not another on for branch tmp course to works wiki PAM being
+  broken work worried about autostart ex F2 Appendix attempt space enough quick daemon
+  which grsecurity launch couldn calling without Deny time screen after Grsecurity
+  one place before install or boot com tags i en example say want VERSION Packaging
+  debian b alt buildpackage relatively readers debugging terminal Devices as drive
+  itself One from utility provides net the exposes device t manually Provided run
+  toggle vice amount wikibooks switching usblockout Session hackerspace https entirely
+  privileged sysctl USB you when always either re use Grsecurity_and_PaX_Configuration_Options
+  if plugged org computer deb subgraph gbp used log with some That usblockout_ disable
+  feature different To xdg but need it is this enabled of and allows someone that
+  a usblockoutd client way have user lock Caveats uc If locked git sudo your logins
+  small system workaround out debug runs at expected are relays in also plug consists
+  cd
+---
