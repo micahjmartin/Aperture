@@ -4,7 +4,7 @@ link: https://github.com/virtualabs/radiobit
 language: C
 topics: []
 description: Micro:Bit Radio framework
-writeup: 'Radiobit is composed of a dedicated Micropython-based firmware and a set of tools allowing security researchers sniff and send raw protocol including Bluetooth, ShockBurst, and raw 2.4GHz GFSK demodulated data.
+writeup: 'Radiobit is composed of a dedicated Micropython-based firmware and a set of tools allowing security researchers sniff and send raw protocol including Bluetooth, ShockBurst, and raw 2.4GHz GFSK demodulated data.'
 readme: procedure to format GFSK device presentation this services them for Link directory
   each Introduction lot has Uflash demodulated security gcc First Plug mass Mount
   CLI md script keyboard data radio source activate over virtualenv Your keylogger
