@@ -1,0 +1,72 @@
+---
+name: ventoy/Ventoy
+link: https://github.com/ventoy/Ventoy
+language: C
+topics:
+- usb
+- uefi
+- windows
+- chromeos
+- unix
+- legacy
+- vmware
+- linux
+- multiboot
+description: A new bootable USB solution.
+writeup: Ventoy is an open source tool to create bootable USB drive for ISO/WIM/IMG/VHD(x)/EFI files. With ventoy, you don't need to format the disk over and over, you just need to copy the image files to the USB drive and boot it. You can copy many image files at a time and ventoy will give you a boot menu to select them. 
+readme: "DOC copying APODIO HefftorLinux Kibojoe nondestructive p EasyStartup static\
+  \ USB K SLES R2 Hanthana update Frost SME MiniNo Peppermint plugin_persistence BigLinux\
+  \ Rocky RED Plamo UEFI io Hyperbola create Austrumi of Blackweb Diagnostics pfSense\
+  \ EndeavourOS 0 badge plugin_autoinstall CDlinux Theme IA32 DP Xubuntu Q4OS Mint\
+  \ Checkra1n RoboLinux Springdale DaRT openEuler 4MLinux Freespire MATE runtime CAELinux\
+  \ detail alpine Anarchy h1 x Pearl Redo plugin_wimboot FreeBSD is RHEL LinuxFX Drive\
+  \ plugin_dud SuperGrub2Disk the Parted bootable boot Studio github process en Neptune\
+  \ plugin_grubmenu TurnKey Robolinux Easy XFS Zentyal 100 during MiniTool auto Volumio\
+  \ 1 Acronis VMware Enso Reborn protected Lunar HP HamoniKR Kwort at com Control\
+  \ Simple license t Android 3 SereneLinux RebeccaBlackOS style https Budgie Mageia\
+  \ version Installation Compatible Obarun 2016 refer ToOpPy CRUX format BlueOnyx\
+  \ FreedomBox file ExTiX are NuTyX NixOS LinuxConsole Univention Secure Extension\
+  \ open Local Tsurugi CloneZilla DragonFly Pop BEE List x86 net Pinguy gNewSense\
+  \ ForLEx Endian write OPNsense Mode KolibriOS ArcoLinux Other Thinstation RancherOS\
+  \ continuous ArchLabs WinPE Vine x86_64 90 Regata NVMe Kylin XCP Instructions KDE\
+  \ Vmware Xen BlankOn svg Chalet Proxmox Boot release T2 OB2D FreeNAS NethServer\
+  \ Trident theme Auto OSI Parrot Refracta by Ubuntu Native Most Zeroshell Kaisen\
+  \ in Feren total Persistence CAINE foxclone DietPi ESET Kerio Title MocaccinoOS\
+  \ Zorin src SysRescue DRBL OpenWrt partition Legacy Recalbox Toolkit Webconverger\
+  \ VE also LXLE Rescuezilla Clear 7 Manjaro a Image Support CloudReady NTFS MiyoLinux\
+  \ give Global VHD MorpheusArch 4 Trisquel 10 Berry ESXi shields Star ng Endless\
+  \ SteamOS Link Not XigmaNAS main just BIOS AcademiX plugin_password Redcore Virage\
+  \ stars FAT32 YunoHost Snail Pardus Raizo Plugin Cucumber EFI Can screen_uefi BOSS\
+  \ TROM will MIPS64EL doc_treeview Shark but AOMEI distro Website Conf Replace exFAT\
+  \ KANOTIX Lenovo SPP paldo Frugalware Customize Garuda OpenMamba PrimeOS Ploplinux\
+  \ CentOS img Archman Parabola time Arya xyz 15 Injection it isolist replacement\
+  \ customizable 730 Minimal MBR plugin_control Voyager need MX Pentoo MidnightBSD\
+  \ speed Septor menu Source 2012 Simplicity Dragora needed Card drive MemTest86 Drauger\
+  \ GNU ALT Wizard Adelie DriveImage Onion Magic FydeOS Class complete forums Ufficio\
+  \ Highly ROSA concept an can Peach Macrium GPT Guix Arcabit HardenedBSD Official\
+  \ OSGeoLive Phoenix h4 DuZeru Repair 07 OpenMediaVault Fast Both be doc_secure select\
+  \ Puppy Linx LliureX Qubes SkyWave veket Maui AV dynamically plugin_menuclass Install\
+  \ use 8 Exe 11 With Finnix neon files Nitrux over Oracle Void Network no plugin_menualias\
+  \ Citrix 3CX DUD OpenMandriva Slax plugin_bootconf_replace ClearOS released Hamara\
+  \ left Swift vDisk Netrunner TrueNAS Kaspersky center Ataraxia Elementary Menu BackArch\
+  \ Firewall blackPanther Ventoy ZStack plugin_imagelist LINUX to plugin_injection\
+  \ Bluestar Arch supported free XenServer distrowatch Clu Uruk System distros only\
+  \ Resilient Mage Features way GeckoLinux WIM Daphile You avatar switchable new doc_memdisk\
+  \ Document mode source ChromeOS See ventoy larger Untangle SUSE SystemRescueCD 09\
+  \ Calculate Revenge installation plugin_vtoyboot TinyCore 2019 Jaro GhostBSD png\
+  \ Sabayon doc_start plugin_theme support downloads Grml Lubuntu Linux same installed\
+  \ Fedora Cluster Omarine Compile Smoothwall Absolute limited Solus Data Porteus\
+  \ 4GB for siduction Gentoo Partition doc_search_path Elive Lite Mabox Zero don ArchStrike\
+  \ SELKS SuperGamer IPFire TENS Slitaz Karoshi screen Memdisk Security doc_disk_layout_gpt\
+  \ and bitdefender Rescue FuryBSD openSUSE iso from configuration SuperX Rocks Windows\
+  \ SD Omoikane Forum Bicom html PrimTux Linspire No O Lakka SSD Kali IMG BackBox\
+  \ Disk upgrade LibreELEC Mll Fatdog unaffected BuildVentoyFromSource them mAid Namib\
+  \ UBOS tuxtrans Please Tested Active EasyNAS Phone ClonOS Emmabunt\xFCs Ext2 Scientific\
+  \ Clover environment ISO PClinuxOS batocera image Photon antiX Knoppix plugin_vhdboot\
+  \ TeLOS RHEL7 FAQ Unix many Avira tested R www Tails Bliss doc_disk_layout Nova\
+  \ VyOS Alias Configuration Slackware Pisi txt Asianux Password normal href Astra\
+  \ br GoboLinux TreeView DiskImage EasyUEFI when Artix Kubuntu Devuan netboot disk\
+  \ Deepin Pure between extraction Runtu Layout Live UDF you ARM64 MakuluLinux tool\
+  \ Debian faq than Slackel type align OS Search ArchBang Directly Topluluk Elastix\
+  \ Ikki Server LinHES Update Desa Chapeau copy Details Framework Hash Zenwalk"
+---

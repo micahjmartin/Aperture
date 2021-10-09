@@ -1,0 +1,15 @@
+---
+name: TorgoTorgo/ghidra-container
+link: https://github.com/TorgoTorgo/ghidra-container
+language: Python
+topics:
+- build
+- ghidra
+- extension
+- plugin
+- docker
+- reverse-engineering
+description: A simple docker container to build Ghidra plugins
+writeup: ''
+readme: Container Ghidra
+---

@@ -1,0 +1,91 @@
+---
+name: nocodb/nocodb
+link: https://github.com/nocodb/nocodb
+language: Vue
+topics:
+- sqlite
+- mysql
+- swagger
+- mariadb
+- sqlserver
+- graphql
+- spreadsheet
+- postgresql
+- airtable
+- ui
+description: 'The Open Source Airtable Alternative, Nocodb turns any MySQL, PostgreSQL, SQL Server, SQLite & MariaDB into a smart-spreadsheet. 
+writeup: ''
+readme: "ferdiga portuguese open Product 11 NC_DB Contributing ease 28fce9de Email\
+  \ 54px bd58 users REST Includes PixPlix 98f5f32e962c 97c9 Alejandro agkfri 1677570\
+  \ See Development p button adding This Heroku 19922556 cthulberg Node 75fe793d 18490578\
+  \ Running tools SQLite twitter widget 133759234 135263770 3768 speeds automatically\
+  \ who bvkatwijk linkedin chinese aa6b4195cce7 lockin 135263707 Chat sort spanish\
+  \ nocodb json 10 metadata Please brunomoreira extremeshok 37952138 691404bb74fb\
+  \ NC_AUTH_JWT_SECRET dashboard badge ejose19 ae0f17cf65c4 controls daneke Wetzell\
+  \ Join HowToApplyLicense more https www will Using 451c comes file Most but herokucdn\
+  \ 96470fec9775 38e3e79d guess 135263531 jrevault 18341515 ee28 travis 6616 133759248\
+  \ stackexchange has fae58600 4143 spreadsheets take DATABASE_URL gg svg used provide\
+  \ master russian daniel tianchunfeng Stanislav npgia 86527202 table Giacometti Guionniere\
+  \ branch 5301275 with start any Auth dstala 4bbd widgets Setup Store works databases\
+  \ we meant Control Pratap Compose Patankar George pixplix b5ba2573d6a6 http 873b\
+  \ in modify Sentry 6 ans4175 Joel usr GCP Disable bee3ebd0e010 post_id Creator 1093368\
+  \ 133759242 absent also have a74e Alves Flatroy 962d Zapier humans 91b8 it height\
+  \ No 10083758 4626 remove Jens author \u0561\u0268\u057C\u0262\u04C4\u0561\u0585\
+  \u057C\u0262 aab7 3961872 SMS user 1503577 8080 van \xC1tila 100 20 To API d70920e41655\
+  \ 8640316 133759250 githubusercontent deployment discord protected locally app at\
+  \ Comments 661905455894888490 guilds ferrybig businesses ab95 787d71e7 JaeWon c12a77cc\
+  \ _blank variables Community off FarazPatankar Click radical Swagger Linode Gassauer\
+  \ 83861 1a2e9c8ee398 915a Changes business target a536165b 1710840 price d4e8 ZhansayaM\
+  \ 4943 Zafar 7d112c0815f2 151d4ad1 only columns 02cd5b57be53 GUI 3rd ceiling created\
+  \ Yes contributor bmscmoreira 3017910 5891019dd35d bertverhelst jwillmer a5f9 npm\
+  \ Loenhout Whatsapp 2958857 themselves to And Twilio nbsp pxid fr wingkwong single\
+  \ download instead similar day Grid way NC_SENTRY_DSN png 90968567 bhanuc 3dbeda9a\
+  \ Yaraslau For localhost If div via connection alt NC_DISABLE_TELE Format 4 ans\
+  \ 46a8 93d3be32ba90 level producthunt style BackBlaze wingk german 4c2dff08f2f2\
+  \ Microsoft eXtremeSHOK utm_medium S3 democratise heroku 4079 vendor featured stackshare\
+  \ 5435402 dark b2d7 Docker 297536 135263434 82f2 SMTP Simon 42a8 from Mattermost\
+  \ v2io Screenshots this mrtngrsbch tinkering 7a61d340e91d Camur\xE7a filter and\
+  \ headers DanielRuf bertyhell Alternative tokens ebd75ecf telemetry 44dc volume\
+  \ Production markdown Cypress people 4275b934 iqiziqi 48987429 Backend a disable\
+  \ Bowen ruf Discord korean source loftwah o1lab 5012744 variable powerful monitoring\
+  \ internet align 135263669 7084 scarf md most NocoDB org locked database Server\
+  \ Social 0xflotus ignore code Bergholz Used 1000px public Programmatic 4e23 NC_CONNECT_TO_EXTERNAL_DB_DISABLED\
+  \ Viewer Faraz Slack Kurmyza faces sub The 17c8 Contributors Interface 7 title ru\
+  \ Zhansaya Bruno Jinsik Malventi section smart b55a 4175 cuobiezi collaboratively\
+  \ building importantly 2311a127 template Why restart request changes commits 874e\
+  \ APIs on Spreadsheets workflow of soaserele tests 1576684 net Can 8 invitations\
+  \ bhanu Share Fine 472e Hunt the Quick a55c alejandro secrets 4269186 even Maksut\
+  \ Fernando 5 Daniel 6572227 855e Willmer theme grained mission look 31db cf8611d00bc5\
+  \ f8b0bffc abilities 250px which 4a9b external Gallery Ruf needs Rich 2c43af78a54e\
+  \ image Editor Form 4602 cells tr Our environment sh Code b quidquid C a80a prettier\
+  \ Turns working Works giacometti glass ArjenR are Git v control 95a0 Custom contribute\
+  \ sguionni pranavxc URLs root Upload bring ba4e04a4 LIST Daneke 707f using Search\
+  \ views seed Party OVH 135263822 e94da292 farazpatankar bottom clients billion START\
+  \ SES 133759253 135263888 other end Ishtiaque mount 31504 s not 3633017 9 yml b865\
+  \ what chaslui column utm_souce italian japanese 250 Integromat td Airtable Minio\
+  \ automations 10681116 693328 setup Attempts f567196a abrupt can 71349937 CONTRIBUTORS\
+  \ my sending either 133759229 133759218 or for when 11d4 forth 508624 Build 2 3a87\
+  \ 5957328 406c our 38 solve Dashboard is Npm dev me 55f1 api offerings DigitalOcean\
+  \ access janrito Anshorimuslim opo NC_BACKEND_URL wong version spreadsheet 8604312\
+  \ jwetzell 9f23 eevleevs Md be1d1f55413d hide next you Maxime dc182129 56f28cd40b80\
+  \ A \uC870\uC9C4\uC2DD dd3f2509 135263589 embed 3 href zhansayam local Teams Mailchimp\
+  \ esta avatars 9a58 135263474 268a z Katwijk App Example label 3920157 images Random\
+  \ ChasLui Billion nl uber horrible tool PostgreSQL markdownlint node future Ahmad\
+  \ store Boris Bert french Oaserele 1001585 de specified Ferdinand Twitter JDBC Gersbach\
+  \ 32009637 made badgen 86340924 Source Website width try Gantt be b1fc requires\
+  \ every Postgres Views Best br dwyl github 4a35 NC_PUBLIC_URL chocholand tianberg\
+  \ static creation SebGTx params h1 Features 9b539029 src Environment 3855368 Access\
+  \ Roles Follow 48f6 Syuhada Andrea possible Giulio storing Bhanu generated 61551451\
+  \ MariaDB ac27 deploy Status GraphQL Mandatory io 54 their 048e572fd9f6 6248560\
+  \ URL Moreira 1 lotas 41486762 u However Mission 42af 4980165 133762127 35857179\
+  \ b964 museosabiertos blog social 100px a1c3 integrate url ga stack center Verhelst\
+  \ auth utm_source pt would 40NocoDB 26602940 END Any Kanban 133759245 password SaaS\
+  \ blogspot ci banner3 img folder DATABASE_URL_FILE Martin by SQL 133759249 AztrexDX\
+  \ 8931 133759240 equip persist maximeag bb9bc729 none interface Jo atilacamurca\
+  \ world Ziqi computing ALL JWT 133759236 3a7141e0 8a0f Azure 8742215 Spreadsheet\
+  \ kunggom Owner 4bd1 300px Deploy be36 4b7d 1964e7e481c6 readme data Authentication\
+  \ 827205 0d2e 4458 simonguionniere secret Do markuman Commenter 614b2d0da56a Personal\
+  \ Pranav Create containing 4b43 8c1a85c2 discordapp Variable 49e4 nodejs 92a8 alternative\
+  \ path b09a border Markus no posts 4f86 into com shields v1 5RgZmkW simonbowen Open\
+  \ Project Ignore MySQL 8062146 4a17 restore x Chaudhary"
+---

@@ -106,7 +106,7 @@ def normalizeTopics(data):
     data["topics"] = list(actual_tags)
 
 def GithubGet(url):
-    url = os.path.join("https://api.github.com", url)
+    url = "https://api.github.com/" + url.lstrip("/")
     r = requests.get(url, headers=headers)
 
     if r.status_code != 200:

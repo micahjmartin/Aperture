@@ -1,0 +1,19 @@
+---
+name: admpub/go-sqlite3-win64
+link: https://github.com/admpub/go-sqlite3-win64
+language: Go
+topics:
+ - sqlite
+ - golang
+ - db
+ - library
+description: GoLang Wrapper Around sqlite3.dll
+writeup: ''
+readme: pure you 64bit dll your e on a sqlite3 the Win64 provides package I from so
+  either doesn to allow cross This really when SQLite3 that Although require call
+  GoLang but it can be go functions as com html for path executable t implemented
+  usage ll CGo exe same sqlite finished You another think Basic code DLL OS folder
+  requires building mattn Wrapper org Linux download don functionality support github
+  defined an alternative compile easy Otherwise is user build should g in or since
+  Go like https 64Bit Windows things back need
+---

@@ -1,0 +1,40 @@
+---
+name: jart/cosmopolitan
+link: https://github.com/jart/cosmopolitan
+language: C
+topics:
+- netbsd
+- freebsd
+- containers
+- darwin
+- libc
+- windows
+- linux
+- efi
+- polyglot
+- openbsd
+- zip
+- bios
+description: build-once run-anywhere c library
+writeup: Cosmopolitan Libc makes C a build-once run-anywhere language, like Java, except it doesn't need an interpreter or virtual machine. Instead, it reconfigures stock GCC and Clang to output a POSIX-approved polyglot format that runs natively on Linux + Mac + Windows + FreeBSD + OpenBSD + NetBSD + BIOS with the best possible performance and the tiniest footprint imaginable.
+readme: "anywhere format Libc post please You make files your makes UNIX program Started\
+  \ Please not universal source executable libc five fast bootstraps Min intend windows\
+  \ K8 need 2007 needed after justine static output For Builds Clang project gcc Windows\
+  \ gcc9 Technology assimilate Core Platform run possible See needs Cosmopolitan Linux\
+  \ BIOS ape get objcopy repository executions No read FreeBSD NetBSD the vendored\
+  \ 2018 \u03B1c\u03C4\xB5\u03B1lly be required note pc Intel imaginable POSIX p\u03B4\
+  r\u03C4\u03B1bl\u03B5 compiling AMD website Java t for polyglot png that best Compiling\
+  \ machine If re as So 2006 html We API s any https 1 2010 copy BSD 2 itself build\
+  \ This hermetic this you 18 Systemd on interpreter because lol what homebrew before\
+  \ tiniest Background reconfigures usr language Vector GCC \u03B5x\u03B5c\xB5\u03C4\
+  \u03B1bl\u03B5 9 installed 80 Here APE download developing can now documentation\
+  \ is an then using install cosmopolitan Circa binaries C performance tutorial ELF\
+  \ footprint gnu except a MacOS above further beforehand index approved efficient\
+  \ OpenBSD freestanding once replace share blog do and object stock platform 3 first\
+  \ natively Source from Not also like conventional XNU 2020 x86_64 It Version linux\
+  \ if in or New of doing doesn honeybadger 12 to development resident Vista with\
+  \ dependencies work elf compiled Make 6 so img Support Then introduction Mac it\
+  \ subsequent Getting scripts runs collection 15 4 Honeybadger will distro compiler\
+  \ GNU are started compile Venus portable binary have virtual 2005 just via toolchain\
+  \ Instead"
+---

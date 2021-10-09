@@ -1,0 +1,17 @@
+---
+name: briandowns/heads-up
+link: https://github.com/briandowns/heads-up
+language: Go
+topics:
+- tile38
+- international-space-station
+- gis
+description: A simple example of using Tile38 to track the ISS and send notifications
+  when it's overhead.
+writeup: ''
+readme: notification can location is heads URL and others provied for e grpc tile38
+  Build following com supports nats Space above redis with types kafka A amungst amqp
+  be head over flag store when International that mqtt https will notifications sqs
+  server send http the to it up Notifications Tile38 Run a uses of Station Requirements
+  disque
+---

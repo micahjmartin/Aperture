@@ -1,0 +1,60 @@
+---
+name: borgbackup/borg
+link: https://github.com/borgbackup/borg
+language: C
+topics:
+- python
+- deduplication
+- encryption
+- compression
+- ssh
+- cython
+- dedupe
+- backup
+description: Deduplicating archiver with compression and authenticated encryption.
+writeup: ''
+readme: project difficult badges Initialize name See Tracker cryptographically quick
+  NOT high store absolute bytes mountable doing site https repo 14 your MB never whether
+  archives content Build in been Original badge teams word png path still lz4 build
+  inside verified CHANGES chunk file Space Compression always testing also docs FreeBSD
+  kB Windows they fund The org www single just critical BorgBackup VMs RELEASE Duration
+  changes alt installed authenticated rst bestpractices 622b7c53c _installation Now
+  authors team an listinfo between platforms borgweb manual Patron Helping strong
+  79 complementary width create under achieved e off protected Spread hmac program
+  unmodified run api daily the Bounties encryption other nfs svg mailman audited What
+  Create downloaded packages of security disks python More raw previous screencasts
+  will a our filesystem y duplicate main usage 10 archive binaries zlib if version
+  OS stuff 163 PROPERTIES branch releases Deduplication each WILL number remote found
+  medium We or REPEATEDLY wide range performance Linux make codecov Subsystem from
+  1 UNKNOWN end asciinema code manager that clause Status welcome suitable 6 features
+  different Bounty hash 133293 machines COMPATIBILITY borg frontend 133292 master
+  require contact Speed lzma independently use actions Free fast Documents attacks
+  sshfs secure efficient bit makes deduplication Cython help X ACLs Offline NUMBER
+  advanced html integrity based CI targets stamps goal Main Data 02 zstd YOUR experimental
+  Backup Saturday1 documentation caching For files directory If network little OpenBSD
+  identical SSH IRC THIS libera 0 formats So Open DECIDE complete g need clientside
+  authenticity 167 Compatibility Documentation offline Mac installation there BREAK
+  _offline short used screencast_basic considered THAT 2016 chat support mail only
+  move lower get reduce anything Source Optionally feedback multiple latest split
+  100 borgbackup Saturday2 Compressed value technique 13 271 sha256 regular Compared
+  position installing Chunk does Borg compared fingerprinting for FITS Links coverage
+  _ do yet options image have approaches see time Stuff refer examination repository
+  Releases _advanced offer functionality BSD this NetBSD deduplicating available defined
+  sharing reported any Usage Unique Backups IS WE IT stats into A obfuscate to Site
+  detection This show 133291 github is killing trusted as and MAJOR notes around fingerprint
+  2 workflows To seen these come algorithm Chat Practices Score YOURSELF WHEN 88 Issue
+  accessible xattrs big without monetary details All Number start Total web repokey
+  330 supports Basic speed stored staying easy Deduplicated them added chunking MAC
+  Obfuscation licensed few VERSIONS EXPECT DEVELOPMENT method actively encrypted distribution
+  Sat 78284 using projects WHETHER gains bountysource index SHA256 started even There
+  downloads should length 27 69 SOFTWARE IN ChangeLog can super may pypi be userspace
+  Coverage License Web 85 compression its low RELEASED are Easy already variable same
+  new Archive 71 Software You like you C license id_hash Test by Security compressed
+  restores great com autoplay on host function implemented 256 GitHub all init depend
+  matter not doc development PyPI more fully backup no Time seconds shifted since
+  Cygwin before local HMAC bounties_posted with interactive backups provide style
+  going storage bounties io target way it source HAVE becoming Best Off filesystems
+  30 chunks data BorgWeb Donations x coreinfrastructure graphical issues names NEEDS
+  over Your List AES blob v when team_id stable give another optionally Mailing 3
+  size en 48 readthedocs deduplicate
+---

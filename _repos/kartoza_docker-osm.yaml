@@ -1,0 +1,61 @@
+---
+name: kartoza/docker-osm
+link: https://github.com/kartoza/docker-osm
+language: C
+topics:
+- postgis
+- openstreetmap
+- imposm
+- osm
+- qgis
+- docker
+- diff
+- gis
+description: A docker compose project to setup an OSM PostGIS database with automatic
+  updates from OSM periodically
+writeup: ''
+readme: true polygon background txt To settings_downloader raw mounted py optimize
+  change pgadmin Docker provided contribution example map case html With OSM done
+  minimum When As host documentation africa want expect Wiki related e helper config
+  covering happened container develop POSTGRES_PASS contains extracted Now first desirable
+  process Malawi picked that long QGIS everywhere no within cache interpolate command
+  backup feature new so store specified it docker Once allowed up list administrative
+  worldwide clip easier integrate smaller It General makefile Metadata images t project
+  repo volume basic tutorial restrict A uncomment running here 5432 described home
+  docs Server yet simplify from views osm_pbf import_done when https only schema take
+  DBSCHEMA_PRODUCTION lists IMPORT_QUEUE prefix 4326 more diff That into osm_downloader
+  services of interval end In by COMPOSE_FILE link tweak Dockerfiles sh for IMPORT_DONE
+  encouraged port override text world to should original about using custom sets minutes
+  we box been Desktop another flag post are public able Leaflet a includes diffs daemonize
+  tables merged DBSCHEMA_BACKUP updates block Features set Lossless other being Copy
+  Build showing area called schemas updated going which put open in Because Rather
+  coincides http geofabrik latest wiki geometry pull make repository Trigger Alternatively
+  over 0 even Optional polygonal DBSCHEMA_IMPORT also containers analysis internet
+  settings limit Thus user specify Download By environment South seconds country options
+  last setup s and local directory pbf application can parameterized base_pbf use
+  For two or if with timestamp File base SETTINGS provide apply time Alt this quick
+  openstreetmap designed This both 3 PBF db Ensure retrieve CACHE current during EPSG
+  where supporting 3857 different following materialized every like configure execute
+  variable separated Imposm imported existing The alias fetch some persistent desired
+  reason needed work standard stream spatial configuration always customizations de
+  Databases_and_data_access_APIs regularly fetching imposm3 yml covered stored general
+  YAML not osm 35432 limito allows swarm read than Usage out files south_africa providing
+  wish such be one false convention These each demo etc necessary borders simplified
+  POSTGRES_USER useful the gis clipping Title loaded applied bandwidth them Put build
+  TIME regional connection python uses extracts coming connect term fr rather these
+  Specify between NB have might You names periodically don downloaded importing edit
+  kartoza master production run Africa fill data same hasn how extent inside include
+  functions global index enough yourself update putting import_queue main Updates
+  import region Quick 120 SRID further githubusercontent hosts need generate add fall
+  changes PostGIS URLS countries depending During website POSTGRES_PORT is web above
+  define initial password because second diffing pbf_downloader Update must bounding
+  caching has very below sql omniscale care Do Display architecture url BASE_PBF triggers
+  instance find automatically colon hosted subsequent itself values geojson full Database_Schemas
+  retrieved folders If customize result download state automatic username 2 styles
+  ensure intend archiving SQL OPTIMIZE bringing script Cloud default env familiar
+  CRS used dataset your Note Only features Project executions check any org mapping
+  image png rename you So Styles reading merge executed database an file will Botswana
+  cloud instead usage made Clipping normally bind looks see POSTGRES_HOST deploy compose
+  folder webpage switch imposm bash on com consists variables json ImpOSM as localhost
+  all placed
+---
