@@ -81,7 +81,7 @@ def normalizeTopics(data):
     lang = data.get("language", "")
     if lang:
         l_tags.append(lang.lower())
-    
+   
     for tag in tags:
         if not tag:
             continue
@@ -201,7 +201,7 @@ def SubCommandInit():
     # Edit if we are in vscode
     if os.environ.get("TERM_PROGRAM") == "vscode":
         print("[+] Editing in VSCODE")
-        os.system("code "+path)
+        os.system("codium "+path)
 
 """Save the dictionary of values to a yaml file for Jekyll"""
 def SaveValues(values):

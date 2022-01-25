@@ -1,0 +1,13 @@
+---
+name: mufeedvh/moonwalk
+link: https://github.com/mufeedvh/moonwalk
+language: Rust
+topics:
+- offensive
+- redteam
+- linux
+description: "Cover your tracks during Linux Exploitation by leaving zero traces on\
+  \ system logs and filesystem timestamps. \U0001F47B\U0001F41A"
+writeup: ''
+readme: ''
+---

@@ -1,0 +1,23 @@
+---
+name: Binject/backdoorfactory
+link: https://github.com/Binject/backdoorfactory
+language: Go
+topics:
+ - redteam
+ - linux
+ - offensive
+ - windows
+description: A from-scratch rewrite of The Backdoor Factory - a MitM tool for inserting
+  shellcode into all types of binaries on the wire.
+writeup: ''
+readme: Unpacks per lives refactor all insertion Binjection inject downloaded well
+  from and Documentation capabilites Binject io gz MitM documentation of to wire binaries
+  file works A backdoor configurable is Introduction injecting extension shellcode
+  ELF Works backdoorfactory man downloads The lets types for Supports platform allows
+  the a s appropriate rewrite Integrates inside using middle www Factory original
+  Project that as inserting Tar scratch tool factory secretsquirrel bettercap intercepted
+  in different Backdoor via based DNS on middling any https github com It Features
+  This you Zip methods shellcodes injection here binjection binject an debug them
+  with repository web Shellcode archives org complete repacks binary format ARP O
+  into library PE Debug Mach architecture
+---

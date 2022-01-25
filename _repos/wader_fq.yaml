@@ -1,0 +1,47 @@
+---
+name: wader/fq
+link: https://github.com/wader/fq
+language: Go
+topics:
+- query
+- hexdump
+- cli
+- jq
+- decode
+- repl
+- binary
+- json
+description: jq for binary formats
+writeup: ''
+readme: "tree pssh_playready security you and mpeg_es svg flac_picture av1_frame vorbis_packet\
+  \ Linux see Make The files details do bsd_loopback_frame aac_frame gif tests ffmpeg\
+  \ Quick md install comfortable protobuf edge mpeg_pes media id3v1 vp8_frame inventing\
+  \ tar utils raw into demo pub Similar that avc_dcr 17 s oriented hevc_dcr done hevc_annexb\
+  \ poke en great kernel was below icmp text more implementation PATH directory kaitai\
+  \ doc community mp3_frame possible vorbis_comment For net fine Development c Inspire\
+  \ without https mediaarea ogg_page working go Unarchive www avc_nalu cgit move in\
+  \ Output org should MediaInfo been result formats I png helper but reads directly\
+  \ inspiration udp_datagram Build broken command index might with mp3 same Wireshark\
+  \ avc_pps data listed hexdump language bencode it Bits Arch Currently run Details\
+  \ dns still ar most mediainfo flac_frame av1_ccr pcap av1_obu To sll2_packet fq\
+  \ would query also Goals Hopes VCS T values presented jpeg symbolic decoding JSON\
+  \ from cases developed wiki TODO See your flac_metadatablock gojq tools msgpack\
+  \ zip jq sll_packet related Tool json macOS NOTE things how gzip people Supported\
+  \ ipv4_packet scm matroska formats_list hevc_au for misc transformations wireshark\
+  \ or name 1 platform Or On webp pronounce an so jemarch have packages this want\
+  \ debug the allow a vpx_ccr HexFiend trying then download mpeg_asc package stable\
+  \ since Nix FreeBSD You It sense file by create ignore manually Thanks tshark util\
+  \ pcapng queryable project as method means warning decoders id3v11 exif GNU vp9_frame\
+  \ sure opus_packet ogg variety sh kju specially avc_annexb installed build tcp_segment\
+  \ bzip2 is help to inspect there thank source hevc_nalu mpeg_spu Install has Pacman\
+  \ similar preference archlinux release wader opportunity t flac_streaminfo binary\
+  \ linux using tiff CLI cbor xing useful avc_sps Use github io way compatible can\
+  \ Nested pacman where mpeg_pes_packet That development flac com one freebsd etc\
+  \ In ether8023_frame bit ways dev adts structure not This ports wish port x86_64\
+  \ don avc_sei end of flac_metadatablocks usage out mp4 AUR Homebrew apev2 elf itchyny\
+  \ enough works reading d\u0292ei be Alpine dns_tcp vp9_cfm methods avc_au later\
+  \ projects tool releases initially instead protobuf_widevine make mpeg_ts work ffprobe\
+  \ some bson ideas icc_profile stedolan binspector usually if accessible early php\
+  \ ef repository id3v2 title git testing extended handle AUR_helpers improve know\
+  \ adts_frame Basic range are start executable bytes wav Usage"
+---

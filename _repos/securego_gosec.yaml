@@ -1,0 +1,67 @@
+---
+name: securego/gosec
+link: https://github.com/securego/gosec
+language: Go
+topics:
+- security
+- static-code-analysis
+- static-analysis
+description: Golang security checker
+writeup: Inspects source code for security problems by scanning the Go AST.
+readme: finding Enumeration graph build copy uploads supplied usage We Go recursively
+  G601 unescaped a checks other Potential target option Excluding define issues resolved
+  invoke 3218 separated It Poor get dev supports base written external tls_config
+  Creating positives results predictable XML blob wish result width path Apache Dependencies
+  Action overwrite SARIF enables default securego Profiling cgi global Support key
+  mount Slack Daimler G504 annotation UUID tags connection downloaded annotate L700
+  renamed int16 auditing across generator endpoint G108 ssh USERS Justification md
+  DES s PropertyBag unit CVE entropy pprof publish module GitHub 2 Deferring G505
+  is integrate Url G501 while by SQL 32 Results additional length support Tests new
+  G305 Security golang permissions working exposed Types G103 the test in method Your
+  Output scan memory an rand rule source 1 whole githubusercontent automated 3ACI
+  json downloads execution but Checker GoReport MarshallJSON JUnit case Audit suppress
+  after of analysis report bad blocklist found inflammation generates there projects
+  random DoS not releases u types Who CWE integrating local mapped may section step
+  expression records 4 example overrides G301 saving need G202 Local latest link svg
+  data users corresponding show select for contain workflow mitre info used Then credentials
+  docs Implicit If Common error causes inSource herokuapp G105 could some Most uploading
+  Selecting actions Status generated crypto G102 triggers com nosy construction bits
+  shows github configuration continuing G106 Version imported here index runs L50
+  folders too bomb configured use fixed image taint Golang recommendation website
+  on nosec where G502 templates settings set master annotations Downloads request
+  cwe create apache purposes input query stop badge To bestpractices suppression upstream
+  Usage gosec UnmarshalJSON detection able hard comment directives it processing zip
+  AST above G303 volume verified scanning from G306 text vendor provided successfully
+  Sponsors problems obtain install items via needs Annotating directory workflows
+  will binary terms inline http InsecureIgnoreHostKey properties sha1 Use JSON output
+  Pulls follows G402 current Release Mozilla HTML have Hub issue removed kind lint
+  readthedocs HTTP being cases d further LICENSE automatically format RSA Project
+  party however violations security sentence verbose identified following MD5 big
+  writing By tar command G403 e 0 chmod flag tools tagging false unsafe accept GO111MODULE
+  except statement logo ciphers G204 coded granularly rest vulnerabilities setting
+  File justification Int CII places G109 list RuleList we math TLS G203 Development
+  Integrating G302 csv Available 320 Insecure G304 en handy externally different skipped
+  They CI returns controlled before rules this action Install currently against Gosec
+  immediately turned all normal running checked or w strconv Every possible branch
+  failure SonarQube root shields coreinfrastructure formats adjust Docker archive
+  been comma third ID gh exclude The sonarqube tests First href Retired generic run
+  G110 audit supply overflow GUID Configuration scanner packages Mapping des G503
+  When your as Look within becoming License revisit go throughout Generate SHA1 positive
+  now file img paths functions tool under Licensed has description two with 15184
+  compliance described G104 errors be along code total png when tag 80 might A want
+  so outputs For src explicitly conf Generation number sonar container more using
+  stdout Ensure creating Inspects codecov tracking Detect G101 Build minimum Docs
+  enabled Only reported mozilla describes addition suppressed files suppressions html
+  out convention mapping instance also analyzed v2 do fmt traversal Practices Sarif
+  specific server debug patters dashes flow dependencies G307 Tracking extracting
+  apply fits you can reports externalIssuesReportPaths rc4 docker v signals should
+  start are binaries yaml Globally fetch order then upload Best G107 track _blank
+  goreleaser yml GoDoc defined that starts safe to and G201 conversion 2048 Also net
+  up only nodes decompression made 34240465 mode subset In Integer locally Weakness
+  As configure Exp Note URI side which G404 ignore interfaces include pass version
+  G401 put release r into pulls goreportcard Atoi g project threshold 16 tls Bind
+  statics https status md5 block detected were argument import generate org www Coverage
+  aliasing concatenation string manually any licenses avatars tempfile RC4 exact This
+  one range certain golint excluded analyzer specify Installation You pkg vulnerability
+  hub produce sponsor pushed single Import io well them sarif
+---

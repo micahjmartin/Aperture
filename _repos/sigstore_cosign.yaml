@@ -1,0 +1,90 @@
+---
+name: sigstore/cosign
+link: https://github.com/sigstore/cosign
+language: Go
+topics:
+  - docker
+  - container
+  - pki
+description: Container Signing
+writeup: ''
+readme: jedisct1 Hardware KEY our scripts counter SPEC section flag That Roughly additional
+  SECURITY Payload payloads simple TAG will considered check includes sget ordered
+  Again more proposed create file GitHub keypair things distribution one much channel
+  required Security your entities been stabilize time cloud download case blog Descriptors
+  supported Generate feature 6 main keys reg b816658f044d querying index bugs placed
+  medium oras generates after cd let recreate Notary its require cover some link completely
+  later center integration go digest following tags what enter currently PR mapping
+  intro matching DSSE fulcio found Public Artifacts verifying great Pipelines complementary
+  hosted feature_ intended post Index are attack contents 3 protected existence Hashicorp
+  ie compatible solo Attestations Right differs for part private 97fc222cee7991b5b061d4d4afdb5f3428fcb0c9054e1690313786befa1e4e36
+  user write curl ignoring Storage ubuntu nv2 tracking 1 when PUBLIC experimental
+  located details child These layers Framework inspired anonymous Don implementations
+  yml push single com goreportcard Modules something So One platform GitLab automatic
+  again Your original next modules Ocean Probably DIGEST server strategy annotation
+  they switch deleted believe deislabs value under prompts option isn happy publishing
+  metadata using Container ECDSA Action notary container authorized Built refer reference
+  but Using digests flexible caveats All the NOTE PRIVATE in excellent shows upload
+  at see add developed stores designed transparency instance TUF own first publish
+  Users Tag tests usage sense points just explicit requirements Specifications uploaded
+  memorable orchestrate update attestation an specification examples backwards work
+  access align If FAQ COSIGN_REPOSITORY 17 variable A Integration provenance payload
+  signatures data defaults point t type algorithm Finally subjects sign fun environment
+  artifacts experiment etc Web added specifications lived store kidding XmY3bcfWn4XEyMqUUutbUQ
+  Tokens Rekor stored works normal dev media discovery We Specification KEYLESS provider
+  invite Hub filesystem separate limited interactions PKCS8 provided papers g e2e
+  these Verify blobs be compatibility contains verified badge public detailed While
+  yet COSIGN_EXPERIMENTAL sure formatted answer ports Keyless gif fall nacl that close
+  COSIGN_DOCKER_MEDIA_TYPES garbage Management configuration openbsd Start together
+  Info tool asked toto find minisign didn append Change signed What Ideas COSIGN_PASSWORD
+  wasm encrypted Base specify For hours racy from env two storage integrates Layer
+  40 Similarly local aim even json Cosign CNCF Instructions PKIX signify hoping manifests
+  KDF derived Blobs tag actually not legacy disk Signing Developer Generated Caveats
+  read hard Card know this Some hashes zt tools may implemented protects by master
+  password ready Our convention TOKENS USAGE via new invisible blob itself idea copied
+  md base on fetch uses repository Click PGP to must parts patterns Linux standard
+  install has Sonatype m think object initial as Registry if ttl installs discover
+  Requirements against interesting Support multi www tekton In Update kms of 86 meet
+  easily 703218c0465075f4425e58fac086e09e1de5c340b12976ab9eb8ad26615c3715 sigStore
+  stdout might infrastructure instead list It tree implement Helm appended quirks
+  src also Homebrew image Today tested report destroy k8s show based Sign managed
+  Detailed scrypt person feel specific aware Nexus repo only today posts CA Vault
+  with means anything Anything registries Bundles google comparison aims COSIGN easy
+  34 set their equivalents themselves stabilizing top around AWS free last attach
+  signing Installation containerregistry Alternative hostname registry system generic
+  Assembly haven multiple This defined secure improve forming Working Usage either
+  generate Elastic Specifying support bundle so Push final To encryption GOBIN including
+  available Pure project artifact reuse fairly Features Keys Now docs relationship
+  do wide KMS setup cmd issue conditions use useful signs referenced least prevention
+  dangerous Missing out en dsse makes ll Then default binaries locating s protocol
+  users URL Design log svg 16 spec formats win management text is gcr Report manually
+  other Digital Bring Any bad issues you containers Things different example process
+  SBOM contention sh fixed redhat returns rekor a Text uploading vmtest2 config Arch
+  naming Why releases encoded FUN interface modify well how we met need certain expiration
+  leverage try Multiple comparisons Artifact could stable Blockchain Key me services
+  See into cli grafeas tokens Images io detached those Should bit directly Fetching
+  attest secret demo run several now v2 another offers Rough recursively delete files
+  timestamping integrate allows dlorenc signature wget back assets storing JFrog delegations
+  Nobody please _Note looks contain Digest enforce any clients claims Sigstore Changes
+  make header PIV types real key race sigstore Verification safer Everything covered
+  flags bundles help community SHA256 was weak clone below hosting can secretName
+  freeze information Nix best Race verify They Go possible replace them cosign Harbor
+  Unintentionally notaryproject enough format intermediate verifies opaque bash Idea
+  latest sig Alibaba ENCRYPTED over few would GCP code info valid Payloads generally
+  p act operation utilities pipelines Timestamps You include lab name e2e_tests piv
+  Formats Intentionally retrieval able Other V2 fully API outside arbitrary html img
+  Details unfortunately tkn PKI above security binary development applied send Future
+  implementation have hacky committed mhs55zh0 tried supports images join GOPATH my
+  workflows Signature waiting installation used less actions PEM Red P256 release
+  features dot mechanism contracts Artifactory Counter git briefly Just it predicate
+  slack mode verification retrieving future Quay resulting protect optional pair layer
+  Please proofs without production test Azure Quick hardware mutate then else within
+  retrieve documentation shared_invite I printed should https macOS OIDC like sha256
+  opencontainers systems repositories style all tricks generated Types which Note
+  want collected OCI Kubernetes tips configure However bsdcan namespace org changes
+  annotations manifest give extra here re logs built full external Hat Toto mutated
+  probably than Before No SBOMs represents objects WASM service Charts automatically
+  course github Fulcio Docker Cloud correct commands short attestations core rest
+  secretbox and direct bin Signers right continuing baked does FOO command same Image
+  Tekton url The 0 or
+---

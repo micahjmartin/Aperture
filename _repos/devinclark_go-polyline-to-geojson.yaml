@@ -1,0 +1,17 @@
+---
+name: DevinClark/go-polyline-to-geojson
+link: https://github.com/DevinClark/go-polyline-to-geojson
+language: Go
+topics:
+  - cli
+  - google
+  - geo
+description: CLI tool to decode Google's encoded polyline format and output a GeoJSON
+  LineString.
+writeup: ''
+readme: encoded outputs io polylinealgorithm string Decodes Google as the gist go
+  CLI to Encoded format geojson convert Accepts LineString lat csw maps and polyline
+  or Uses that id DevinClark Polyline https argument this google be Output a example
+  lng 74e9f18602a17247f48e an s 1 can documentation will Usage developers tool list
+  utilities GeoJSON for piped paulmach http in com it github
+---

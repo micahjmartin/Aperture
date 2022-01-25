@@ -1,0 +1,75 @@
+---
+name: worldveil/dejavu
+link: https://github.com/worldveil/dejavu
+language: Python
+topics:
+ - fingerprinting
+ - voice-recognition
+ - shazam
+
+description: Audio fingerprinting and recognition in Python
+writeup: Audio fingerprinting and recognition in Python. Dejavu can memorize audio by listening to it once and fingerprinting it. Then by playing a song and recording microphone input or reading from disk, Dejavu attempts to match the audio against the fingerprints held in the database, returning the song being played.
+readme: raw does noise bolster didn original likely getting arguments Lucky The few
+  directory they dependent ratio alas includes EXISTS Note that filenames were allows
+  machine Inside worldveil 034373 rough invariant Punk transfering settings fingerprint_limit
+  Microphone n process attention techniques user Compressed haven 43312975 signals
+  adjust First python yke post returning Let This left Next when again 63 In amplitude
+  bad commercial applying control being shown wrote processing their one poor radio
+  kbit miniscule already was enough 2011 160 by ubuntu mp3s anything Blurred allowed
+  some subsequent understand if experimented new here Peaks deal which Configuration
+  useful Audio trouble issues calls options creating alternatively instructions track
+  password start constructor decide your took songs py give larger moment done at
+  music discretize nasty Performance purely pass amount space anywhere had tradeoffs
+  Start while github Notice implement results files zoom Fingerprinting repeat collection
+  account Reading DEFAULT_OVERLAP_RATIO linear against reasonable FINGERPRINT_REDUCTION
+  t realtime install percentages within playing 01 needed Follow dictionary create
+  terrible matches ee could https amounts connect s laptop through making edu caveat
+  optional sourceforge break follows memorize also many input type parameters an segments
+  want neighboorhood filter There None described plots most extra bottleneck each
+  Top imagine Honestly somewhere computed please pdf fingerprinted DEFAULT_FAN_VALUE
+  ready equation long won Recognizing based file than pretty overwhelming the takes
+  little Also human Then nothing taking released this A If IF overall or multithreading
+  can stopping 1 corpus threaded we MusicRetrieval just course these Spectrogram concept
+  debugging saw test created 8 computer columbia locality INSTALLATION match Just
+  work FFT record another underscores Correct remembers combination 3x CREATE compressed
+  PEAK_SORT tried do scripts 2D html Wang03 u out counting 377 mp3 Even below docker
+  able 0 png around much look say meant com willdrevo http be expense Leaving randomly
+  for config DATABASE fingerprint myself changing 96 air constant term RTT direct
+  docs taken overhead starting On samples time_to_match tested fork 27 Shazam my Here
+  net cs md humming found 30 but fingerprinting implementation cause streamed latency
+  image wants itself simulate dpwe Tuning currently Chromaprint least how Song maxima
+  shows identifying discrete affecting since disregard Read us subclass closer An
+  three becomes dejavu MySQL times write peaks folder Spectgram peakfinding perfect
+  quite only otherwise often key progress find know context hits played fingerprint_directory
+  given reading matching_time Python 5 used musicretrieval function small truly equivalent
+  silence mostly more number supported sense important submitting terminal keeping
+  VA Java iPhone recording plotted as very part computationally listen million fingerprints
+  relationship Speed specify next default fingerprint_file matching_graph performance
+  mistakes ordinary unique to recognition example chosen need 2 not finding 97 particular
+  use postgres chose whole intensive local come object instance seemlessly into squares
+  voice values love You of must try window play 1885 avoid metrics Now Confidence
+  those 44 configuration matching tool www Enter blog restart microphone Lines overlapping
+  recall NOT C interested 45 high recognize shazam before it setup cmu excels survive
+  accept BaseDatabase without Accuracy algorithm would mic Test sh Default line large
+  Time get make straight frequency furthermore Below exact during ve hashes anyone
+  breaks station like ll adjacent penalty oxygene One Playing testing Seconds actually
+  Type 43 along To DEFAULT_AMP_MIN plus any implemented 2013 detail 364757 pixels
+  so list made certainly directly trip first beat database_type storage Dejavu For
+  speakers entire combined friend Since record_time Information will robust all 60
+  calculation makes completes wasn end keys single gets you song root necessary MacBook
+  stackoverflow plot zoomed no corresponding alternative benefit identify d container
+  False peak request converted attempts talking Number usage added re degredation
+  right same merge Quickstart held Spotify database with occur method threshold pull
+  However processes store audio been and sensitive PR round 3 me trade disk How wav
+  between works command lot order As script inevitable kill goes Additionally precious
+  10 send off logrithmically July bit With Disk mandatory questions have 100 impact
+  conclusion hash fair windows from mysql spectrogram_peaks bin MySQLdb may 339 Daft
+  experience spectrogram_zoomed Finding where see value now extensions coming even
+  Docker detailed hard days Get fan explanation in over configurations is following
+  PEAK_NEIGHBORHOOD_SIZE length on once its bins accuracy Adjusting second chromaprint
+  Through instantiated sound aligned test_dejavu throw a Percentage surprise add It
+  Testing 95 applies 40 time well begin every MB p US take 4 comparison two I spectrogram
+  happily fit using are ear seconds confidence Storage system rad ways ending amazingly
+  Postgres parameterizations effect assuming These scripting papers regression binned
+  Offset sk 6 listening data percieves Pro speed up signal Matching different
+---

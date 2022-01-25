@@ -1,0 +1,26 @@
+---
+name: mitchellh/libflightplan
+link: https://github.com/mitchellh/libflightplan
+language: Zig
+topics: []
+description: A library for reading and writing flight plans in various formats. Available
+  as both a C and Zig library.
+writeup: ''
+readme: libflightplan It departure depend exports make can documented creating www
+  libraries tests careful time only Zig have _brand config following FPL installed
+  h dependencies and intention limitations language Examples as c prefix installs
+  Garmin Warning actual creation Name on primarily reading And for C so need pkg This
+  information was well verify trust The encode Formats org man main standard easily
+  But flightplan waypoints programming API t systems such at purposes status example
+  with plan but EFB available is http all include hobby Nix Plane 11 read install
+  etc nixos blob plans from X modifying very flake tools doesn able m shown do Library
+  shared format shows If pages integrated Build file ABI any of Ext ziglang com aviation
+  also scratch who the library reproduced you source Write output An or build program
+  how Usage in each save used another Read supports your https github them know airport
+  My flights this headers I Flight doc below built supporting over other what written
+  interest various Libxml2 provided simplified version header basic compatible ForeFlight
+  With Never flight are zig files altitude a it found route modification local one
+  using mitchellh that full To test use A writing interface be being existing Unstable
+  examples support static extract user new_ both FMS primary interested handful to
+  run You formats avionics more xmlsoft tree properties
+---

@@ -1,0 +1,29 @@
+---
+name: charmbracelet/skate
+link: https://github.com/charmbracelet/skate
+language: Go
+topics:
+  - db
+  - personal-cloud
+  - backup
+description: "A personal key value store \U0001F6FC"
+writeup: Skate is a simple and powerful key-value store. Use it to save and retrieve anything you'd like—even binary data. It's fully encrypted, backed up to the cloud (that you can self-host if you want) and can be synced with all your machines.
+readme: "header tool charm that together Examples check alt actions rendering release\
+  \ available Charm Or separate io and d free Fediverse will cache manager hear this\
+  \ Twitter jpg Feel on charmbracelet To mind host network Build by access roller\
+  \ both Syncing fetch install all docs different logo so however For macOS main favorite\
+  \ Latest do Linking hosting open the Part can scripts key hosted Developers love\
+  \ synced sync https data its badge run words in manage Release if machines slack\
+  \ s It Databases img mailto save our shields with source 2 even for simple is Installation\
+  \ into out p features selfhost Other By Slack charmcli svg easy License twitter\
+  \ Charm\u70ED\u7231\u5F00\u6E90 details same nice Sometimes Skate ll get next Hey\
+  \ are RPM see Debian of encrypted store One Let need know have width br you fully\
+  \ any sh link formats ability built default kv Feedback stuff Use use Windows 480\
+  \ If The Binaries instructions technology like they passwords thoughts some mastodon\
+  \ local com Keep your Linux but src powerful go self href most to Hosting download\
+  \ includes databases releases What note anything Self backed user drop their up\
+  \ loaded Status Here follow We personal Features secrets us retrieve workflows LICENSE\
+  \ project When 400 MIT value github just new png loves package server Cloud want\
+  \ be incredibly And binary build vt100 from A it Packages cloud two set database\
+  \ skate raw ways a own"
+---

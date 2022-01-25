@@ -2,9 +2,13 @@
 name: 360-Linton-Lab/Telemetry
 link: https://github.com/360-Linton-Lab/Telemetry
 language: C#
-topics: []
+topics: 
+ - redteam
+ - offensive
+ - windows
+ - telemetry
 description: "WINDOWS TELEMETRY\u6743\u9650\u7EF4\u6301"
-writeup: ''
+writeup: Persistence method that takes advantage of some of the wonderful telemetry that Microsoft has included in Windows versions for the last decade. The process outlined here affects Windows machines from 2008R2/Windows 7 through 2019/Windows 10.
 readme: Using Today abusing Line Local FOR requires download troubleshooting going
   2008R2 https ability a Microsoft Deployment tasks to Only Remotely registry startup
   method exe authority the last write Advantage s com blog 2019 install WINDOWS telemetry
