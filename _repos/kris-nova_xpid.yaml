@@ -1,0 +1,28 @@
+---
+name: kris-nova/xpid
+link: https://github.com/kris-nova/xpid
+language: Go
+topics:
+- offensive
+- audit
+- linux
+- kernel
+- forensics
+- security
+- blueteam
+description: Linux Process Discovery. C Library, Go bindings, Runtime.
+writeup: It's nmap but for pids. xpid gives a user the ability to "investigate" for process details on a Linux system. For example a sleeping thread will have a directory /proc/[pid] that can be navigated to, but not listed. xpid will check many different places in the kernel for details about a pid. By searching subsets of possible pids xpid will be able to check for pid details in many places in the kernel.
+readme: back filesystem but be to at ability reading before sys a Install and You
+  code c on man7 details process then Hidden namespace If first 200 container Container
+  5 search gives pids your sleeping many debug context executable NOT programs program
+  is 202 different progs lookup ways entirely for 7 listed kernel linked run uses
+  navigated check places scan find info Linux descriptor statically not traditional
+  ns 5Bpid current loaded below as leverage s of pid Regardless use 2 subsets C fs
+  means if modules value 5D can depends directly it runtime prevent proc https namespaces
+  eBPF This searching the 22 investigate By written works user linux correlating link
+  x way man2 org Xpid about 1 with utility xpid there 20Linux port compile Go installed
+  that man5 Because an man by must listing 6 will has possible pages b example html
+  file from fdinfo flexibility since have thread nmap system For directory unique
+  bpf able target variety libxpid same library It ptrace tactics processes in 20descriptor
+  cgroup text
+---

@@ -210,7 +210,11 @@ def SaveValues(values):
     output["link"] = values.get("url", "")
     output["language"] = values.get("language", "")
     output["topics"] = values.get("topics", [])
-    output["description"] = values.get("description", "").strip()
+    output["description"] = values.get("description", "")
+    if output["description"] == None:
+        output["description"] = ""
+    else:
+        output["description"] = output["description"].strip()
     output["writeup"] = values.get("writeup", "").strip()
     try:
         readme = literal_eval(values.get("readme", ""))

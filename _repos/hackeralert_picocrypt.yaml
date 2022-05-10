@@ -1,0 +1,95 @@
+---
+name: HACKERALERT/Picocrypt
+link: https://github.com/HACKERALERT/Picocrypt
+language: Go
+topics:
+- portable
+- cryptography
+- encryption
+- blake2b
+- xchacha20
+- argon2
+- security
+- password
+- serpent
+- gui
+- sha3
+- privacy
+description: A very small, very simple, yet very secure encryption tool.
+writeup: Picocrypt is a very small (hence Pico), very simple, yet very secure encryption tool that you can use to protect your files. It's designed to be the go-to tool for encryption, with a focus on security, simplicity, and reliability. Picocrypt uses the secure XChaCha20 cipher and the Argon2id key derivation function to provide a high level of security, even from three-letter agencies like the NSA. It's designed for maximal security, making absolutely no compromises security-wise, and is built with Go's standard x/crypto modules.
+readme: "Packs in providers While providing aren people basic backer Minibus93 polls\
+  \ now case every g capturing Argon2 Unlike anything tools Telemetry authentication\
+  \ Using know been use As devices dropping reason click photo understand attack standalone\
+  \ p vault YellowNight actively gets using level Downloads To extract designed cryptographically\
+  \ victorhck app Manjot German Picocrypt abandonware privileges intuitively length\
+  \ shown accounts Orb piece Zahard li useful they contribution hungarian width join\
+  \ subreddit Split supports able false german it encrypt No see small author text\
+  \ access or good choose enter cascade opencollective potential priority Fran\xE7\
+  ais modifying provides modified Here encrypted Portable characters It may still\
+  \ listing must notes called backdoor recombined changes simple only please tell\
+  \ m recommend could 11 three inside reliability Finally Funding guest privacyguides\
+  \ VeraCrypt unaffected I user Stargazers powerful GiB protect 20MB place procedures\
+  \ d how TOTP 116103ad safe key Simply badly SHA3 svg cannot There executables hijacked\
+  \ me 8MB Features so chunks 50 arrives below How Included for tie down letter greenreddits\
+  \ Always Analytics PrivacyToolsIO plenty feel slow never checked free require Zip\
+  \ not recover on dependencies productive cc samuel automatically drop testing portuguese\
+  \ HMAC forks images REDACTED why error sent drag someone deleted umitseyhan75 cloud\
+  \ sits protecting Defender For In sized \u0440\u0443\u0441\u0441\u043A\u0438\u0439\
+  \ components impersonate tool split Multi donate All Ease places digitalblossom\
+  \ Magyar t NSABackdoors secret some provide being that advanced much Collective\
+  \ about corruption Argon2id compromises Releases volume also hitting zeeaall antivirus\
+  \ hit russian Discord picocrypt 7 part stay list installed function Tall_Escape\
+  \ assuming few over Fuderal Portuguese betterment rate Pretty Every hacker e maximal\
+  \ get keyfiles Free Michel anyone options gargantuan HACKERALERT bottom W mode tiny\
+  \ chinese worried most ask upstream setup authentic upon password backdoored with\
+  \ updated charge means parity Hungarian mysteriously inspire exe shared neither\
+  \ deb x external Audited archive hands Password Force spend reasons my future important\
+  \ just however crypto unable first Why built privacy Thank Yes Your unit focus version\
+  \ virus creating become constant repository Pokabu outdated authenticates include\
+  \ verify resolution reach drops Lithuanian stored compares run should particularly\
+  \ try strives 20 myself time size Reddit might Use and The BLAKE2b fully 256 considerably\
+  \ a be 27 course suddenly developer aware seconds thank hardening possible Over\
+  \ Security date Pokabu26 them top com data Cure53 Integrity adding who supporters\
+  \ GitHub store Not checks spanish maliciously into instead community Spanish holds\
+  \ made latest entire Scrypt Please chunk make corrupted of audit generator Pico\
+  \ don highly P uses E Italian confident shutting backdoors href Platform XChaCha20\
+  \ during before doing related multiple manageable Go handled crack remain alt back\
+  \ additional 60MB would passwords compressed when 2005 absolutely Remember functional\
+  \ bytes highest override ever donor39 vanishes etc catastrophic Easy Because complex\
+  \ warning corrupt pay an 318 Just distros reddit open planning won dropped verified\
+  \ discord Graham used org Take well download safety last agencies Planned success\
+  \ upload money code submit strong put making correct security dealing accessible\
+  \ more other You assure Turkish have 128 successful again enabled thanks Italiano\
+  \ keep logo screenshot Google taken released cryptography posted Who yourself project\
+  \ 512 need executable provider 10 details Reed Source Pack Paranoid prevent motivate\
+  \ Also knowledgeable install Important T\xFCrk\xE7e auditable 8QM4A2caxH needs turkish\
+  \ types helping io ul italian by 50MB at Download Accounts 8 re distro r Serpent\
+  \ easier Unknown On there broken ways u because hence 2MB PicoCrypt AxCrypt dependency\
+  \ encryption snapcraft Make you french modules utility 1 trust information decades\
+  \ align GPLv3 heart were Community encrypting out PrivacyGuides English internally\
+  \ drive secure from where One Deutsch encode suggestions N removed raise img their\
+  \ BitLocker file Note Hard errors Start TiB sending tab following hacked tipping\
+  \ flaws delete 3 do what paypal 818 storage macOS significant the all networks large\
+  \ francirc portable Keyfiles NSA Internet Cipher translate hours as Internals was\
+  \ customize order software PayPal flags Open safeguards fetch Phil hackers one Think\
+  \ bit UI add fork say link Espa\xF1ol Of doesn based feedback untouched preventing\
+  \ social world AES along png suit users github organizations Derivation decryption\
+  \ translations sensitive recommended needed like md has zip start French Ubuntu\
+  \ https head ve decrypt AppImage are will If Find very Medium releases kurpau 2FA\
+  \ no five description look Solomon cases consider hard everyone src said these solution\
+  \ insecure go least ensure right best source simplicity than evanyiwensu Russian\
+  \ even starchart Comments want authenticate LGPL output Chin Cross great Etim to\
+  \ simply rest Time seed burns test chosen positive further continue rot which instructions\
+  \ Data When desired example many useless Donations contains Debian completely suspicious\
+  \ i header both helped addition can occur server standard cryptographic issues jp26\
+  \ Brazilian setting any Compression Partially above feature exists involved confidence\
+  \ huge derivation protects does channel yet cipher impact extra evelian disk KiB\
+  \ let s wise number Comparison lucas6 believe person accepted administrator long\
+  \ Snapcraft corrupts medium Admin Thus support work privacytools impossible correction\
+  \ So Don keyfile None but handles minutes \u4E2D\u6587 form share option worries\
+  \ full Linux create events SHA256 isolated practical up custom root love Key your\
+  \ fashion attempt copy A center PBKDF2 within if And here entering files With check\
+  \ technical MiB Tybbs yn Size its Windows is under NordLocker find updates present\
+  \ www Permissions this popular attainable GUI ll Cryptomator This way high integrity\
+  \ sure gg Portugu\xEAs each"
+---

@@ -1,0 +1,34 @@
+---
+name: magisterquis/shelloverreversessh
+link: https://github.com/magisterquis/shelloverreversessh
+language: Go
+topics:
+  - redteam
+  - offensive
+  - implant
+  - shell
+  - linux
+  - ssh
+description: A little implant which SSH's back with a shell
+writeup: ''
+readme: forwarding available listen cd Keys baked compile GOLDFLAGS with is few from
+  distclean fingerprint use target as i hook which default SOCKS4a key probably try
+  config serves compiling R looks there testing point Actually at before idea no Also
+  Removes causes an variable spawn up 3 sure used connected port options If hostfp
+  syntax genkey necessary com server sufficient SHA256 cmd symlinked Example connects
+  Server do like address requires shell main Go git be compiler Slightly The than
+  Baked building Running h right back list SOCKS null easiest Description on Value
+  simple should user hostname localhost tell plus SSH sh ll log private implant There
+  clean legal o4BQ5uwBx0GTB0g will listening Shell Disabling In Build 2 Asking good
+  Reverse stderr This else code using public can a noth4x 1 passed logging better
+  included values hostkey taken environment targets care makefile dev this s all sensible
+  Either rf PORT client exe forwarded Make would time bad connection the pub only
+  OpenSSH 22 practice side value some username other easier build e set randomish
+  io h4x and rm it For SetOutput to clone ed25519 proxy fingerprints SHELL but library
+  something get functionally generated program resulting host disable At An special
+  much generate compiled binary start when connections are make authorized_keys easy
+  requests or Building not edit for lookup Host pj9OCPiqVVLraIJjpmIdlwg6jOY unset
+  hand way badguy bake addr Over thing format Run Grabs Compilation moment 12345 commandline
+  by defaults Discard redirect Target A ldflags First of in validate getlocalkey Handy
+  changing shelloverreversessh somewhere bin
+---

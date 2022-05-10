@@ -1,0 +1,32 @@
+---
+name: AlexEidt/Vidio
+link: https://github.com/AlexEidt/Vidio
+language: Go
+topics:
+- gif-creator
+- video-io
+- ffmpeg-wrapper
+- frame-by-frame
+- webcam-streaming
+description: FFmpeg wrapper providing simple, cross-platform Video I/O, GIF Creation,
+  and Webcam Streaming in Go.
+writeup: ''
+readme: buffer framebuffer FFProbe has audio some centiseconds index buffers jpeg
+  passed encoded If write project cameras simple 8 Camera multiple frame It files
+  blog imageio relies array A closed for his Examples running https 1 delay This only
+  optional ffmpeg sequentially RGB which added video well format shows from writing
+  incoming at frames R input Options that supported be required on G formats you close
+  must row having Acknowledgements where webcam method height 27 0 file of continuously
+  For Video without www bytes store fill example track using 10 width create in not
+  org three being major Close Read below read stream Depth png ImageIO each consecutive
+  2013 post usage properties images order github B FFmpeg Go and parameters Create
+  bit any SetFrameBuffer All output next The around all mp4 least keep Currently representing
+  written stores function decoded device machines contains system given enumerated
+  process VideoWriter reading zulko a library desired Vidio http may code FFMPEG Special
+  are name Height as takes to io give useful gif retrieval byte GitHub 09 it previous
+  most with avoid struct automatically Images convenience about Width Installation
+  component call Zulko provides by checked will python 1000 reallocation been loops
+  used pixel new final the Note before On length When represented path data functions
+  an Copy series stored O Grayscale com I downloaded flattened is want copy have parameter
+  Calling thanks microphone can yet
+---

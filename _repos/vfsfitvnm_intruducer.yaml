@@ -1,0 +1,32 @@
+---
+name: vfsfitvnm/intruducer
+link: https://github.com/vfsfitvnm/intruducer
+language: Rust
+topics:
+- injection
+- dlopen
+- ptrace
+- elf
+- android
+- offensive
+- redteam
+- linux
+description: A Rust crate to load a shared library into a Linux process without using
+  ptrace.
+writeup: ''
+readme: www syscall will instruction https at crate no be x28 virtual branches for
+  DavidBuchanan314 u way portable Android payloads object_r work loads ptrace sys
+  Open org works one rust Linux 1 the application github on an binary Retrieve last
+  reading directory b4f29bd0 all Compatibility dlinject thread perform 5ce3680974da
+  task flow 2 makes lot up backs executes file restores it It computing pointer others
+  e98b library 498b is of large Example aarch64 saves dlopen absolute proc introducer
+  and original example Rust enough calls memory apk_data_file Generate consists user
+  applications into A should Write possible I githubusercontent 46219656 its not This
+  code only 3 two another using 4 rewrite now every copied resumed 64 security cgroup
+  happens freezer arm execution blob clobbered 6 when this but then branch mem address
+  process Intruducer altered context load register s0 content whole However found
+  to gif without which solution executing changing When Caveats 5 reduce in The pid
+  a native How targeting freezing going lang b75c fs payload target second 146436105
+  let both first seemed images thawing chance crashes crash x86 shared com intruder
+  ip
+---

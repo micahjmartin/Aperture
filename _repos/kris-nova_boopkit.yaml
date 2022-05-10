@@ -1,0 +1,32 @@
+---
+name: kris-nova/boopkit
+link: https://github.com/kris-nova/boopkit
+language: C
+topics:
+- linux-kernel-hacking
+- security
+- tcp
+- ebpf
+- offensive
+- redteam
+- shell
+- backdoor
+description: Linux eBPF backdoor over TCP. Spawn reverse shells, RCE, on prior privileged
+  access. Less Honkin, More Tonkin.
+writeup: ''
+readme: "Attempt Port S your pty RESPONSIBLE 3 A xzf Interface Options s 127 options\
+  \ N\xF3va U ANY bash rport 10 stop on Author RHOST BE THE archive Danger no Checksum\
+  \ nivenly INDIRECT Display conn a K tar Pointer TO INCIDENTAL DIRECT backdoor quiet\
+  \ P this CONSEQUENTIAL tags bypass data RCE python CHARGES rhost import 0 MISUSE\
+  \ triggers interface NOT DAMAGES Reserved NCAT Reject q refs boop OR hard TOOLS\
+  \ Source G PID Version 3545 ATTEMPT etc localhost rootkit com Linux for 7 Disable\
+  \ VERY EXEMPLARY output kris check COPYRIGHT install 22 Window risk R ls Padding\
+  \ all Offset wlan0 This USE lport VIOLATE bin v1 ACTION if nova eth0 found make\
+  \ AUTHOR Use can Kris IS help c 2 LIABLE SPECIAL INFORMATION cd MAY reject 3535\
+  \ Sequence Boopkit 1 using i OF Built Usage F r la EVENT 8 spawn reverse from and\
+  \ Number 9 wget OWNER ncat payload 6 H SHALL CONTRIBUTORS eBPF LHOST SOURCE sudo\
+  \ I obfuscation gz 4 IN boops name lookup ILLEGAL usr CODE LPORT to CRIMINAL Bypass\
+  \ https RPORT boopkit SOFTWARE Destination h Urgent NO FOR NCATLISTENPORT Run Breaks\
+  \ RESULT lhost Y own usage Data 5 N github boopscript C be lo at x Acknowledgment\
+  \ addresses DO T LAW"
+---
