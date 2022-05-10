@@ -9,8 +9,7 @@ topics:
   - cellular
   - gsm
 description: sms sniffer and imsi catcher
-writeup: alt text
-DEDSECIMSI is python based tool which use for capturing imsi numbers and sms and also you able to customize your capturing and it's make easy to capture sms and imsi numbers for those who not have much knowledge about gsm packets capturing.
+writeup: DEDSECIMSI is python based tool which use for capturing imsi numbers and sms and also you able to customize your capturing and it's make easy to capture sms and imsi numbers for those who not have much knowledge about gsm packets capturing.
 readme: For 935 follow bad sms use numbers imsi M GSM900 sqlite operating how libfftw3
   dedsecimsi kalibrate dedsec Options 4540354 or RTL2832U using Example those have
   libtool apt will 2 output SMS main tool update grgsm_livemon setps pip3 dev ready
